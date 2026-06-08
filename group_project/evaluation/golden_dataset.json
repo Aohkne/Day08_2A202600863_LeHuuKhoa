@@ -1,7 +1,7 @@
 [
   {
-    "question": "Hình phạt cho tội tàng trữ trái phép chất ma tuý theo Điều 249 Bộ luật Hình sự?",
-    "expected_answer": "Phạt tù từ 1 đến 5 năm đối với trường hợp tàng trữ từ 1g đến dưới 5g heroin hoặc cocaine, hoặc chất ma tuý khác với khối lượng tương đương.",
+    "question": "Hình phạt cho tội tàng trữ trái phép chất ma tuý theo Bộ luật Hình sự?",
+    "expected_answer": "Phạt tù từ 1 đến 5 năm đối với trường hợp tàng trữ từ 1g đến dưới 5g heroin hoặc cocaine.",
     "expected_context": "Bộ luật Hình sự 2015, Điều 249"
   },
   {
@@ -11,7 +11,67 @@
   },
   {
     "question": "Danh mục các chất ma tuý thuộc nhóm I theo quy định pháp luật Việt Nam gồm những chất nào?",
-    "expected_answer": "Nhóm I gồm các chất ma tuý tuyệt đối cấm sử dụng trong y học và đời sống, bao gồm heroin, cocaine, methamphetamine, MDMA (ecstasy), cannabis (cần sa), và các chất tương tự.",
+    "expected_answer": "Nhóm I gồm các chất ma tuý tuyệt đối cấm sử dụng trong y học và đời sống, bao gồm heroin, cocaine, methamphetamine, MDMA.",
     "expected_context": "Nghị định 57/2022/NĐ-CP, Phụ lục I"
+  },
+  {
+    "question": "Tội sản xuất trái phép chất ma tuý bị phạt bao nhiêu năm tù?",
+    "expected_answer": "Tội sản xuất trái phép chất ma tuý có thể bị phạt tù từ 2 năm đến tử hình tùy theo số lượng và tình tiết tăng nặng.",
+    "expected_context": "Bộ luật Hình sự 2015, Điều 248"
+  },
+  {
+    "question": "Người nghiện ma tuý có quyền và nghĩa vụ gì theo Luật Phòng chống ma tuý 2021?",
+    "expected_answer": "Người nghiện ma tuý có quyền được tư vấn, hỗ trợ điều trị cai nghiện và có nghĩa vụ khai báo, tham gia cai nghiện theo quy định.",
+    "expected_context": "Luật Phòng chống ma tuý 2021, Chương III"
+  },
+  {
+    "question": "Mức phạt tiền cho hành vi sử dụng trái phép chất ma tuý là bao nhiêu?",
+    "expected_answer": "Người sử dụng trái phép chất ma tuý bị phạt tiền từ 500.000 đồng đến 1.000.000 đồng theo quy định về xử phạt vi phạm hành chính.",
+    "expected_context": "Nghị định về xử phạt vi phạm hành chính trong lĩnh vực an ninh trật tự"
+  },
+  {
+    "question": "Trách nhiệm của gia đình trong công tác phòng, chống ma tuý là gì?",
+    "expected_answer": "Gia đình có trách nhiệm giáo dục thành viên về tác hại của ma tuý, phòng ngừa thành viên sử dụng trái phép và phối hợp với chính quyền trong cai nghiện.",
+    "expected_context": "Luật Phòng chống ma tuý 2021, Điều 8"
+  },
+  {
+    "question": "Nghệ sĩ Việt Nam nào liên quan đến vụ bắt giữ ma tuý gần đây?",
+    "expected_answer": "Theo các bài báo được thu thập, một số nghệ sĩ Việt Nam đã bị bắt giữ hoặc liên quan đến các vụ việc ma tuý trong những năm gần đây.",
+    "expected_context": "Bài báo tin tức về nghệ sĩ và ma tuý"
+  },
+  {
+    "question": "Hình phạt cho tội mua bán trái phép chất ma tuý theo Điều 251 Bộ luật Hình sự?",
+    "expected_answer": "Tội mua bán trái phép chất ma tuý bị phạt tù từ 2 năm đến 20 năm hoặc tù chung thân hoặc tử hình tùy theo khối lượng và tình tiết.",
+    "expected_context": "Bộ luật Hình sự 2015, Điều 251"
+  },
+  {
+    "question": "Cơ quan nào có thẩm quyền quyết định áp dụng biện pháp cai nghiện bắt buộc?",
+    "expected_answer": "Ủy ban nhân dân cấp huyện có thẩm quyền quyết định áp dụng biện pháp cai nghiện bắt buộc tại cơ sở cai nghiện ma tuý.",
+    "expected_context": "Luật Phòng chống ma tuý 2021, Điều 32"
+  },
+  {
+    "question": "Thời gian cai nghiện bắt buộc tối thiểu và tối đa là bao nhiêu?",
+    "expected_answer": "Thời gian cai nghiện bắt buộc từ 12 tháng đến 24 tháng tại cơ sở cai nghiện ma tuý.",
+    "expected_context": "Luật Phòng chống ma tuý 2021, Điều 33"
+  },
+  {
+    "question": "Ma tuý tổng hợp là gì và có những loại nào phổ biến tại Việt Nam?",
+    "expected_answer": "Ma tuý tổng hợp là các chất được tổng hợp hoá học, phổ biến tại Việt Nam gồm methamphetamine (đá), MDMA (ecstasy), ketamine.",
+    "expected_context": "Luật Phòng chống ma tuý 2021, quy định về chất ma tuý"
+  },
+  {
+    "question": "Người nước ngoài phạm tội ma tuý tại Việt Nam bị xử lý như thế nào?",
+    "expected_answer": "Người nước ngoài phạm tội ma tuý tại Việt Nam bị xử lý theo pháp luật Việt Nam, có thể bị trục xuất sau khi chấp hành xong hình phạt.",
+    "expected_context": "Bộ luật Hình sự 2015, quy định về người nước ngoài phạm tội"
+  },
+  {
+    "question": "Tội vận chuyển trái phép chất ma tuý có mức phạt tù cao nhất là bao nhiêu?",
+    "expected_answer": "Tội vận chuyển trái phép chất ma tuý có thể bị phạt tù chung thân hoặc tử hình khi khối lượng vận chuyển lớn và có tình tiết tăng nặng.",
+    "expected_context": "Bộ luật Hình sự 2015, Điều 250"
+  },
+  {
+    "question": "Các biện pháp quản lý sau cai nghiện bao gồm những gì?",
+    "expected_answer": "Sau cai nghiện, người nghiện được quản lý tại nơi cư trú, được hỗ trợ tái hoà nhập cộng đồng, giáo dục nghề nghiệp và theo dõi y tế định kỳ.",
+    "expected_context": "Luật Phòng chống ma tuý 2021, Chương VI"
   }
 ]
