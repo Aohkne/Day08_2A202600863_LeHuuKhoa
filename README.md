@@ -518,7 +518,48 @@ run_dashboard()
 ### Kiến Trúc Hệ Thống
 
 ```
-[Vẽ diagram kiến trúc ở đây]
+[Query Input]
+     │
+     ▼
+┌──────────────────────────────────────────────────────┐
+│              Task 9: Retrieval Pipeline              │
+│                                                      │
+│  ┌─────────────────┐       ┌─────────────────────┐   │
+│  │ Semantic Search  │       │   Lexical Search     │ │
+│  │  Task 5          │       │   Task 6 (BM25)      │  │
+│  │  ChromaDB        │       │   rank-bm25          │  │
+│  │  all-MiniLM-L6   │       │                      │  │
+│  └────────┬─────────┘       └──────────┬───────────┘  │
+│           │                            │              │
+│           └───────────┬────────────────┘              │
+│                       │ RRF Fusion (k=60)             │
+│                       ▼                               │
+│           ┌───────────────────────┐                  │
+│           │  Task 7: Reranking    │                  │
+│           │  Jina Reranker v2     │                  │
+│           │  (cross-encoder)      │                  │
+│           └───────────┬───────────┘                  │
+│                       │                              │
+│              score < threshold?                      │
+│                       │ YES                          │
+│                       ▼                              │
+│           ┌───────────────────────┐                  │
+│           │  Task 8: PageIndex    │                  │
+│           │  (Vectorless Fallback)│                  │
+│           └───────────────────────┘                  │
+└──────────────────────────────────────────────────────┘
+     │
+     ▼
+┌──────────────────────────────────────┐
+│       Task 10: Generation            │
+│  1. Reorder chunks (Lost-in-Middle)  │
+│  2. Format context với metadata      │
+│  3. NVIDIA Llama 3.1 Nemotron 70B    │
+│  4. Return answer + citations        │
+└──────────────────────────────────────┘
+     │
+     ▼
+[Answer with Citations]
 ```
 
 ---
@@ -527,10 +568,9 @@ run_dashboard()
 
 | Thành viên | MSSV | Nhiệm vụ | Trạng thái |
 |-----------|------|----------|------------|
-| | | | |
-| | | | |
-| | | | |
-| | | | |
+| Lê Hữu Khoa | 2A202600863 | **Yêu cầu 1**: Xây dựng giao diện RAG Chatbot (Streamlit), tích hợp conversation memory, hiển thị source documents; **Yêu cầu 2**: Chạy eval_pipeline.py, phân tích kết quả A/B | Hoàn thành |
+| Nguyễn Phan Duy Bảo | 2A202600688 | **Yêu cầu 1**: Tích hợp retrieval pipeline vào chatbot (hybrid search + Jina reranking + PageIndex fallback); **Yêu cầu 2**: Xây dựng golden_dataset.json (15 Q&A pairs) | Hoàn thành |
+| Trần Nguyễn Anh Thư | 2A202600915 | **Yêu cầu 1**: Tích hợp generation có citation (NVIDIA Llama 3.1 Nemotron 70B), thiết kế prompt; **Yêu cầu 2**: Viết báo cáo results.md, phân tích worst performers, đề xuất cải tiến | Hoàn thành |
 
 ---
 

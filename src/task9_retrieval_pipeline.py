@@ -27,7 +27,7 @@ from task8_pageindex_vectorless import pageindex_search
 # CONFIGURATION
 # =============================================================================
 
-SCORE_THRESHOLD = 0.3   # Neu best score < threshold -> fallback PageIndex
+SCORE_THRESHOLD = 0.01  # RRF scores max ~1/60≈0.017; fallback khi khong co ket qua
 DEFAULT_TOP_K = 5
 RERANK_METHOD = "cross_encoder"  # "cross_encoder" | "rrf" | "mmr"
 
