@@ -1,0 +1,375 @@
+# Từng khoe chi hơn trăm triệu mua sắm, rapper Bình Gold đời thật đi cướp taxi xin 30.000 đồng - Tuổi Trẻ Online
+
+**Source:** https://cuoi.tuoitre.vn/tung-khoe-chi-hon-tram-trieu-mua-sam-rapper-binh-gold-doi-that-di-cuop-taxi-xin-30-000-dong-20250802100003504.htm
+**Crawled:** 2026-06-08T12:31:35.582136
+
+---
+
+#  [ ![TUỔI TRẺ CƯỜI ONLINE](https://static.mediacdn.vn/tuoitre/web_images/logo-pc.png) ](https://cuoi.tuoitre.vn/ "TUỔI TRẺ CƯỜI ONLINE")
+  * ####  [ Xu hướng ](https://cuoi.tuoitre.vn/xu-huong.htm "Xu hướng")
+  * ####  [ Nổi bật ](https://cuoi.tuoitre.vn/noi-bat.htm "Nổi bật")
+  * ####  [ Đề xuất ](https://cuoi.tuoitre.vn/de-xuat.htm "Đề xuất")
+  * [](https://cuoi.tuoitre.vn/tung-khoe-chi-hon-tram-trieu-mua-sam-rapper-binh-gold-doi-that-di-cuop-taxi-xin-30-000-dong-20250802100003504.htm)
+    * [ ![Lẩu Thập Cẩm](https://static.mediacdn.vn/tuoitre/web_images/icon_lauthapcam.png) Lẩu Thập Cẩm ](https://cuoi.tuoitre.vn/lau-thap-cam.htm "Lẩu Thập Cẩm")
+    * [ ![Biếm Họa](https://static.mediacdn.vn/tuoitre/web_images/biemhoa.png) Biếm Họa ](https://cuoi.tuoitre.vn/biem-hoa.htm "Biếm Họa")
+    * [ ![Video](https://static.mediacdn.vn/tuoitre/web_images/video.png) Video ](https://cuoi.tuoitre.vn/video.htm "Video")
+    * [ ![Trạm hoạt hình](https://static-tuoitre.tuoitre.vn/tuoitre/web_images/tramhoathinh1.png) Trạm hoạt hình ](https://cuoi.tuoitre.vn/tram-hoat-hinh.htm "Trạm hoạt hình")
+    * [ ![Showbiz Muôn Màu](https://static.mediacdn.vn/tuoitre/web_images/giaitri.png) Showbiz Muôn Màu ](https://cuoi.tuoitre.vn/showbiz-muon-mau.htm "Showbiz Muôn Màu")
+    * [ ![Truyện Tranh](https://static.mediacdn.vn/tuoitre/web_images/truyentranh.png) Truyện Tranh ](https://cuoi.tuoitre.vn/truyen-tranh.htm "Truyện Tranh")
+    * [ ![Đời Cười](https://static.mediacdn.vn/tuoitre/web_images/doicuoi.png) Đời Cười ](https://cuoi.tuoitre.vn/doi-cuoi.htm "Đời Cười")
+    * [ ![Phòng mạch Tả Pí Lù](https://static-tuoitre.tuoitre.vn/tuoitre/images/icon-pmtpl.png) Phòng mạch Tả Pí Lù ](https://cuoi.tuoitre.vn/phong-mach-ta-pi-lu.htm "Sức Khỏe")
+    * [ ![Thể Thao Cười](https://static.mediacdn.vn/tuoitre/web_images/the-thao.png) Thể Thao Cười ](https://cuoi.tuoitre.vn/the-thao-cuoi.htm "Thể Thao Cười")
+    * [ ![GameZone](https://static.mediacdn.vn/tuoitre/web_images/icon-gamezone.png) GameZone ](https://cuoi.tuoitre.vn/gamezone.htm "GameZone")
+
+
+[ Gửi tin ](https://cuoi.tuoitre.vn/gui-bai.htm "Gửi tin")
+###  [ ![Showbiz muôn màu](https://static.mediacdn.vn/tuoitre/web_images/ct_showbiz_muon_mau.png) ](https://cuoi.tuoitre.vn/showbiz-muon-mau.htm "SHOWBIZ MUÔN MÀU")
+# Từng khoe chi hơn trăm triệu mua sắm, rapper Bình Gold đời thật đi cướp taxi xin 30.000 đồng
+[**TRAI ÚC**](https://cuoi.tuoitre.vn/nhan-vat/trai-uc.htm "TRAI ÚC")
+Đăng lúc 10:30 | 02/08/2025
+**Từng khoe mua sắm hàng hiệu, đi siêu xe, du thuyền... rapper Bình Gold bị bắt khi đang 'phê' ma túy, cướp taxi vì không vay được 30.000 đồng.**
+[![Bình Gold - Ảnh 1.](https://cdn2.tuoitre.vn/thumb_w/730/471584752817336320/2025/8/2/tempimagej17ss3-17541036022851204242514.jpg)](https://cdn2.tuoitre.vn/471584752817336320/2025/8/2/tempimagej17ss3-17541036022851204242514.jpg "Rapper Bình Gold tại đồn công an.")
+Rapper Bình Gold tại đồn công an.
+Từng xuất hiện trên mạng xã hội với hình ảnh chi hơn 130 triệu đồng trong một lần mua sắm, khoe xe sang, du thuyền, rapper Bình Gold – tên thật là Vũ Xuân Bình, sinh năm 1997, giờ đây lại khiến dư luận choáng váng khi bị Công an TP.Hà Nội bắt giữ vì hành vi cướp tài sản.
+Điều đáng nói, sự việc bắt đầu từ một tình huống nam rapper xin tài xế taxi 30 nghìn đồng để mua thuốc lá nhưng bị từ chối.
+## Rapper Bình Gold dương tính với ma túy ketamin và cần sa
+Theo thông tin từ cơ quan công an, vụ việc xảy ra vào sáng 26-7. Khi đó, Bình Gold yêu cầu một tài xế tên N.V.B. chở từ khu đô thị Ciputra (phường Phú Thượng, Hà Nội) đi Bắc Ninh. Khi xe mới chạy được một đoạn, nam rapper bất ngờ kề ngón tay vào cổ tài xế, hỏi mượn 30 nghìn đồng để mua nước và thuốc lá. Bị từ chối, Bình tỏ thái độ khó chịu và tiếp tục gây áp lực khi xe kẹt đường.
+Khi đến khu vực đối diện Trung tâm Hội nghị Quốc gia, Bình yêu cầu tài xế lái xe vào làn khẩn cấp để vượt lên. Trước sự phản đối của tài xế, Bình tiếp tục kề tay vào cổ, giục đi nhanh, thậm chí đạp vào ghế lái và túm cổ áo nạn nhân. Hoảng sợ, anh B. dừng xe, tháo dây an toàn và bỏ chạy.
+[![Bình Gold - Ảnh 2.](https://cdn2.tuoitre.vn/thumb_w/730/471584752817336320/2025/8/2/tempimageezqvxa-1754103664459467736585.jpg)](https://cdn2.tuoitre.vn/471584752817336320/2025/8/2/tempimageezqvxa-1754103664459467736585.jpg "Hình ảnh Bình Gold bị bắt giữ khi cướp taxi.")
+Hình ảnh Bình Gold bị bắt giữ khi cướp taxi.
+Lợi dụng thời điểm đó, Bình leo lên ghế lái, điều khiển chiếc taxi chạy vào làn khẩn cấp, hướng về cầu Thanh Trì. Trên đường đi, Bình mở ví của tài xế, lấy 50 nghìn đồng rồi dừng lại mua nước ngọt, thuốc lá và bật lửa. 
+Hành trình "cướp xe tiêu dùng" kết thúc khi lực lượng công an bắt giữ Bình tại khu vực đê Xuân Quan (Hưng Yên). Kết quả kiểm tra nhanh cho thấy nam rapper dương tính với ma túy ketamin và cần sa.
+## Sự trái ngược giữa hình ảnh Bình Gold trên mạng xã hội và đời thực
+Làm việc với cơ quan chức năng, Bình Gold khai rằng lúc gây án đang trong trạng thái "phê" ma túy và muốn nhanh chóng về Quảng Ninh để gặp bạn. Anh ta khẳng định không dùng vũ lực với tài xế, nhưng các hành vi như đe doạ, giật cổ áo và giục tài xế vượt làn đã đủ cấu thành hành vi cướp tài sản.
+-- Quảng cáo --
+Điều khiến nhiều người ngỡ ngàng là sự trái ngược giữa hình ảnh Bình Gold trên mạng xã hội và đời thực. Trong một video từng gây bão, nam rapper xuất hiện tại cửa hàng thời trang, vung tiền không tiếc tay, chi hơn 130 triệu đồng trong một lần mua sắm. Hình ảnh đó khiến khán giả lầm tưởng anh là "rich kid", sinh ra trong gia đình giàu có, được "ông bà già lo hết" như câu rap đình đám một thời.
+Tuy nhiên, sau đó dân mạng bóc trần đó chỉ là một video quảng cáo cho một nhãn hàng. Trên thực tế, Bình sinh ra trong một gia đình bình thường ở Hải Phòng, từng làm thợ xăm trước khi lấn sân sang âm nhạc.
+[![Bình Gold - Ảnh 3.](https://cdn2.tuoitre.vn/thumb_w/730/471584752817336320/2025/8/2/sieu-17541038984851981651178.jpeg)](https://cdn2.tuoitre.vn/471584752817336320/2025/8/2/sieu-17541038984851981651178.jpeg "Bình Gold thường xuyên khoe hình ảnh bên xe sang.")
+Bình Gold thường xuyên khoe hình ảnh bên xe sang.
+[![Bình Gold - Ảnh 4.](https://cdn2.tuoitre.vn/thumb_w/730/471584752817336320/2025/8/2/tempimageuqvrqk-17541040292541136479297.jpg)](https://cdn2.tuoitre.vn/471584752817336320/2025/8/2/tempimageuqvrqk-17541040292541136479297.jpg "Check in tại khoang máy bay hạng thương gia.")
+Check in tại khoang máy bay hạng thương gia.
+[![Bình Gold - Ảnh 5.](https://cdn2.tuoitre.vn/thumb_w/730/471584752817336320/2025/8/2/tempimagevg2jnl-1754104075833740354967.jpg)](https://cdn2.tuoitre.vn/471584752817336320/2025/8/2/tempimagevg2jnl-1754104075833740354967.jpg "Hàng hiệu phủ kín người.")
+Hàng hiệu phủ kín người.
+Gia nhập cộng đồng underground, Bình Gold nhanh chóng nổi lên nhờ loạt bản rap "diss" như _Bốc bát họ, Ông bà già tao lo hết, Lái máy bay._.. Dù lời lẽ đầy thô tục và công kích, các sản phẩm này lại giúp anh trở thành hiện tượng mạng, sở hữu fanpage với hơn 500 nghìn người theo dõi, liên tục đi show trong và ngoài nước.
+Tuy nhiên, ánh hào quang cũng kéo theo không ít tranh cãi. Năm 2020, Đài Truyền hình Việt Nam từng "chỉ mặt gọi tên" Bình Gold vì các ca khúc phản cảm, bị đánh giá là có nội dung độc hại và ảnh hưởng xấu đến giới trẻ. Không ít lần, giới truyền thông lẫn cộng đồng mạng lên tiếng chỉ trích phong cách âm nhạc ngổ ngáo, phi chuẩn mực của anh.
+[![Bình Gold - Ảnh 6.](https://cdn2.tuoitre.vn/thumb_w/730/471584752817336320/2025/8/2/binh1-06115938-1754104102585546594773.jpg)](https://cdn2.tuoitre.vn/471584752817336320/2025/8/2/binh1-06115938-1754104102585546594773.jpg "Các MV của Bình Gold liên tục bị chỉ trích, lên án vì hình ảnh phản cảm, ngôn từ dung tục.")
+Các MV của Bình Gold liên tục bị chỉ trích, lên án vì hình ảnh phản cảm, ngôn từ dung tục.
+Vụ việc cướp taxi của Bình Gold không chỉ gây xôn xao giới giải trí mà còn làm dấy lên những lo ngại về lối sống lệch chuẩn của một bộ phận nghệ sĩ mạng. Từ hình ảnh "rapper nhà giàu" chi tiền trăm triệu, đi show nước ngoài, đến hành vi cướp xe, xin 30.000 đồng trong cơn phê ma túy, Bình Gold đang cho thấy một cú trượt dài không phanh - cả trong âm nhạc lẫn đời thực. 
+Hiện cơ quan công an tiếp tục điều tra, làm rõ hành vi cướp tài sản của Vũ Xuân Bình.  
+|  [![Từng khoe chi hơn trăm triệu mua sắm, rapper Bình Gold đời thật đi cướp taxi xin 30 nghìn - Ảnh 3.](https://cdn2.tuoitre.vn/thumb_w/730/471584752817336320/2025/8/1/thao01-17540358616151919801031.jpg)](https://cuoi.tuoitre.vn/nguoi-mau-cuoi-dai-gia-nghin-ti-hon-26-tuoi-duoc-chong-giao-het-tai-san-20250801150236461.htm)[Người mẫu cưới đại gia nghìn tỉ hơn 26 tuổi, được chồng giao hết tài sản](https://cuoi.tuoitre.vn/nguoi-mau-cuoi-dai-gia-nghin-ti-hon-26-tuoi-duoc-chong-giao-het-tai-san-20250801150236461.htm) Sau ca mổ cắt túi mật, Phan Như Thảo chọn sống lạc quan, được chồng doanh nhân chăm sóc tận tình, yêu chiều như bà hoàng.  |  [![Từng khoe chi hơn trăm triệu mua sắm, rapper Bình Gold đời thật đi cướp taxi xin 30 nghìn - Ảnh 4.](https://cdn2.tuoitre.vn/thumb_w/730/471584752817336320/2025/8/1/toctien-1754020867305161315290-232-0-632-640-crop-17540210142451966683734.jpeg)](https://cuoi.tuoitre.vn/thuc-hu-vo-chong-toc-tien-rao-ban-biet-thu-hang-chuc-ti-o-thao-dien-2025080110570523.htm)[Thực hư vợ chồng Tóc Tiên rao bán biệt thự hàng chục tỉ ở Thảo Điền](https://cuoi.tuoitre.vn/thuc-hu-vo-chong-toc-tien-rao-ban-biet-thu-hang-chuc-ti-o-thao-dien-2025080110570523.htm) Biệt thự 270m² của Tóc Tiên bất ngờ xuất hiện tràn lan trên các trang rao bán nhà đất với giá gần 25 tỉ đồng. Tuy nhiên thực tế ra sao?  |  [![Từng khoe chi hơn trăm triệu mua sắm, rapper Bình Gold đời thật đi cướp taxi xin 30 nghìn - Ảnh 5.](https://cdn2.tuoitre.vn/thumb_w/730/471584752817336320/2025/8/1/ynhi02-17540184317421545795178.jpg)](https://cuoi.tuoitre.vn/ly-do-hoa-hau-y-nhi-thong-bao-roi-showbiz-20250801101845403.htm)[Lý do Hoa hậu Ý Nhi thông báo rời showbiz?](https://cuoi.tuoitre.vn/ly-do-hoa-hau-y-nhi-thong-bao-roi-showbiz-20250801101845403.htm) Sau thời gian trở lại ồn ào tại 'Miss World 2025', hoa hậu Ý Nhi bất ngờ thông báo rời showbiz lần nữa khiến công chúng không khỏi tò mò.  |  
+| --- | --- | --- |  
+[ ](javascript:;)
+Tặng sao
+Chuyển sao tặng cho thành viên
+  * x1 
+  * x5 
+  * x10 
+
+
+Hoặc nhập số sao
+Bạn đang có: **0** **sao**
+Số sao không đủ. [Nạp thêm sao](javascript:;)
+[Tặng sao](javascript:; "Tặng sao") [Tặng sao](javascript:; "Tặng sao") [Tặng sao](javascript:; "Tặng sao")
+Tặng sao thành công
+Bạn đã tặng 0 Cho tác giả
+[Hoàn thành](javascript:;)
+Tặng sao không thành công
+Đã có lỗi xảy ra, mời bạn quay lại bài viết và thực hiện lại thao tác
+[Quay lại bài viết](javascript:;)
+BÌNH LUẬN HAY 
+Previous
+  * ![Cảnh báo một số ca khúc có ca từ phản cảm, cổ xúy tệ nạn](https://cdn2.tuoitre.vn/zoom/30_30/471584752817336320/2025/10/23/4505-1761190353555171949717.png)[Bình Gold](https://cuoi.tuoitre.vn/binh-gold.html "Bình Gold")
+  * ![Rapper underground Mr. Nhân - Mai Thế Nhân là ai?](https://cdn2.tuoitre.vn/zoom/30_30/471584752817336320/2026/5/28/mr-nhan-3-1779980070167547805193-0-0-1200-1920-crop-1779980368844111273136.jpg)[rapper](https://cuoi.tuoitre.vn/rapper.html "rapper")
+  * ![Khách quay lại TP.HCM sau lễ, taxi và xe công nghệ đón nhanh ở Tân Sơn Nhất](https://cdn2.tuoitre.vn/zoom/30_30/471584752817336320/2026/5/2/mvimg20260502191402-17777275638662006293443-320-0-1920-2560-crop-1777727910739981735474.jpg)[taxi](https://cuoi.tuoitre.vn/taxi.html "taxi")
+Next 
+
+[ ![Hữu Vi tái xuất màn ảnh, có còn phong độ 'nam thần' như xưa?](https://cdn2.tuoitre.vn/zoom/150_113/471584752817336320/2025/8/1/vi02-1754045932866403108219.jpg) ](https://cuoi.tuoitre.vn/huu-vi-tai-xuat-man-anh-co-con-phong-do-nam-than-nhu-xua-20250801175157492.htm "Hữu Vi tái xuất màn ảnh, có còn phong độ 'nam thần' như xưa?")
+####  [Hữu Vi tái xuất màn ảnh, có còn phong độ 'nam thần' như xưa?](https://cuoi.tuoitre.vn/huu-vi-tai-xuat-man-anh-co-con-phong-do-nam-than-nhu-xua-20250801175157492.htm "Hữu Vi tái xuất màn ảnh, có còn phong độ 'nam thần' như xưa?")
+[ ![Lý do Hoa hậu Ý Nhi thông báo rời showbiz?](https://cdn2.tuoitre.vn/zoom/150_113/471584752817336320/2025/8/1/ynhi02-17540184317421545795178.jpg) ](https://cuoi.tuoitre.vn/ly-do-hoa-hau-y-nhi-thong-bao-roi-showbiz-20250801101845403.htm "Lý do Hoa hậu Ý Nhi thông báo rời showbiz?")
+####  [Lý do Hoa hậu Ý Nhi thông báo rời showbiz?](https://cuoi.tuoitre.vn/ly-do-hoa-hau-y-nhi-thong-bao-roi-showbiz-20250801101845403.htm "Lý do Hoa hậu Ý Nhi thông báo rời showbiz?")
+[Chia sẻ](javascript:void\(0\); "chia sẻ facebook")
+Bình luận (0)
+![thông tin tài khoản](https://statictuoitre.mediacdn.vn/zoom/50_50/web_images/Avatar.jpg)
+Tối đa: **1500 ký tự**
+Gửi bình luận 
+[X](javascript:; "Xóa sticker")
+Được quan tâm nhất Mới nhất [Tặng sao cho thành viên](https://sso.tuoitre.vn/transfer-star)
+Hiện chưa có bình luận nào, hãy là người đầu tiên bình luận 
+Xem thêm
+Xem tất cả bình luận 
+Tin Mới Nhất
+[ ![Quiz: Điểm mạnh lớn nhất của bạn là gì?](https://cdn2.tuoitre.vn/zoom/345_432/471584752817336320/2026/6/7/la-17808681064751316951894-95-96-439-440-crop-1780868191852439399111.jpg) ](https://cuoi.tuoitre.vn/quiz-diem-manh-lon-nhat-cua-ban-la-gi-20260608043725889.htm "Quiz: Điểm mạnh lớn nhất của bạn là gì?")
+##  [Quiz: Điểm mạnh lớn nhất của bạn là gì?](https://cuoi.tuoitre.vn/quiz-diem-manh-lon-nhat-cua-ban-la-gi-20260608043725889.htm "Quiz: Điểm mạnh lớn nhất của bạn là gì?")
+[![Lẩu Thập Cẩm](https://static.mediacdn.vn/tuoitre/web_images/icon_lauthapcam.png)Lẩu thập cẩm](https://cuoi.tuoitre.vn/lau-thap-cam.htm "Lẩu thập cẩm")
+[ ![Vô địch Roland Garros, Zverev đùa HLV đừng mơ ‘thưởng nóng’](https://cdn2.tuoitre.vn/zoom/345_432/471584752817336320/2026/6/8/roland-garros-zverev-1780886099681547154483-0-361-1172-1533-crop-17808862406849122868.jpg) ](https://cuoi.tuoitre.vn/vo-dich-roland-garros-zverev-dua-hlv-dung-mo-thuong-nong-20260608093901484.htm "Vô địch Roland Garros, Zverev đùa HLV đừng mơ ‘thưởng nóng’")
+##  [Vô địch Roland Garros, Zverev đùa HLV đừng mơ ‘thưởng nóng’](https://cuoi.tuoitre.vn/vo-dich-roland-garros-zverev-dua-hlv-dung-mo-thuong-nong-20260608093901484.htm "Vô địch Roland Garros, Zverev đùa HLV đừng mơ ‘thưởng nóng’")
+[![Thể thao cười](https://static.mediacdn.vn/tuoitre/web_images/the-thao.png)Thể Thao Cười](https://cuoi.tuoitre.vn/the-thao-cuoi.htm "Thể Thao Cười")
+[ ![Thử tài IQ: Di chuyển một que diêm để 13-7=5 thành phép tính đúng](https://cdn2.tuoitre.vn/zoom/345_432/471584752817336320/2026/6/8/top-1-17808801585881988570794-97-1-1411-1315-crop-17808802343071078951541.jpg) ](https://cuoi.tuoitre.vn/thu-tai-iq-di-chuyen-mot-que-diem-de-13-7-5-thanh-phep-tinh-dung-20260608075815818.htm "Thử tài IQ: Di chuyển một que diêm để 13-7=5 thành phép tính đúng")
+##  [Thử tài IQ: Di chuyển một que diêm để 13-7=5 thành phép tính đúng](https://cuoi.tuoitre.vn/thu-tai-iq-di-chuyen-mot-que-diem-de-13-7-5-thanh-phep-tinh-dung-20260608075815818.htm "Thử tài IQ: Di chuyển một que diêm để 13-7=5 thành phép tính đúng")
+[![Lẩu Thập Cẩm](https://static.mediacdn.vn/tuoitre/web_images/icon_lauthapcam.png)Lẩu thập cẩm](https://cuoi.tuoitre.vn/lau-thap-cam.htm "Lẩu thập cẩm")
+[ ![10 việc cần làm trong thời buổi 'hở tí là ngộ độc thực phẩm'](https://cdn2.tuoitre.vn/zoom/345_432/471584752817336320/2026/6/4/ttc-biem-hoa-top-10-an-toan-thuc-pham-ban-ttc-1780542798084679176924-29-132-550-653-crop-1780542828165993345518.jpg) ](https://cuoi.tuoitre.vn/10-viec-can-lam-trong-thoi-buoi-ho-ti-la-ngo-doc-thuc-pham-20260604102155615.htm "10 việc cần làm trong thời buổi 'hở tí là ngộ độc thực phẩm'")
+##  [10 việc cần làm trong thời buổi 'hở tí là ngộ độc thực phẩm'](https://cuoi.tuoitre.vn/10-viec-can-lam-trong-thoi-buoi-ho-ti-la-ngo-doc-thuc-pham-20260604102155615.htm "10 việc cần làm trong thời buổi 'hở tí là ngộ độc thực phẩm'")
+[![Biếm họa](https://static.mediacdn.vn/tuoitre/web_images/biemhoa.png)Biếm Họa](https://cuoi.tuoitre.vn/biem-hoa.htm "Biếm Họa")
+[ ![Lỡ World Cup, Camavinga lên giảng đường Harvard](https://cdn2.tuoitre.vn/zoom/345_432/471584752817336320/2026/6/7/camavinga-17808201281661913357553-274-0-1457-1183-crop-17808202137871922035590.jpg) ](https://cuoi.tuoitre.vn/lo-world-cup-camavinga-len-giang-duong-harvard-20260607151850543.htm "Lỡ World Cup, Camavinga lên giảng đường Harvard")
+##  [Lỡ World Cup, Camavinga lên giảng đường Harvard](https://cuoi.tuoitre.vn/lo-world-cup-camavinga-len-giang-duong-harvard-20260607151850543.htm "Lỡ World Cup, Camavinga lên giảng đường Harvard")
+[![Thể thao cười](https://static.mediacdn.vn/tuoitre/web_images/the-thao.png)Thể Thao Cười](https://cuoi.tuoitre.vn/the-thao-cuoi.htm "Thể Thao Cười")
+[ ![Ca sĩ Đình Dũng ngừng diễn ở quán bar vì thức khuya không nổi](https://cdn2.tuoitre.vn/zoom/345_432/471584752817336320/2026/6/8/12995708625686348034392518910434815059219087n-1-17808862433741517109654-41-108-691-1147-crop-1780886464749398962511-0-164-650-814-crop-17808904911731192766821.jpg) ](https://cuoi.tuoitre.vn/ca-si-dinh-dung-ngung-dien-o-quan-bar-vi-thuc-khuya-khong-noi-20260608094134489.htm "Ca sĩ Đình Dũng ngừng diễn ở quán bar vì thức khuya không nổi")
+##  [Ca sĩ Đình Dũng ngừng diễn ở quán bar vì thức khuya không nổi](https://cuoi.tuoitre.vn/ca-si-dinh-dung-ngung-dien-o-quan-bar-vi-thuc-khuya-khong-noi-20260608094134489.htm "Ca sĩ Đình Dũng ngừng diễn ở quán bar vì thức khuya không nổi")
+[![Showbiz muôn màu](https://static.mediacdn.vn/tuoitre/web_images/giaitri.png) SHOWBIZ MUÔN MÀU](https://cuoi.tuoitre.vn/showbiz-muon-mau.htm "SHOWBIZ MUÔN MÀU")
+[ ![VTV đã có bản quyền World Cup còn ông chồng này thì chưa](https://cdn2.tuoitre.vn/zoom/345_432/471584752817336320/2026/6/8/tranh-biem-hoa-ban-quyen-world-cup-ok-2-1780891984463881872953-280-59-1167-946-crop-17808920395001258015915.jpg) ](https://cuoi.tuoitre.vn/vtv-da-co-ban-quyen-world-cup-con-ong-chong-nay-thi-chua-20260608111641151.htm "VTV đã có bản quyền World Cup còn ông chồng này thì chưa")
+##  [VTV đã có bản quyền World Cup còn ông chồng này thì chưa](https://cuoi.tuoitre.vn/vtv-da-co-ban-quyen-world-cup-con-ong-chong-nay-thi-chua-20260608111641151.htm "VTV đã có bản quyền World Cup còn ông chồng này thì chưa")
+[![Biếm họa](https://static.mediacdn.vn/tuoitre/web_images/biemhoa.png)Biếm Họa](https://cuoi.tuoitre.vn/biem-hoa.htm "Biếm Họa")
+[ ![Quiz: Bạn phản ứng thế nào khi mắc lỗi?](https://cdn2.tuoitre.vn/zoom/345_432/471584752817336320/2026/6/7/nui-1780868539729474286555-0-111-577-688-crop-17808686130241696156461.jpg) ](https://cuoi.tuoitre.vn/quiz-ban-phan-ung-the-nao-khi-mac-loi-20260608044444624.htm "Quiz: Bạn phản ứng thế nào khi mắc lỗi?")
+##  [Quiz: Bạn phản ứng thế nào khi mắc lỗi?](https://cuoi.tuoitre.vn/quiz-ban-phan-ung-the-nao-khi-mac-loi-20260608044444624.htm "Quiz: Bạn phản ứng thế nào khi mắc lỗi?")
+[![Lẩu Thập Cẩm](https://static.mediacdn.vn/tuoitre/web_images/icon_lauthapcam.png)Lẩu thập cẩm](https://cuoi.tuoitre.vn/lau-thap-cam.htm "Lẩu thập cẩm")
+[ ![Xúc động với nghĩa cử cao đẹp của 'tên trộm lương thiện'](https://cdn2.tuoitre.vn/zoom/345_432/471584752817336320/2026/6/8/gif-ten-trom-co-tam-17292313475751655165233-0-107-270-377-crop-17808775336691985164947.gif) ](https://cuoi.tuoitre.vn/xuc-dong-voi-nghia-cu-cao-dep-cua-ten-trom-luong-thien-20260608072218116.htm "Xúc động với nghĩa cử cao đẹp của 'tên trộm lương thiện'")
+##  [Xúc động với nghĩa cử cao đẹp của 'tên trộm lương thiện'](https://cuoi.tuoitre.vn/xuc-dong-voi-nghia-cu-cao-dep-cua-ten-trom-luong-thien-20260608072218116.htm "Xúc động với nghĩa cử cao đẹp của 'tên trộm lương thiện'")
+[![Trạm hoạt hình](https://static-tuoitre.tuoitre.vn/tuoitre/web_images/tramhoathinh1.png)Trạm Hoạt Hình](https://cuoi.tuoitre.vn/tram-hoat-hinh.htm "Trạm Hoạt Hình")
+[ ![Rắn độc xuất hiện quanh sân tập của tuyển Thụy Sĩ tại World Cup 2026](https://cdn2.tuoitre.vn/zoom/345_432/471584752817336320/2026/6/8/072c77db9b1e1a40430f-1780889000159454432123-0-764-1707-2471-crop-17808890986522076749867.jpg) ](https://cuoi.tuoitre.vn/ran-doc-xuat-hien-quanh-san-tap-cua-tuyen-thuy-si-tai-world-cup-2026-20260608102716662.htm "Rắn độc xuất hiện quanh sân tập của tuyển Thụy Sĩ tại World Cup 2026")
+##  [Rắn độc xuất hiện quanh sân tập của tuyển Thụy Sĩ tại World Cup 2026](https://cuoi.tuoitre.vn/ran-doc-xuat-hien-quanh-san-tap-cua-tuyen-thuy-si-tai-world-cup-2026-20260608102716662.htm "Rắn độc xuất hiện quanh sân tập của tuyển Thụy Sĩ tại World Cup 2026")
+[![Thể thao cười](https://static.mediacdn.vn/tuoitre/web_images/the-thao.png)Thể Thao Cười](https://cuoi.tuoitre.vn/the-thao-cuoi.htm "Thể Thao Cười")
+[ ![Quiz: Điểm mạnh lớn nhất của bạn là gì?](https://cdn2.tuoitre.vn/zoom/345_432/471584752817336320/2026/6/7/la-17808681064751316951894-95-96-439-440-crop-1780868191852439399111.jpg) ](https://cuoi.tuoitre.vn/quiz-diem-manh-lon-nhat-cua-ban-la-gi-20260608043725889.htm "Quiz: Điểm mạnh lớn nhất của bạn là gì?")
+##  [Quiz: Điểm mạnh lớn nhất của bạn là gì?](https://cuoi.tuoitre.vn/quiz-diem-manh-lon-nhat-cua-ban-la-gi-20260608043725889.htm "Quiz: Điểm mạnh lớn nhất của bạn là gì?")
+[![Lẩu Thập Cẩm](https://static.mediacdn.vn/tuoitre/web_images/icon_lauthapcam.png)Lẩu thập cẩm](https://cuoi.tuoitre.vn/lau-thap-cam.htm "Lẩu thập cẩm")
+[ ![Vô địch Roland Garros, Zverev đùa HLV đừng mơ ‘thưởng nóng’](https://cdn2.tuoitre.vn/zoom/345_432/471584752817336320/2026/6/8/roland-garros-zverev-1780886099681547154483-0-361-1172-1533-crop-17808862406849122868.jpg) ](https://cuoi.tuoitre.vn/vo-dich-roland-garros-zverev-dua-hlv-dung-mo-thuong-nong-20260608093901484.htm "Vô địch Roland Garros, Zverev đùa HLV đừng mơ ‘thưởng nóng’")
+##  [Vô địch Roland Garros, Zverev đùa HLV đừng mơ ‘thưởng nóng’](https://cuoi.tuoitre.vn/vo-dich-roland-garros-zverev-dua-hlv-dung-mo-thuong-nong-20260608093901484.htm "Vô địch Roland Garros, Zverev đùa HLV đừng mơ ‘thưởng nóng’")
+[![Thể thao cười](https://static.mediacdn.vn/tuoitre/web_images/the-thao.png)Thể Thao Cười](https://cuoi.tuoitre.vn/the-thao-cuoi.htm "Thể Thao Cười")
+[ ![Thử tài IQ: Di chuyển một que diêm để 13-7=5 thành phép tính đúng](https://cdn2.tuoitre.vn/zoom/345_432/471584752817336320/2026/6/8/top-1-17808801585881988570794-97-1-1411-1315-crop-17808802343071078951541.jpg) ](https://cuoi.tuoitre.vn/thu-tai-iq-di-chuyen-mot-que-diem-de-13-7-5-thanh-phep-tinh-dung-20260608075815818.htm "Thử tài IQ: Di chuyển một que diêm để 13-7=5 thành phép tính đúng")
+##  [Thử tài IQ: Di chuyển một que diêm để 13-7=5 thành phép tính đúng](https://cuoi.tuoitre.vn/thu-tai-iq-di-chuyen-mot-que-diem-de-13-7-5-thanh-phep-tinh-dung-20260608075815818.htm "Thử tài IQ: Di chuyển một que diêm để 13-7=5 thành phép tính đúng")
+[![Lẩu Thập Cẩm](https://static.mediacdn.vn/tuoitre/web_images/icon_lauthapcam.png)Lẩu thập cẩm](https://cuoi.tuoitre.vn/lau-thap-cam.htm "Lẩu thập cẩm")
+[ ![10 việc cần làm trong thời buổi 'hở tí là ngộ độc thực phẩm'](https://cdn2.tuoitre.vn/zoom/345_432/471584752817336320/2026/6/4/ttc-biem-hoa-top-10-an-toan-thuc-pham-ban-ttc-1780542798084679176924-29-132-550-653-crop-1780542828165993345518.jpg) ](https://cuoi.tuoitre.vn/10-viec-can-lam-trong-thoi-buoi-ho-ti-la-ngo-doc-thuc-pham-20260604102155615.htm "10 việc cần làm trong thời buổi 'hở tí là ngộ độc thực phẩm'")
+##  [10 việc cần làm trong thời buổi 'hở tí là ngộ độc thực phẩm'](https://cuoi.tuoitre.vn/10-viec-can-lam-trong-thoi-buoi-ho-ti-la-ngo-doc-thuc-pham-20260604102155615.htm "10 việc cần làm trong thời buổi 'hở tí là ngộ độc thực phẩm'")
+[![Biếm họa](https://static.mediacdn.vn/tuoitre/web_images/biemhoa.png)Biếm Họa](https://cuoi.tuoitre.vn/biem-hoa.htm "Biếm Họa")
+[ ![Lỡ World Cup, Camavinga lên giảng đường Harvard](https://cdn2.tuoitre.vn/zoom/345_432/471584752817336320/2026/6/7/camavinga-17808201281661913357553-274-0-1457-1183-crop-17808202137871922035590.jpg) ](https://cuoi.tuoitre.vn/lo-world-cup-camavinga-len-giang-duong-harvard-20260607151850543.htm "Lỡ World Cup, Camavinga lên giảng đường Harvard")
+##  [Lỡ World Cup, Camavinga lên giảng đường Harvard](https://cuoi.tuoitre.vn/lo-world-cup-camavinga-len-giang-duong-harvard-20260607151850543.htm "Lỡ World Cup, Camavinga lên giảng đường Harvard")
+[![Thể thao cười](https://static.mediacdn.vn/tuoitre/web_images/the-thao.png)Thể Thao Cười](https://cuoi.tuoitre.vn/the-thao-cuoi.htm "Thể Thao Cười")
+[ ![Ca sĩ Đình Dũng ngừng diễn ở quán bar vì thức khuya không nổi](https://cdn2.tuoitre.vn/zoom/345_432/471584752817336320/2026/6/8/12995708625686348034392518910434815059219087n-1-17808862433741517109654-41-108-691-1147-crop-1780886464749398962511-0-164-650-814-crop-17808904911731192766821.jpg) ](https://cuoi.tuoitre.vn/ca-si-dinh-dung-ngung-dien-o-quan-bar-vi-thuc-khuya-khong-noi-20260608094134489.htm "Ca sĩ Đình Dũng ngừng diễn ở quán bar vì thức khuya không nổi")
+##  [Ca sĩ Đình Dũng ngừng diễn ở quán bar vì thức khuya không nổi](https://cuoi.tuoitre.vn/ca-si-dinh-dung-ngung-dien-o-quan-bar-vi-thuc-khuya-khong-noi-20260608094134489.htm "Ca sĩ Đình Dũng ngừng diễn ở quán bar vì thức khuya không nổi")
+[![Showbiz muôn màu](https://static.mediacdn.vn/tuoitre/web_images/giaitri.png) SHOWBIZ MUÔN MÀU](https://cuoi.tuoitre.vn/showbiz-muon-mau.htm "SHOWBIZ MUÔN MÀU")
+[ ![VTV đã có bản quyền World Cup còn ông chồng này thì chưa](https://cdn2.tuoitre.vn/zoom/345_432/471584752817336320/2026/6/8/tranh-biem-hoa-ban-quyen-world-cup-ok-2-1780891984463881872953-280-59-1167-946-crop-17808920395001258015915.jpg) ](https://cuoi.tuoitre.vn/vtv-da-co-ban-quyen-world-cup-con-ong-chong-nay-thi-chua-20260608111641151.htm "VTV đã có bản quyền World Cup còn ông chồng này thì chưa")
+##  [VTV đã có bản quyền World Cup còn ông chồng này thì chưa](https://cuoi.tuoitre.vn/vtv-da-co-ban-quyen-world-cup-con-ong-chong-nay-thi-chua-20260608111641151.htm "VTV đã có bản quyền World Cup còn ông chồng này thì chưa")
+[![Biếm họa](https://static.mediacdn.vn/tuoitre/web_images/biemhoa.png)Biếm Họa](https://cuoi.tuoitre.vn/biem-hoa.htm "Biếm Họa")
+[ ![Quiz: Bạn phản ứng thế nào khi mắc lỗi?](https://cdn2.tuoitre.vn/zoom/345_432/471584752817336320/2026/6/7/nui-1780868539729474286555-0-111-577-688-crop-17808686130241696156461.jpg) ](https://cuoi.tuoitre.vn/quiz-ban-phan-ung-the-nao-khi-mac-loi-20260608044444624.htm "Quiz: Bạn phản ứng thế nào khi mắc lỗi?")
+##  [Quiz: Bạn phản ứng thế nào khi mắc lỗi?](https://cuoi.tuoitre.vn/quiz-ban-phan-ung-the-nao-khi-mac-loi-20260608044444624.htm "Quiz: Bạn phản ứng thế nào khi mắc lỗi?")
+[![Lẩu Thập Cẩm](https://static.mediacdn.vn/tuoitre/web_images/icon_lauthapcam.png)Lẩu thập cẩm](https://cuoi.tuoitre.vn/lau-thap-cam.htm "Lẩu thập cẩm")
+[ ![Xúc động với nghĩa cử cao đẹp của 'tên trộm lương thiện'](https://cdn2.tuoitre.vn/zoom/345_432/471584752817336320/2026/6/8/gif-ten-trom-co-tam-17292313475751655165233-0-107-270-377-crop-17808775336691985164947.gif) ](https://cuoi.tuoitre.vn/xuc-dong-voi-nghia-cu-cao-dep-cua-ten-trom-luong-thien-20260608072218116.htm "Xúc động với nghĩa cử cao đẹp của 'tên trộm lương thiện'")
+##  [Xúc động với nghĩa cử cao đẹp của 'tên trộm lương thiện'](https://cuoi.tuoitre.vn/xuc-dong-voi-nghia-cu-cao-dep-cua-ten-trom-luong-thien-20260608072218116.htm "Xúc động với nghĩa cử cao đẹp của 'tên trộm lương thiện'")
+[![Trạm hoạt hình](https://static-tuoitre.tuoitre.vn/tuoitre/web_images/tramhoathinh1.png)Trạm Hoạt Hình](https://cuoi.tuoitre.vn/tram-hoat-hinh.htm "Trạm Hoạt Hình")
+[ ![Rắn độc xuất hiện quanh sân tập của tuyển Thụy Sĩ tại World Cup 2026](https://cdn2.tuoitre.vn/zoom/345_432/471584752817336320/2026/6/8/072c77db9b1e1a40430f-1780889000159454432123-0-764-1707-2471-crop-17808890986522076749867.jpg) ](https://cuoi.tuoitre.vn/ran-doc-xuat-hien-quanh-san-tap-cua-tuyen-thuy-si-tai-world-cup-2026-20260608102716662.htm "Rắn độc xuất hiện quanh sân tập của tuyển Thụy Sĩ tại World Cup 2026")
+##  [Rắn độc xuất hiện quanh sân tập của tuyển Thụy Sĩ tại World Cup 2026](https://cuoi.tuoitre.vn/ran-doc-xuat-hien-quanh-san-tap-cua-tuyen-thuy-si-tai-world-cup-2026-20260608102716662.htm "Rắn độc xuất hiện quanh sân tập của tuyển Thụy Sĩ tại World Cup 2026")
+[![Thể thao cười](https://static.mediacdn.vn/tuoitre/web_images/the-thao.png)Thể Thao Cười](https://cuoi.tuoitre.vn/the-thao-cuoi.htm "Thể Thao Cười")
+‹›
+Tin mới SHOWBIZ MUÔN MÀU
+[ ![Ca sĩ Đình Dũng ngừng diễn ở quán bar vì thức khuya không nổi](https://cdn2.tuoitre.vn/zoom/350_200/471584752817336320/2026/6/8/12995708625686348034392518910434815059219087n-1-17808862433741517109654-41-108-691-1147-crop-1780886464749398962511-20-0-551-849-crop-1780890480798982652471.jpg) ](https://cuoi.tuoitre.vn/ca-si-dinh-dung-ngung-dien-o-quan-bar-vi-thuc-khuya-khong-noi-20260608094134489.htm "Ca sĩ Đình Dũng ngừng diễn ở quán bar vì thức khuya không nổi")
+####  [ Ca sĩ Đình Dũng ngừng diễn ở quán bar vì thức khuya không nổi ](https://cuoi.tuoitre.vn/ca-si-dinh-dung-ngung-dien-o-quan-bar-vi-thuc-khuya-khong-noi-20260608094134489.htm "Ca sĩ Đình Dũng ngừng diễn ở quán bar vì thức khuya không nổi")
+Khi chiếc đồng hồ sinh học lên tiếng biểu tình, ca sĩ Đình Dũng phải nói lời từ biệt những đêm diễn ở các quán bar, phòng trà… để đảm bảo sức khỏe.
+08/06/2026 12:30
+[ ![MV của Tóc Tiên bị chê 'ngang như đọc diễn văn'](https://cdn2.tuoitre.vn/zoom/350_200/471584752817336320/2026/6/7/toctienjpg-17808127508341126114208-0-13-675-1093-crop-1780813166447559386054.jpg) ](https://cuoi.tuoitre.vn/mv-cua-toc-tien-bi-che-ngang-nhu-doc-dien-van-20260607131857168.htm "MV của Tóc Tiên bị chê 'ngang như đọc diễn văn'")
+####  [ MV của Tóc Tiên bị chê 'ngang như đọc diễn văn' ](https://cuoi.tuoitre.vn/mv-cua-toc-tien-bi-che-ngang-nhu-doc-dien-van-20260607131857168.htm "MV của Tóc Tiên bị chê 'ngang như đọc diễn văn'")
+Sản phẩm âm nhạc mới của Tóc Tiên đang khiến khán giả bối rối vì phần nghe thì giống đọc diễn văn, còn phần nhìn lại đỏ mặt vì ngập tràn cảnh hôn.
+07/06/2026 15:32
+[ ![Diễn viên Lê Giang kêu cứu vì bị 'vạ lây' liên quan đến Sơn Tùng M-TP](https://cdn2.tuoitre.vn/zoom/350_200/471584752817336320/2026/6/7/legiang-17808091648131053951731-0-80-630-1088-crop-17808093299551255283010.jpg) ](https://cuoi.tuoitre.vn/dien-vien-le-giang-keu-cuu-vi-bi-va-lay-lien-quan-den-son-tung-m-tp-20260607121507392.htm "Diễn viên Lê Giang kêu cứu vì bị 'vạ lây' liên quan đến Sơn Tùng M-TP")
+####  [ Diễn viên Lê Giang kêu cứu vì bị 'vạ lây' liên quan đến Sơn Tùng M-TP ](https://cuoi.tuoitre.vn/dien-vien-le-giang-keu-cuu-vi-bi-va-lay-lien-quan-den-son-tung-m-tp-20260607121507392.htm "Diễn viên Lê Giang kêu cứu vì bị 'vạ lây' liên quan đến Sơn Tùng M-TP")
+Chỉ vì trùng tên với một nghệ sĩ thị giác, diễn viên Lê Giang bỗng dưng bị cư dân mạng nhắc tên giữa ồn ào bản quyền của ca sĩ Sơn Tùng M-TP.
+07/06/2026 12:36
+[ !['Nghệ sĩ Lê Giang có quyền khởi kiện Sơn Tùng M-TP và các bên liên quan'](https://cdn2.tuoitre.vn/zoom/350_200/471584752817336320/2026/6/6/sontung-17807357965611568319444-0-0-741-1186-crop-17807357995272069315814.jpg) ](https://cuoi.tuoitre.vn/nghe-si-le-giang-co-quyen-khoi-kien-son-tung-m-tp-va-cac-ben-lien-quan-20260606144000988.htm "'Nghệ sĩ Lê Giang có quyền khởi kiện Sơn Tùng M-TP và các bên liên quan'")
+####  [ 'Nghệ sĩ Lê Giang có quyền khởi kiện Sơn Tùng M-TP và các bên liên quan' ](https://cuoi.tuoitre.vn/nghe-si-le-giang-co-quyen-khoi-kien-son-tung-m-tp-va-cac-ben-lien-quan-20260606144000988.htm "'Nghệ sĩ Lê Giang có quyền khởi kiện Sơn Tùng M-TP và các bên liên quan'")
+Theo luật sư, nghệ sĩ Lê Giang – chủ nhân của tác phẩm ‘Tàn Chỉ’ - có quyền khởi kiện một hoặc đồng thời nhiều tổ chức, cá nhân liên quan, từ đơn vị thiết kế bối cảnh, nhà sản xuất MV cho đến chủ thể sở hữu và phát hành MV ‘Come my way’.
+06/06/2026 15:15
+[ ![Tác phẩm 'Tàn Chỉ' phía Sơn Tùng M-TP 'mượn' nhưng 'quên' xin phép có gì đặc biệt?](https://cdn2.tuoitre.vn/zoom/350_200/471584752817336320/2026/6/5/anh-chup-man-hinh-2026-06-04-10220120260604102211-17806539431381980605548-117-0-539-675-crop-1780654801786527402860.png) ](https://cuoi.tuoitre.vn/tac-pham-tan-chi-phia-son-tung-m-tp-muon-nhung-quen-xin-phep-co-gi-dac-biet-20260605170802486.htm "Tác phẩm 'Tàn Chỉ' phía Sơn Tùng M-TP 'mượn' nhưng 'quên' xin phép có gì đặc biệt?")
+####  [ Tác phẩm 'Tàn Chỉ' phía Sơn Tùng M-TP 'mượn' nhưng 'quên' xin phép có gì đặc biệt? ](https://cuoi.tuoitre.vn/tac-pham-tan-chi-phia-son-tung-m-tp-muon-nhung-quen-xin-phep-co-gi-dac-biet-20260605170802486.htm "Tác phẩm 'Tàn Chỉ' phía Sơn Tùng M-TP 'mượn' nhưng 'quên' xin phép có gì đặc biệt?")
+'Tàn Chỉ' - một công trình nghệ thuật mất 6 tháng các chuyên gia lội bùn nghiên cứu - bỗng chốc biến thành 'phông nền miễn phí' trong MV 'Come my way' của Sơn Tùng M-TP nhờ chiêu... 'quên' xin phép.
+05/06/2026 20:58
+[ ![Á hậu Kiều Loan liên quan gì đến bác sĩ thẩm mỹ có tài sản hàng trăm tỉ?](https://cdn2.tuoitre.vn/zoom/350_200/471584752817336320/2026/6/5/kieuloan-1780631212612171018673-36-0-449-660-crop-1780632100308120759299.jpg) ](https://cuoi.tuoitre.vn/a-hau-kieu-loan-lien-quan-gi-den-bac-si-tham-my-co-tai-san-hang-tram-ti-20260605110226071.htm "Á hậu Kiều Loan liên quan gì đến bác sĩ thẩm mỹ có tài sản hàng trăm tỉ?")
+####  [ Á hậu Kiều Loan liên quan gì đến bác sĩ thẩm mỹ có tài sản hàng trăm tỉ? ](https://cuoi.tuoitre.vn/a-hau-kieu-loan-lien-quan-gi-den-bac-si-tham-my-co-tai-san-hang-tram-ti-20260605110226071.htm "Á hậu Kiều Loan liên quan gì đến bác sĩ thẩm mỹ có tài sản hàng trăm tỉ?")
+Ngoài cuộc sống xa xỉ ở tuổi 26, á hậu Kiều Loan còn khiến dư luận 'hao tâm tổn trí' khi vướng tin đồn tình cảm với vị bác sĩ thẩm mỹ có gia sản hàng trăm tỉ.
+05/06/2026 12:21
+[ ![Nghệ sĩ Lê Giang: 'Tôi bị chiếm dụng tác phẩm, Sơn Tùng M-TP vẫn chưa liên hệ'](https://cdn2.tuoitre.vn/zoom/350_200/471584752817336320/2026/6/5/sontung-1-1780453477095813073950-51-0-1301-2000-crop-17806360605961333304836.jpg) ](https://cuoi.tuoitre.vn/nghe-si-le-giang-toi-bi-chiem-dung-tac-pham-son-tung-m-tp-van-chua-lien-he-20260605120414244.htm "Nghệ sĩ Lê Giang: 'Tôi bị chiếm dụng tác phẩm, Sơn Tùng M-TP vẫn chưa liên hệ'")
+####  [ Nghệ sĩ Lê Giang: 'Tôi bị chiếm dụng tác phẩm, Sơn Tùng M-TP vẫn chưa liên hệ' ](https://cuoi.tuoitre.vn/nghe-si-le-giang-toi-bi-chiem-dung-tac-pham-son-tung-m-tp-van-chua-lien-he-20260605120414244.htm "Nghệ sĩ Lê Giang: 'Tôi bị chiếm dụng tác phẩm, Sơn Tùng M-TP vẫn chưa liên hệ'")
+Sau màn nhận lỗi lúc rạng sáng của ê kíp Sơn Tùng M-TP vì 'mượn' ý tưởng, nghệ sĩ thị giác Lê Giang vừa bức xúc lên tiếng, cho rằng tác phẩm của bà bị chiếm dụng một cách công khai.
+05/06/2026 12:16
+[ ![Danh ca Chế Linh: Ráng nhớ rõ 14 người con, cháu chắt không đếm xuể](https://cdn2.tuoitre.vn/zoom/350_200/471584752817336320/2026/6/4/chelinh-17805613730961885138758-26-88-302-530-crop-17805632003971628357586.jpg) ](https://cuoi.tuoitre.vn/danh-ca-che-linh-rang-nho-ro-14-nguoi-con-chau-chat-khong-dem-xue-20260604155232532.htm "Danh ca Chế Linh: Ráng nhớ rõ 14 người con, cháu chắt không đếm xuể")
+####  [ Danh ca Chế Linh: Ráng nhớ rõ 14 người con, cháu chắt không đếm xuể ](https://cuoi.tuoitre.vn/danh-ca-che-linh-rang-nho-ro-14-nguoi-con-chau-chat-khong-dem-xue-20260604155232532.htm "Danh ca Chế Linh: Ráng nhớ rõ 14 người con, cháu chắt không đếm xuể")
+Ở tuổi U90, danh ca Chế Linh không chỉ sở hữu giọng ca bất hủ vượt thời gian mà còn có một đại gia đình ‘siêu khủng’ bậc nhất showbiz Việt.
+04/06/2026 17:05
+[ ![Fan chi 100 triệu bình chọn nhưng không được Hương Giang mời ăn tiệc cảm ơn?](https://cdn2.tuoitre.vn/zoom/350_200/471584752817336320/2026/6/4/huonggiang-17805653779661957464534-98-0-1183-1736-crop-1780565487424665130393.jpg) ](https://cuoi.tuoitre.vn/fan-chi-100-trieu-binh-chon-nhung-khong-duoc-huong-giang-moi-an-tiec-cam-on-20260604163107233.htm "Fan chi 100 triệu bình chọn nhưng không được Hương Giang mời ăn tiệc cảm ơn?")
+####  [ Fan chi 100 triệu bình chọn nhưng không được Hương Giang mời ăn tiệc cảm ơn? ](https://cuoi.tuoitre.vn/fan-chi-100-trieu-binh-chon-nhung-khong-duoc-huong-giang-moi-an-tiec-cam-on-20260604163107233.htm "Fan chi 100 triệu bình chọn nhưng không được Hương Giang mời ăn tiệc cảm ơn?")
+Dốc hầu bao gần trăm triệu đồng để bình chọn cho Hương Giang tại 'Miss Grand International All Stars 2026', một fan hờn dỗi vì nhận ra suất ăn tiệc tri ân không có tên mình.
+04/06/2026 16:40
+[ ![Cưỡi chim Lạc và 'mượn' ý tưởng không xin phép: Sơn Tùng M-TP 'chiếm dụng văn hóa'?](https://cdn2.tuoitre.vn/zoom/350_200/471584752817336320/2026/6/4/70980313215688174179339797798206103413267682n-1-17805573232941829121190-0-0-588-940-crop-1780557909594157369108.jpg) ](https://cuoi.tuoitre.vn/cuoi-chim-lac-va-muon-y-tuong-khong-xin-phep-son-tung-m-tp-chiem-dung-van-hoa-20260604142536117.htm "Cưỡi chim Lạc và 'mượn' ý tưởng không xin phép: Sơn Tùng M-TP 'chiếm dụng văn hóa'?")
+####  [ Cưỡi chim Lạc và 'mượn' ý tưởng không xin phép: Sơn Tùng M-TP 'chiếm dụng văn hóa'? ](https://cuoi.tuoitre.vn/cuoi-chim-lac-va-muon-y-tuong-khong-xin-phep-son-tung-m-tp-chiem-dung-van-hoa-20260604142536117.htm "Cưỡi chim Lạc và 'mượn' ý tưởng không xin phép: Sơn Tùng M-TP 'chiếm dụng văn hóa'?")
+Tranh cãi cưỡi chim Lạc và ‘cầm nhầm’ bối cảnh trong MV của Sơn Tùng M-TP vô tình trở thành ví dụ đắt giá để giới chuyên môn mổ xẻ khái niệm: ‘chiếm dụng văn hóa’.
+04/06/2026 15:25
+[ ![Hết tự test ma túy, Tuấn Hưng lại phải đi 'giải cứu' fan](https://cdn2.tuoitre.vn/zoom/350_200/471584752817336320/2026/6/4/tuanhung-1-17805419237131381585551-36-0-492-730-crop-17805422037891150153567.jpg) ](https://cuoi.tuoitre.vn/het-tu-test-ma-tuy-tuan-hung-lai-phai-di-giai-cuu-fan-20260604100230901.htm "Hết tự test ma túy, Tuấn Hưng lại phải đi 'giải cứu' fan")
+####  [ Hết tự test ma túy, Tuấn Hưng lại phải đi 'giải cứu' fan ](https://cuoi.tuoitre.vn/het-tu-test-ma-tuy-tuan-hung-lai-phai-di-giai-cuu-fan-20260604100230901.htm "Hết tự test ma túy, Tuấn Hưng lại phải đi 'giải cứu' fan")
+Vừa tự minh oan bằng que test ma túy chưa được bao lâu, ca sĩ Tuấn Hưng lại phải đau đầu đăng đàn khi khán giả của mình bỗng dưng bị 'chửi lây' trên mạng xã hội.
+04/06/2026 10:18
+[ ![Giám khảo chấm Hương Giang 5 điểm đã từ chức giám đốc](https://cdn2.tuoitre.vn/zoom/350_200/471584752817336320/2026/6/3/lupita-jones-1780287171-9503-1780288628-1780489580685344329393-0-4-829-1330-crop-1780489715567904493904.jpg) ](https://cuoi.tuoitre.vn/giam-khao-cham-huong-giang-5-diem-da-tu-chuc-giam-doc-20260603192818071.htm "Giám khảo chấm Hương Giang 5 điểm đã từ chức giám đốc")
+####  [ Giám khảo chấm Hương Giang 5 điểm đã từ chức giám đốc ](https://cuoi.tuoitre.vn/giam-khao-cham-huong-giang-5-diem-da-tu-chuc-giam-doc-20260603192818071.htm "Giám khảo chấm Hương Giang 5 điểm đã từ chức giám đốc")
+Sau màn chấm điểm gây bão dư luận cho Hương Giang, vị giám khảo kỳ cựu của Mexico - Lupita Jones - đã âm thầm nộp đơn từ chức.
+03/06/2026 19:40
+[ ![Quế Ngọc Hải và dàn nghệ sĩ tiếp sức cho các em nhỏ giàu nghị lực](https://cdn2.tuoitre.vn/zoom/350_200/471584752817336320/2026/6/3/screenshot8-1780483437133155019778-159-359-525-945-crop-17804835606371063416348.jpg) ](https://cuoi.tuoitre.vn/que-ngoc-hai-va-dan-nghe-si-tiep-suc-cho-cac-em-nho-giau-nghi-luc-20260603174809424.htm "Quế Ngọc Hải và dàn nghệ sĩ tiếp sức cho các em nhỏ giàu nghị lực")
+####  [ Quế Ngọc Hải và dàn nghệ sĩ tiếp sức cho các em nhỏ giàu nghị lực ](https://cuoi.tuoitre.vn/que-ngoc-hai-va-dan-nghe-si-tiep-suc-cho-cac-em-nho-giau-nghi-luc-20260603174809424.htm "Quế Ngọc Hải và dàn nghệ sĩ tiếp sức cho các em nhỏ giàu nghị lực")
+Chương trình 'Mái ấm gia đình Việt' sẽ trở lại xứ Nghệ trong 3 ngày ghi hình, quy tụ đông đảo nghệ sĩ cùng chung tay vượt thử thách để thắp sáng ước mơ cho những em nhỏ có hoàn cảnh khó khăn tại khu vực Bắc Trung Bộ.
+03/06/2026 19:18
+[ ![Ca sĩ 'Gangnam Style' bị đề nghị truy tố vì không đi khám nhưng vẫn lấy thuốc hướng thần](https://cdn2.tuoitre.vn/zoom/350_200/471584752817336320/2026/6/3/3f40901af3534bafb55deeeb95866dbd-1780459639336716061288-81-0-743-1059-crop-1780459866017360252757.jpg) ](https://cuoi.tuoitre.vn/ca-si-gangnam-style-bi-de-nghi-truy-to-vi-khong-di-kham-nhung-van-lay-thuoc-huong-than-20260603110916159.htm "Ca sĩ 'Gangnam Style' bị đề nghị truy tố vì không đi khám nhưng vẫn lấy thuốc hướng thần")
+####  [ Ca sĩ 'Gangnam Style' bị đề nghị truy tố vì không đi khám nhưng vẫn lấy thuốc hướng thần ](https://cuoi.tuoitre.vn/ca-si-gangnam-style-bi-de-nghi-truy-to-vi-khong-di-kham-nhung-van-lay-thuoc-huong-than-20260603110916159.htm "Ca sĩ 'Gangnam Style' bị đề nghị truy tố vì không đi khám nhưng vẫn lấy thuốc hướng thần")
+Ngồi nhà mà vẫn được giáo sư bệnh viện cấp thuốc hướng thần, ca sĩ PSY - chủ nhân hit 'Gangnam Style' - cùng ê kíp vừa bị cảnh sát Hàn Quốc chuyển thẳng hồ sơ sang cơ quan công tố.
+03/06/2026 14:00
+[ !['Hoa hậu Hong Kong' khởi động: Thí sinh dỗi bỏ đi khi bị hỏi cân nặng](https://cdn2.tuoitre.vn/zoom/350_200/471584752817336320/2026/6/3/c93875cbec814e40aac7795cd2a77438-1780455032362514298199-0-23-1088-1764-crop-17804555566022035233269.jpg) ](https://cuoi.tuoitre.vn/hoa-hau-hong-kong-khoi-dong-thi-sinh-doi-bo-di-khi-bi-hoi-can-nang-20260603095648353.htm "'Hoa hậu Hong Kong' khởi động: Thí sinh dỗi bỏ đi khi bị hỏi cân nặng")
+####  [ 'Hoa hậu Hong Kong' khởi động: Thí sinh dỗi bỏ đi khi bị hỏi cân nặng ](https://cuoi.tuoitre.vn/hoa-hau-hong-kong-khoi-dong-thi-sinh-doi-bo-di-khi-bi-hoi-can-nang-20260603095648353.htm "'Hoa hậu Hong Kong' khởi động: Thí sinh dỗi bỏ đi khi bị hỏi cân nặng")
+Vòng phỏng vấn đầu tiên của Hoa hậu Hong Kong trở thành ngày hội 'tấu hài' với đủ chiêu trò chiếm sóng và những nhan sắc khiến khán giả ngỡ ngàng.
+03/06/2026 13:00
+![](https://static.mediacdn.vn/tuoitre/web_images/load-1.png)
+[Xem thêm](javascript:void\(0\); "Xem thêm")
+[ ](javascript:;)
+Bình luận (0)
+Ý kiến của bạn sẽ được biên tập trước khi đăng, xin vui lòng viết bằng tiếng Việt có dấu.
+Được quan tâm nhất Mới nhất
+Xem các bình luận trước
+Hiện chưa có bình luận nào, hãy là người đầu tiên bình luận 
+Xem thêm
+![thông tin tài khoản](https://statictuoitre.mediacdn.vn/zoom/50_50/web_images/Avatar.jpg)
+Tối đa: **1500 ký tự**
+Hủy Gửi bình luận 
+[ **0** ](javascript:; "Thích") [ **0** ](javascript:void\(0\); "Bình luận") [](javascript:; "Xem thêm") [](javascript:; "Facebook") [**Lưu**](javascript:; "Lưu")
+Bình luận (0)
+![thông tin tài khoản](https://statictuoitre.mediacdn.vn/zoom/50_50/web_images/Avatar.jpg)
+Tối đa: **1500 ký tự**
+Gửi bình luận 
+[X](javascript:; "Xóa sticker")
+Được quan tâm nhất Mới nhất [Tặng sao cho thành viên](https://sso.tuoitre.vn/transfer-star)
+Hiện chưa có bình luận nào, hãy là người đầu tiên bình luận 
+Xem thêm
+Xem tất cả bình luận 
+[ ![TUỔI TRẺ CƯỜI ONLINE](https://static.mediacdn.vn/tuoitre/web_images/logo-footer.svg)](https://cuoi.tuoitre.vn/ "TUỔI TRẺ CƯỜI ONLINE")
+##### TUỔI TRẺ CƯỜI ONLINE
+  * [ ![Tin tức, tin nóng, đọc báo điện tử - Tuổi Trẻ Online](https://static.mediacdn.vn/tuoitre/web_images/icon-tto.svg)](https://tuoitre.vn/ "Tin tức, tin nóng, đọc báo điện tử - Tuổi Trẻ Online")
+  * [ ![Báo Chí - Tạp Chí - Đọc Báo - Tuổi Trẻ Cuối Tuần - TTO](https://static.mediacdn.vn/tuoitre/web_images/icon-ttct.svg)](https://cuoituan.tuoitre.vn/ "Báo Chí - Tạp Chí - Đọc Báo - Tuổi Trẻ Cuối Tuần - TTO")
+  * [ ![Video tin tức, video tin nóng - Tuổi Trẻ Video Online](https://static.mediacdn.vn/tuoitre/web_images/icon-tttivi.svg)](https://video.tuoitre.vn/ "Video tin tức, video tin nóng - Tuổi Trẻ Video Online")
+  * [ ![Tuoitrenews news](https://static.mediacdn.vn/tuoitre/web_images/logo-footer-1609129716.png)](https://tuoitrenews.vn/ "Tuoitrenews news")
+
+
+Số 60A Hoàng Văn Thụ, phường Đức Nhuận, Tp. Hồ Chí Minh
+Kết nối với chúng tôi tại
+  * [](https://www.facebook.com/tuoitrecuoi/ "https://www.facebook.com/tuoitrecuoi/")
+  * [](https://www.youtube.com/channel/UCuZFuykrlN9GUhobrTvP0Bg "Tuổi Trẻ Cười TV")
+  * [](https://www.instagram.com/tuoitrecuoi.official/ "Tuổi Trẻ Cười")
+
+[Bảng giá quảng cáo](https://cuoi.tuoitre.vn/tung-khoe-chi-hon-tram-trieu-mua-sam-rapper-binh-gold-doi-that-di-cuop-taxi-xin-30-000-dong-20250802100003504.htm "Bảng giá quảng cáo") 
+
+LIÊN HỆ QUẢNG CÁO
+    [**0963.0209.19**](tel:0963020919 "0963.0209.19")     sales.cuoi@tuoitre.com.vn 
+
+HỢP TÁC NỘI DUNG
+    cuoi@tuoitre.com.vn 
+
+LIÊN HỆ
+    tuoitrecuoi@tuoitre.com.vn 
+
+ĐƯỜNG DÂY NÓNG
+    [**0918.033.133**](tel:0918033133 "0918.033.133")     [**(84.28) 38.440.538**](tel:\(84.28\)%2038.440.538 "38.440.538")
+© Copyright 2026 TuoiTre Online, All rights reserved   
+® Tuổi Trẻ Online giữ bản quyền nội dung trên website này 
+Thông tin của bạn
+[](https://cuoi.tuoitre.vn/tung-khoe-chi-hon-tram-trieu-mua-sam-rapper-binh-gold-doi-that-di-cuop-taxi-xin-30-000-dong-20250802100003504.htm "Đóng")
+Email
+Vui lòng nhập Email
+Email Không đúng định dạng
+Họ và tên
+Vui lòng nhập Họ & Tên.
+Gửi bình luận
+Thông báo
+[](https://cuoi.tuoitre.vn/tung-khoe-chi-hon-tram-trieu-mua-sam-rapper-binh-gold-doi-that-di-cuop-taxi-xin-30-000-dong-20250802100003504.htm "Đóng")
+Bạn vui lòng đợi 0s để tiếp tục comment 
+Thông báo
+[](https://cuoi.tuoitre.vn/tung-khoe-chi-hon-tram-trieu-mua-sam-rapper-binh-gold-doi-that-di-cuop-taxi-xin-30-000-dong-20250802100003504.htm "Đóng")
+Bình luận được gửi thành công 
+  * [Bình luận](https://cuoi.tuoitre.vn/tung-khoe-chi-hon-tram-trieu-mua-sam-rapper-binh-gold-doi-that-di-cuop-taxi-xin-30-000-dong-20250802100003504.htm)
+  * [Đăng nhập](https://cuoi.tuoitre.vn/tung-khoe-chi-hon-tram-trieu-mua-sam-rapper-binh-gold-doi-that-di-cuop-taxi-xin-30-000-dong-20250802100003504.htm)
+  * [Tạo tài khoản](https://cuoi.tuoitre.vn/tung-khoe-chi-hon-tram-trieu-mua-sam-rapper-binh-gold-doi-that-di-cuop-taxi-xin-30-000-dong-20250802100003504.htm)
+  * [ ](https://cuoi.tuoitre.vn/tung-khoe-chi-hon-tram-trieu-mua-sam-rapper-binh-gold-doi-that-di-cuop-taxi-xin-30-000-dong-20250802100003504.htm "Đóng")
+
+
+Thông tin bạn đọc Thông tin của bạn đọc sẽ được bảo mật an toàn và chỉ sử dụng trong trường hợp toà soạn cần thiết để liên lạc với bạn.
+Tên của bạn
+Vui lòng nhập Tên hiển thị
+Email
+Vui lòng nhập Email
+Email Không đúng định dạng
+Mã xác nhận
+![](https://cuoi.tuoitre.vn/tung-khoe-chi-hon-tram-trieu-mua-sam-rapper-binh-gold-doi-that-di-cuop-taxi-xin-30-000-dong-20250802100003504.htm) [ ](https://cuoi.tuoitre.vn/tung-khoe-chi-hon-tram-trieu-mua-sam-rapper-binh-gold-doi-that-di-cuop-taxi-xin-30-000-dong-20250802100003504.htm)
+Vui lòng nhập mã xác nhận.
+Gửi bình luận Đóng
+[Bạn đã có tài khoản? **Đăng nhập** ngay](https://cuoi.tuoitre.vn/tung-khoe-chi-hon-tram-trieu-mua-sam-rapper-binh-gold-doi-that-di-cuop-taxi-xin-30-000-dong-20250802100003504.htm)
+Email
+Vui lòng nhập Email
+Email Không đúng định dạng
+Mật khẩu
+[ ](https://cuoi.tuoitre.vn/tung-khoe-chi-hon-tram-trieu-mua-sam-rapper-binh-gold-doi-that-di-cuop-taxi-xin-30-000-dong-20250802100003504.htm)
+Mật khẩu không đúng.
+Thông tin đăng nhập không đúng.
+Tài khoản bị khóa, vui lòng liên hệ quản trị viên.
+Có lỗi phát sinh. Vui lòng thử lại sau.
+[Quên mật khẩu?](http://id.tuoitre.vn/quen-mat-khau.htm) Đăng nhập
+_hoặc đăng nhập_
+Google  Facebook 
+Tên của bạn
+Vui lòng nhập Tên của bạn.
+Email
+Vui lòng nhập Email
+Email Không đúng định dạng
+Mật khẩu
+[ ](https://cuoi.tuoitre.vn/tung-khoe-chi-hon-tram-trieu-mua-sam-rapper-binh-gold-doi-that-di-cuop-taxi-xin-30-000-dong-20250802100003504.htm)
+Mật khẩu phải có ít nhất 6 kí tự.
+Xác nhận mật khẩu
+[ ](https://cuoi.tuoitre.vn/tung-khoe-chi-hon-tram-trieu-mua-sam-rapper-binh-gold-doi-that-di-cuop-taxi-xin-30-000-dong-20250802100003504.htm)
+Xác nhận mật khẩu không khớp.
+Mã xác nhận
+![captcha](https://cuoi.tuoitre.vn/tung-khoe-chi-hon-tram-trieu-mua-sam-rapper-binh-gold-doi-that-di-cuop-taxi-xin-30-000-dong-20250802100003504.htm) [ ](https://cuoi.tuoitre.vn/tung-khoe-chi-hon-tram-trieu-mua-sam-rapper-binh-gold-doi-that-di-cuop-taxi-xin-30-000-dong-20250802100003504.htm)
+Mã xác nhận không đúng.
+Có lỗi phát sinh. Vui lòng thử lại sau.
+Khi bấm tạo tài khoản bạn đã đồng ý với **quy định** của tòa soạn
+Tạo tài khoản
+_hoặc đăng nhập_
+Google  Facebook 
+Nhập mã xác nhận
+[Đóng lại](https://cuoi.tuoitre.vn/tung-khoe-chi-hon-tram-trieu-mua-sam-rapper-binh-gold-doi-that-di-cuop-taxi-xin-30-000-dong-20250802100003504.htm "Đóng")
+![captcha](https://cuoi.tuoitre.vn/tung-khoe-chi-hon-tram-trieu-mua-sam-rapper-binh-gold-doi-that-di-cuop-taxi-xin-30-000-dong-20250802100003504.htm) [ ](https://cuoi.tuoitre.vn/tung-khoe-chi-hon-tram-trieu-mua-sam-rapper-binh-gold-doi-that-di-cuop-taxi-xin-30-000-dong-20250802100003504.htm)
+Mã xác nhận không đúng.
+Có lỗi phát sinh. Vui lòng thử lại sau.
+Hoàn tất
+Vui lòng nhập thông tin và ý kiến của bạn
+[X](https://cuoi.tuoitre.vn/tung-khoe-chi-hon-tram-trieu-mua-sam-rapper-binh-gold-doi-that-di-cuop-taxi-xin-30-000-dong-20250802100003504.htm "Đóng lại")
+Email (*)
+Vui lòng nhập Email
+Email Không đúng định dạng
+Họ và tên (*)
+Vui lòng nhập Họ & Tên.
+Ý kiến của bạn (*)
+Vui lòng nhập Ý kiến của bạn.
+![captcha](https://cuoi.tuoitre.vn/tung-khoe-chi-hon-tram-trieu-mua-sam-rapper-binh-gold-doi-that-di-cuop-taxi-xin-30-000-dong-20250802100003504.htm) [ ](https://cuoi.tuoitre.vn/tung-khoe-chi-hon-tram-trieu-mua-sam-rapper-binh-gold-doi-that-di-cuop-taxi-xin-30-000-dong-20250802100003504.htm)
+Mã xác nhận không đúng.
+Có lỗi phát sinh. Vui lòng thử lại sau.
+Gửi ý kiến
+[](javascript:; "Đầu trang")
+Tìm kiếm
+Đóng
+×
+### Báo vi phạm
+Chọn lý do vi phạm :Xúc phạm, gây hại người khác Lạc đề Vi phạm pháp luật Vi phạm đạo đức, thuần phong mỹ tục Tố cáo sai sự thật Vi phạm bản quyền Để lộ thông tin cá nhân Spam, rác Lý do khác
+Ý kiến :
+Địa chỉ email của bạn:Vui lòng nhập email của bạn
+[Gửi](javascript:;)
+![ttc](https://static.mediacdn.vn/tuoitre/web_images/mr_hai_cu_neo-1.png)![ttc](https://static.mediacdn.vn/tuoitre/web_images/mr_hai_cu_neo-2.png)
+Cảm ơn bạn đã gửi bình luận
+[ ![](https://static.mediacdn.vn/tuoitre/web_images/logo-pc.png)](https://cuoi.tuoitre.vn/)  
+Hộp thoại sẽ tự động đóng sau 10 giây  
+Đóng
+X
+Mới nhất
+  * [](https://www.facebook.com/tuoitrecuoi/ "https://www.facebook.com/tuoitrecuoi/")
+  * [](https://www.instagram.com/tuoitrecuoi.official/ "Tuổi Trẻ Cười")
+  * [](https://www.youtube.com/channel/UCuZFuykrlN9GUhobrTvP0Bg "Tuổi Trẻ Cười TV")
+
+

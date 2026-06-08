@@ -1,11 +1,11 @@
 """
 Task 3 — Convert toàn bộ file trong data/landing/ thành Markdown.
 
-Sử dụng MarkItDown của Microsoft:
-    https://github.com/microsoft/markitdown
+Sử dụng Docling của IBM:
+    https://github.com/DS4SD/docling
 
 Cài đặt:
-    pip install markitdown
+    pip install docling
 
 Hướng dẫn:
     1. Scan toàn bộ file trong data/landing/ (PDF, DOCX, JSON)
@@ -16,7 +16,7 @@ Hướng dẫn:
 import json
 from pathlib import Path
 
-from markitdown import MarkItDown
+from docling.document_converter import DocumentConverter
 
 LANDING_DIR = Path(__file__).parent.parent / "data" / "landing"
 OUTPUT_DIR = Path(__file__).parent.parent / "data" / "standardized"
@@ -28,17 +28,19 @@ def convert_legal_docs():
     output_dir = OUTPUT_DIR / "legal"
     output_dir.mkdir(parents=True, exist_ok=True)
 
-    md = MarkItDown()
+    converter = DocumentConverter()
 
     for filepath in legal_dir.iterdir():
         if filepath.suffix.lower() in (".pdf", ".docx", ".doc"):
             print(f"Converting: {filepath.name}")
-            # TODO: Convert và lưu file
-            # result = md.convert(str(filepath))
-            # output_path = output_dir / f"{filepath.stem}.md"
-            # output_path.write_text(result.text_content, encoding="utf-8")
-            # print(f"  ✓ Saved: {output_path}")
-            raise NotImplementedError("Implement convert_legal_docs")
+            try:
+                result = converter.convert(str(filepath))
+                markdown_text = result.document.export_to_markdown()
+                output_path = output_dir / f"{filepath.stem}.md"
+                output_path.write_text(markdown_text, encoding="utf-8")
+                print(f"  ✓ Saved: {output_path}")
+            except Exception as e:
+                print(f"  ✗ Skipped {filepath.name}: {e}")
 
 
 def convert_news_articles():
@@ -50,25 +52,23 @@ def convert_news_articles():
     for filepath in news_dir.iterdir():
         if filepath.suffix.lower() == ".json":
             print(f"Converting: {filepath.name}")
-            # TODO: Đọc JSON, extract content_markdown, lưu thành .md
-            # data = json.loads(filepath.read_text(encoding="utf-8"))
-            # output_path = output_dir / f"{filepath.stem}.md"
-            #
-            # # Thêm metadata header
-            # header = f"# {data.get('title', 'Unknown')}\n\n"
-            # header += f"**Source:** {data.get('url', 'N/A')}\n"
-            # header += f"**Crawled:** {data.get('date_crawled', 'N/A')}\n\n---\n\n"
-            #
-            # content = header + data.get("content_markdown", "")
-            # output_path.write_text(content, encoding="utf-8")
-            # print(f"  ✓ Saved: {output_path}")
-            raise NotImplementedError("Implement convert_news_articles")
+            data = json.loads(filepath.read_text(encoding="utf-8"))
+            output_path = output_dir / f"{filepath.stem}.md"
+            
+            # Thêm metadata header
+            header = f"# {data.get('title', 'Unknown')}\n\n"
+            header += f"**Source:** {data.get('url', 'N/A')}\n"
+            header += f"**Crawled:** {data.get('date_crawled', 'N/A')}\n\n---\n\n"
+            
+            content = header + data.get("content_markdown", "")
+            output_path.write_text(content, encoding="utf-8")
+            print(f"  ✓ Saved: {output_path}")
 
 
 def convert_all():
     """Convert toàn bộ files."""
     print("=" * 50)
-    print("Task 3: Convert to Markdown (MarkItDown)")
+    print("Task 3: Convert to Markdown (Docling)")
     print("=" * 50)
 
     print("\n--- Legal Documents ---")
