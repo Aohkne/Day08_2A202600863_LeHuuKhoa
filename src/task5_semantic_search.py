@@ -9,6 +9,11 @@ Yêu cầu:
     - Phải tương thích với embedding model và vector store ở Task 4
 """
 
+import sys
+from pathlib import Path
+
+sys.path.insert(0, str(Path(__file__).parent))
+
 from task4_chunking_indexing import EMBEDDING_MODEL, CHROMA_DIR, COLLECTION_NAME
 
 

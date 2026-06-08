@@ -54,33 +54,40 @@ def rerank_cross_encoder(
         return []
 
     if not JINA_API_KEY:
-        raise ValueError("JINA_API_KEY không tìm thấy trong .env")
+        # Fallback: sort by original score khi không có API key
+        return sorted(candidates, key=lambda x: x.get("score", 0), reverse=True)[:top_k]
 
-    response = requests.post(
-        JINA_RERANK_URL,
-        headers={
-            "Authorization": f"Bearer {JINA_API_KEY}",
-            "Content-Type": "application/json",
-        },
-        json={
-            "model": JINA_MODEL,
-            "query": query,
-            "documents": [c["content"] for c in candidates],
-            "top_n": top_k,
-        },
-        timeout=30,
-    )
-    response.raise_for_status()
+    try:
+        response = requests.post(
+            JINA_RERANK_URL,
+            headers={
+                "Authorization": f"Bearer {JINA_API_KEY}",
+                "Content-Type": "application/json",
+            },
+            json={
+                "model": JINA_MODEL,
+                "query": query,
+                "documents": [c["content"] for c in candidates],
+                "top_n": top_k,
+            },
+            timeout=30,
+        )
+        response.raise_for_status()
 
-    reranked = response.json()["results"]
+        reranked = response.json()["results"]
 
-    results = []
-    for r in reranked:
-        item = candidates[r["index"]].copy()
-        item["score"] = round(r["relevance_score"], 4)
-        results.append(item)
+        results = []
+        for r in reranked:
+            item = candidates[r["index"]].copy()
+            item["score"] = round(r["relevance_score"], 4)
+            results.append(item)
 
-    return results
+        return results
+
+    except Exception:
+        # Fallback khi Jina API lỗi (rate limit, 403, network) →
+        # trả về candidates sorted by original score
+        return sorted(candidates, key=lambda x: x.get("score", 0), reverse=True)[:top_k]
 
 
 def rerank_rrf(
