@@ -9,6 +9,8 @@ Yêu cầu:
     - Phải tương thích với embedding model và vector store ở Task 4
 """
 
+from task4_chunking_indexing import EMBEDDING_MODEL, CHROMA_DIR, COLLECTION_NAME
+
 
 def semantic_search(query: str, top_k: int = 10) -> list[dict]:
     """
@@ -26,41 +28,42 @@ def semantic_search(query: str, top_k: int = 10) -> list[dict]:
         }
         Sorted by score descending.
     """
-    # TODO: Implement semantic search
-    #
-    # Bước 1: Embed query bằng cùng model ở Task 4
-    # Bước 2: Query vector store (cosine similarity)
-    # Bước 3: Return top_k results
-    #
-    # Ví dụ với Weaviate:
-    # import weaviate
-    # from sentence_transformers import SentenceTransformer
-    #
-    # model = SentenceTransformer("BAAI/bge-m3")
-    # query_embedding = model.encode(query).tolist()
-    #
-    # client = weaviate.connect_to_local()
-    # collection = client.collections.get("DrugLawDocs")
-    #
-    # results = collection.query.near_vector(
-    #     near_vector=query_embedding,
-    #     limit=top_k,
-    #     return_metadata=MetadataQuery(distance=True)
-    # )
-    #
-    # return [
-    #     {
-    #         "content": obj.properties["content"],
-    #         "score": 1 - obj.metadata.distance,  # distance → similarity
-    #         "metadata": {"source": obj.properties["source"], ...}
-    #     }
-    #     for obj in results.objects
-    # ]
-    raise NotImplementedError("Implement semantic_search")
+    import chromadb
+    from sentence_transformers import SentenceTransformer
+
+    # Bước 1: Embed query bằng cùng model đã dùng ở Task 4
+    model = SentenceTransformer(EMBEDDING_MODEL)
+    query_embedding = model.encode(query).tolist()
+
+    # Bước 2: Query ChromaDB bằng cosine similarity
+    client = chromadb.PersistentClient(path=str(CHROMA_DIR))
+    collection = client.get_collection(COLLECTION_NAME)
+
+    results = collection.query(
+        query_embeddings=[query_embedding],
+        n_results=top_k,
+        include=["documents", "metadatas", "distances"],
+    )
+
+    # Bước 3: Convert distance → similarity và format output
+    # ChromaDB cosine: distance = 1 - similarity
+    output = []
+    for doc, meta, dist in zip(
+        results["documents"][0],
+        results["metadatas"][0],
+        results["distances"][0],
+    ):
+        output.append({
+            "content": doc,
+            "score": round(1 - dist, 4),
+            "metadata": meta,
+        })
+
+    # Đã sorted descending theo score (ChromaDB trả về theo distance ascending)
+    return output
 
 
 if __name__ == "__main__":
-    # Test
     results = semantic_search("hình phạt cho tội tàng trữ ma tuý", top_k=5)
     for r in results:
-        print(f"[{r['score']:.3f}] {r['content'][:100]}...")
+        print(f"[{r['score']:.3f}] [{r['metadata'].get('type')}] {r['content'][:100]}...")
