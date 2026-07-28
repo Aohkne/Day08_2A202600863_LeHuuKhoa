@@ -19,6 +19,7 @@ Chay:
 """
 
 import json
+import os
 import sys
 import time
 from datetime import datetime
@@ -88,10 +89,10 @@ def run_config_b(question: str) -> dict:
         from openai import OpenAI
         client = OpenAI(
             api_key=os.getenv("OPENAI_API_KEY", ""),
-            base_url=os.getenv("OPENAI_BASE_URL", "https://integrate.api.nvidia.com/v1"),
+            base_url=os.getenv("OPENAI_BASE_URL") or None,
         )
         response = client.chat.completions.create(
-            model="nvidia/llama-3.1-nemotron-70b-instruct",
+            model=os.getenv("LLM_MODEL", "gpt-4o-mini"),
             messages=[
                 {"role": "system", "content": "Answer in Vietnamese with citations from the context."},
                 {"role": "user", "content": f"CONTEXT:\n{context_str}\n\nQUESTION: {question}"},
@@ -114,138 +115,39 @@ def run_config_b(question: str) -> dict:
 # =============================================================================
 # DeepEval Evaluation
 # =============================================================================
-
-# -------------------------------------------------------------------------
-# Metric implementations using embedding similarity + token overlap.
-# We use deepeval.test_case.LLMTestCase as the data container and implement
-# the 4 standard RAG metrics without LLM-as-judge (NVIDIA Functions API
-# is not accessible for judge calls on this account).
 #
-# Metrics:
-#   Faithfulness      — cosine sim(answer, best_context)
-#   Answer Relevancy  — cosine sim(question_emb, answer_emb)
-#   Context Recall    — ROUGE-L(context_combined, expected_answer)
-#   Context Precision — avg cosine sim(question, each_context_chunk)
+# Dung dung 4 metric built-in cua DeepEval (LLM-as-judge, model=JUDGE_MODEL).
+# Judge goi truc tiep OpenAI API bang OPENAI_API_KEY co san trong .env.
+#
+#   Faithfulness       — answer co bam dung retrieval_context khong?
+#   Answer Relevancy   — answer co dung trong tam cau hoi khong?
+#   Context Recall     — retrieval_context co du evidence de sinh expected_output?
+#   Context Precision  — trong retrieval_context, bao nhieu % thuc su lien quan?
 # -------------------------------------------------------------------------
 
-def _tokenize(text: str) -> list[str]:
-    import re
-    return re.findall(r"\w+", text.lower())
+JUDGE_MODEL = os.getenv("DEEPEVAL_JUDGE_MODEL", "gpt-4o-mini")
+GEN_MODEL = os.getenv("LLM_MODEL", "gpt-4o-mini")  # model dung de sinh cau tra loi (Task 10)
 
 
-def _rouge_l(ref: str, hyp: str) -> float:
-    """ROUGE-L F1 via LCS."""
-    r_tokens = _tokenize(ref)
-    h_tokens = _tokenize(hyp)
-    if not r_tokens or not h_tokens:
-        return 0.0
-    # LCS via DP
-    m, n = len(r_tokens), len(h_tokens)
-    dp = [[0] * (n + 1) for _ in range(m + 1)]
-    for i in range(1, m + 1):
-        for j in range(1, n + 1):
-            if r_tokens[i - 1] == h_tokens[j - 1]:
-                dp[i][j] = dp[i - 1][j - 1] + 1
-            else:
-                dp[i][j] = max(dp[i - 1][j], dp[i][j - 1])
-    lcs = dp[m][n]
-    prec = lcs / n
-    rec  = lcs / m
-    if prec + rec == 0:
-        return 0.0
-    return round(2 * prec * rec / (prec + rec), 4)
-
-
-def _token_overlap(a: str, b: str) -> float:
-    """Unigram F1 overlap."""
-    a_tok = set(_tokenize(a))
-    b_tok = set(_tokenize(b))
-    if not a_tok or not b_tok:
-        return 0.0
-    inter = len(a_tok & b_tok)
-    return round(2 * inter / (len(a_tok) + len(b_tok)), 4)
-
-
-def _get_embedder():
-    """Lazy-load sentence-transformer (already cached from task4/5)."""
-    from sentence_transformers import SentenceTransformer
-    return SentenceTransformer("sentence-transformers/all-MiniLM-L6-v2")
-
-
-def _cosine(a, b) -> float:
-    import numpy as np
-    a, b = np.array(a), np.array(b)
-    denom = (np.linalg.norm(a) * np.linalg.norm(b))
-    if denom == 0:
-        return 0.0
-    return float(np.dot(a, b) / denom)
-
-
-def _score_faithfulness_heuristic(answer: str, contexts: list[str]) -> float:
-    """
-    Faithfulness: cosine similarity between answer and best matching context chunk.
-    High score = answer is semantically close to what was retrieved.
-    """
-    if not contexts or not answer:
-        return 0.0
-    model = _get_embedder()
-    ans_emb = model.encode(answer[:512])
-    scores = []
-    for ctx in contexts[:5]:
-        ctx_emb = model.encode(ctx[:512])
-        scores.append(_cosine(ans_emb, ctx_emb))
-    # Faithfulness = max similarity (best matching chunk)
-    return round(max(scores), 4)
-
-
-def _score_answer_relevancy_heuristic(question: str, answer: str) -> float:
-    """
-    Answer Relevancy: cosine similarity between question embedding and answer embedding.
-    High score = answer is semantically relevant to the question.
-    """
-    if not question or not answer:
-        return 0.0
-    model = _get_embedder()
-    q_emb = model.encode(question)
-    a_emb = model.encode(answer[:512])
-    sim = _cosine(q_emb, a_emb)
-    # Normalize: cosine for short question vs long answer tends to be low (~0.2-0.5)
-    # Scale to [0, 1] range relative to expected range [0.1, 0.8]
-    return round(min(1.0, max(0.0, sim)), 4)
-
-
-def _score_context_recall_heuristic(expected_answer: str, contexts: list[str]) -> float:
-    """
-    Context Recall: ROUGE-L between combined context and expected answer.
-    High score = context contains enough info to produce the expected answer.
-    """
-    if not contexts or not expected_answer:
-        return 0.0
-    combined_ctx = " ".join(contexts[:3])[:2000]
-    return _rouge_l(expected_answer, combined_ctx)
-
-
-def _score_context_precision_heuristic(question: str, contexts: list[str]) -> float:
-    """
-    Context Precision: avg cosine sim(question, each context chunk).
-    High score = retrieved context is relevant to the question.
-    """
-    if not contexts or not question:
-        return 0.0
-    model = _get_embedder()
-    q_emb = model.encode(question)
-    scores = []
-    for ctx in contexts[:5]:
-        ctx_emb = model.encode(ctx[:512])
-        scores.append(_cosine(q_emb, ctx_emb))
-    return round(sum(scores) / len(scores), 4)
+def _build_metrics():
+    from deepeval.metrics import (
+        FaithfulnessMetric,
+        AnswerRelevancyMetric,
+        ContextualRecallMetric,
+        ContextualPrecisionMetric,
+    )
+    return {
+        "Faithfulness": FaithfulnessMetric(threshold=0.5, model=JUDGE_MODEL, include_reason=True),
+        "Answer Relevancy": AnswerRelevancyMetric(threshold=0.5, model=JUDGE_MODEL, include_reason=True),
+        "Context Recall": ContextualRecallMetric(threshold=0.5, model=JUDGE_MODEL, include_reason=True),
+        "Context Precision": ContextualPrecisionMetric(threshold=0.5, model=JUDGE_MODEL, include_reason=True),
+    }
 
 
 def evaluate_config(config_name: str, run_fn, golden_dataset: list[dict]) -> dict:
     """
-    Chay RAG pipeline tren toan bo golden dataset va tinh 4 DeepEval RAG metrics.
-    Su dung LLMTestCase cua DeepEval lam data container.
-    Metrics duoc tinh bang embedding cosine similarity + ROUGE-L (khong can LLM judge).
+    Chay RAG pipeline tren toan bo golden dataset va tinh 4 DeepEval RAG metrics
+    that su dung LLM-as-judge (gpt-4o-mini qua OPENAI_API_KEY).
 
     Returns:
         dict chua ket qua tung metric va per-question scores
@@ -290,28 +192,26 @@ def evaluate_config(config_name: str, run_fn, golden_dataset: list[dict]) -> dic
                 "n_contexts": 0,
             })
 
-    # Tinh 4 DeepEval RAG metrics bang embedding similarity + ROUGE
-    metric_scores = {
-        "Faithfulness": [],
-        "Answer Relevancy": [],
-        "Context Recall": [],
-        "Context Precision": [],
-    }
+    metric_scores = {"Faithfulness": [], "Answer Relevancy": [], "Context Recall": [], "Context Precision": []}
 
-    print(f"\n  Scoring {len(test_cases)} test cases (embedding similarity + ROUGE-L)...")
+    print(f"\n  Scoring {len(test_cases)} test cases with DeepEval ({JUDGE_MODEL} judge)...")
     for j, tc in enumerate(test_cases, 1):
-        ctxs = list(tc.retrieval_context) if tc.retrieval_context else []
-
-        f  = _score_faithfulness_heuristic(tc.actual_output, ctxs)
-        ar = _score_answer_relevancy_heuristic(tc.input, tc.actual_output)
-        cr = _score_context_recall_heuristic(tc.expected_output, ctxs)
-        cp = _score_context_precision_heuristic(tc.input, ctxs)
-
-        metric_scores["Faithfulness"].append(f)
-        metric_scores["Answer Relevancy"].append(ar)
-        metric_scores["Context Recall"].append(cr)
-        metric_scores["Context Precision"].append(cp)
-        print(f"    [{j}/{len(test_cases)}] F={f:.3f}  AR={ar:.3f}  CR={cr:.3f}  CP={cp:.3f}")
+        metrics = _build_metrics()
+        row = {}
+        for name, metric in metrics.items():
+            try:
+                metric.measure(tc)
+                row[name] = round(metric.score, 4)
+            except Exception as e:
+                print(f"    [{j}] {name} FAILED: {e}")
+                row[name] = 0.0
+            metric_scores[name].append(row[name])
+        print(
+            f"    [{j}/{len(test_cases)}] "
+            f"F={row['Faithfulness']:.3f}  AR={row['Answer Relevancy']:.3f}  "
+            f"CR={row['Context Recall']:.3f}  CP={row['Context Precision']:.3f}"
+        )
+        raw_results[j - 1]["metrics"] = row
 
     avg_scores = {k: round(sum(v) / len(v), 4) if v else 0.0 for k, v in metric_scores.items()}
     avg_scores["Average"] = round(sum(avg_scores.values()) / len(avg_scores), 4)
@@ -342,17 +242,17 @@ def write_results(result_a: dict, result_b: dict) -> None:
         f"**Date:** {now}  ",
         f"**Framework:** DeepEval  ",
         f"**Dataset:** {len(result_a['per_question'])} Q&A pairs  ",
-        f"**Scoring:** Embedding cosine similarity (all-MiniLM-L6-v2) + ROUGE-L  ",
+        f"**Scoring:** DeepEval LLM-as-judge ({JUDGE_MODEL})  ",
         "",
         "---",
         "",
         "## Framework su dung",
         "",
-        "**DeepEval** (LLMTestCase) + embedding similarity scoring voi 4 metrics chuan cho RAG:",
-        "- **Faithfulness**: cosine sim(answer, best_context) — do bam sat vao context",
-        "- **Answer Relevancy**: cosine sim(question_emb, answer_emb) — do lien quan",
-        "- **Context Recall**: ROUGE-L(context, expected_answer) — ty le evidence duoc lay ve",
-        "- **Context Precision**: avg cosine sim(question, each_chunk) — ty le context huu ich",
+        f"**DeepEval** metrics built-in, cham diem bang LLM-as-judge ({JUDGE_MODEL} qua OpenAI API):",
+        "- **FaithfulnessMetric**: answer co bam dung retrieval_context khong (khong bia dat/hallucinate)",
+        "- **AnswerRelevancyMetric**: answer co tra loi dung trong tam cau hoi khong",
+        "- **ContextualRecallMetric**: retrieval_context co du evidence de sinh ra expected_output khong",
+        "- **ContextualPrecisionMetric**: trong retrieval_context, ty le chunk thuc su lien quan la bao nhieu",
         "",
         "---",
         "",
@@ -381,21 +281,48 @@ def write_results(result_a: dict, result_b: dict) -> None:
         "- **Retrieval**: Semantic search (ChromaDB, all-MiniLM-L6-v2) + BM25 (rank-bm25)",
         "- **Fusion**: Reciprocal Rank Fusion (RRF, k=60)",
         "- **Reranking**: Jina Reranker v2 cross-encoder (multilingual)",
-        "- **Generation**: NVIDIA Llama 3.1 Nemotron 70B (temperature=0.3, top_p=0.9)",
+        f"- **Generation**: OpenAI {GEN_MODEL} (temperature=0.3, top_p=0.9)",
         "",
         "### Config B — Dense-only, khong Reranking (Baseline)",
         "",
         "- **Retrieval**: Chi semantic search (ChromaDB, cosine similarity)",
         "- **Fusion**: Khong co",
         "- **Reranking**: Khong co",
-        "- **Generation**: NVIDIA Llama 3.1 Nemotron 70B (cung config)",
+        f"- **Generation**: OpenAI {GEN_MODEL} (cung config)",
         "",
         "### Ket luan",
         "",
     ]
 
+    def _refusal_rate(per_question: list[dict]) -> tuple[int, int]:
+        keywords = ("khong the xac minh", "không thể xác minh")
+        import unicodedata
+        def _norm(s: str) -> str:
+            s = unicodedata.normalize("NFD", s.lower())
+            return "".join(c for c in s if unicodedata.category(c) != "Mn")
+        n_refused = sum(1 for q in per_question if any(k in _norm(q.get("answer", "")) for k in keywords))
+        return n_refused, len(per_question)
+
+    refused_a, total_a = _refusal_rate(result_a["per_question"])
+    refused_b, total_b = _refusal_rate(result_b["per_question"])
     delta_avg = scores_a.get("Average", 0) - scores_b.get("Average", 0)
-    if delta_avg > 0:
+
+    if refused_a > total_a * 0.3 and refused_a > refused_b:
+        lines += [
+            f"Config A tu choi tra loi ({refused_a}/{total_a} cau, vi SYSTEM_PROMPT cua Task 10 bat buoc "
+            f"tra ve 'Toi khong the xac minh thong tin nay' khi khong tim thay evidence khop chinh xac — "
+            f"vd so dieu luat cu the) nhieu hon han Config B ({refused_b}/{total_b} cau, prompt long leo hon, "
+            f"khong yeu cau tu choi). Day la nguyen nhan chinh khien Answer Relevancy cua Config A "
+            f"({scores_a.get('Answer Relevancy', 0):.4f}) thap hon Config B ({scores_b.get('Answer Relevancy', 0):.4f}: "
+            f"cau tra loi tu choi bi giam judge cham diem 'khong lien quan'. Doi lai, Faithfulness cua Config A "
+            f"({scores_a.get('Faithfulness', 0):.4f}) cao hon han Config B ({scores_b.get('Faithfulness', 0):.4f}) "
+            f"vi khi Config A tra loi that, no bam rat sat context, khong bia dat. "
+            f"Day la tradeoff giua 'an toan/khong hallucinate' (Config A, dung spec Task 10) va "
+            f"'luon co cau tra loi' (Config B) — khong phai loi cua hybrid retrieval. "
+            f"De cai thien Answer Relevancy ma khong mat Faithfulness, nen mo rong corpus (them Bo luat Hinh su) "
+            f"de retrieval tim duoc evidence chinh xac hon, giam ty le tu choi oan.",
+        ]
+    elif delta_avg > 0:
         lines += [
             f"Config A (hybrid + rerank) vuot troi Config B (dense-only) voi Average score cao hon "
             f"{delta_avg:+.4f}. Dieu nay cho thay viec ket hop BM25 voi dense retrieval qua RRF giup "
@@ -404,27 +331,42 @@ def write_results(result_a: dict, result_b: dict) -> None:
         ]
     else:
         lines += [
-            f"Trong thu nghiem nay, Config B (dense-only) dat ket qua tuong duong Config A. "
-            f"Nguyen nhan co the do corpus nho (8 documents), khien BM25 va reranking chua the hien ro loi the. "
+            f"Trong thu nghiem nay, Config B (dense-only) dat Average cao hon Config A "
+            f"({scores_b.get('Average', 0):.4f} vs {scores_a.get('Average', 0):.4f}). "
+            f"Nguyen nhan co the do corpus nho, khien BM25 va reranking chua the hien ro loi the. "
             f"Voi corpus lon hon (100+ docs), hybrid + rerank thuong vuot troi dense-only.",
         ]
 
-    # Worst performers
+    # Worst performers — xep theo average metric score thap nhat (Config A)
     lines += [
         "",
         "---",
         "",
-        "## Worst Performers (Bottom 3 cua Config A)",
+        "## Worst Performers (Bottom 3 cua Config A, theo avg score)",
         "",
-        "| # | Question | Van de phat hien |",
-        "|---|----------|-----------------|",
+        "| # | Question | Avg Score | Van de phat hien |",
+        "|---|----------|-----------|-----------------|",
     ]
 
     per_q = result_a["per_question"]
-    for i, q in enumerate(per_q[-3:], 1):
+
+    def _avg_score(q: dict) -> float:
+        m = q.get("metrics")
+        return round(sum(m.values()) / len(m), 4) if m else 0.0
+
+    worst = sorted(per_q, key=_avg_score)[:3]
+    for i, q in enumerate(worst, 1):
         question_short = q["question"][:60] + ("..." if len(q["question"]) > 60 else "")
-        issue = "Context khong du, answer mang tinh chung chung" if not q["contexts"] else "Thieu du lieu phap ly cu the trong corpus"
-        lines.append(f"| {i} | {question_short} | {issue} |")
+        avg = _avg_score(q)
+        if not q["contexts"]:
+            issue = "Khong retrieve duoc context nao — answer mang tinh chung chung"
+        elif q.get("metrics", {}).get("Context Recall", 1) < 0.3:
+            issue = "Context Recall thap — corpus thieu du lieu cu the cho cau hoi nay"
+        elif q.get("metrics", {}).get("Faithfulness", 1) < 0.3:
+            issue = "Faithfulness thap — answer khong bam sat context da retrieve"
+        else:
+            issue = "Context lay ve khong du lien quan (Context Precision thap)"
+        lines.append(f"| {i} | {question_short} | {avg:.4f} | {issue} |")
 
     lines += [
         "",
@@ -434,12 +376,14 @@ def write_results(result_a: dict, result_b: dict) -> None:
         "",
         "**Van de chinh phat hien:**",
         "",
-        "1. **Corpus qua nho**: Chi 8 documents (3 legal + 5 news). Nhieu cau hoi phap ly cu the",
-        "   (vi du: Dieu 249, 250, 251 BLHS) khong co noi dung tuong ung trong corpus -> retrieval tra ve",
-        "   noi dung chung chung -> faithfulness thap.",
+        "1. **Con thieu mot so van ban chuyen sau**: Corpus hien co 9 documents, da bo sung Bo luat Hinh su",
+        "   2015 Chuong XX (Dieu 247-259). Nhung mot so cau hoi can noi dung ngoai pham vi Chuong XX",
+        "   (vd: quy dinh chung ve nguoi nuoc ngoai pham toi o Phan chung BLHS) hoac can Nghi dinh 57/2022",
+        "   (danh muc chat ma tuy) — cac van ban nay chua co trong corpus nen retrieval van khong tim duoc.",
         "",
-        "2. **Legal docs bi mat ky tu Unicode**: Do qua trinh convert .docx -> PDF -> PageIndex dung ASCII",
-        "   encoding, tieng Viet bi convert thanh '?' -> BM25 tokenization kem hieu qua cho tieng Viet.",
+        "2. **Retrieval doi khi bo sot noi dung da co san**: Mot vai cau hoi (vd ve Chuong III, Chuong V",
+        "   Luat 73/2021) co noi dung trong corpus nhung khong lot vao top-5 sau RRF + rerank —",
+        "   can tang top_k truoc rerank hoac giam chunk_size de tang do chinh xac.",
         "",
         "3. **all-MiniLM-L6-v2 chua toi uu cho tieng Viet**: Model duoc train chu yeu bang tieng Anh,",
         "   semantic similarity cho tieng Viet co the thap hon so voi model da ngu nhu BAAI/bge-m3.",
@@ -448,15 +392,21 @@ def write_results(result_a: dict, result_b: dict) -> None:
         "",
         "## Recommendations",
         "",
-        "### Cai tien 1: Mo rong corpus",
-        "**Action:** Thu thap them 20-30 van ban phap luat (PDF chuan, khong phai DOCX cu) va 20+ bai bao.  ",
-        "**Expected impact:** Context Recall tang tu ~0.4 len ~0.7; Faithfulness tang vi LLM co du evidence.",
+        "### Cai tien 1: Bo sung cac van ban con thieu",
+        "**Action:** Them Nghi dinh 57/2022/ND-CP (danh muc chat ma tuy) va phan quy dinh chung ve",
+        "hieu luc doi voi nguoi nuoc ngoai pham toi (Chuong I, Phan thu nhat BLHS) vao corpus.  ",
+        "**Expected impact:** Giai quyet cac cau hoi con lai dang bi tu choi vi thieu evidence dung.",
         "",
-        "### Cai tien 2: Chuyen sang embedding model da ngu",
+        "### Cai tien 2: Tang top_k truoc rerank + giam chunk_size",
+        "**Action:** Lay top_k=15-20 candidates truoc khi rerank xuong top_k=5 (hien retrieve truc tiep 5),",
+        "va thu giam chunk_size tu 500 xuong 300 de tang do chinh xac cua chunk chua dieu luat cu the.  ",
+        "**Expected impact:** Giam ty le retrieval bo sot noi dung da co san trong corpus.",
+        "",
+        "### Cai tien 3: Chuyen sang embedding model da ngu",
         "**Action:** Thay all-MiniLM-L6-v2 bang `BAAI/bge-m3` (multilingual, 1024 dim).  ",
         "**Expected impact:** Answer Relevancy va Context Precision tang ~10-15% cho query tieng Viet.",
         "",
-        "### Cai tien 3: Vietnamese tokenization cho BM25",
+        "### Cai tien 4: Vietnamese tokenization cho BM25",
         "**Action:** Dung `underthesea` (Vi NLP) de tokenize tieng Viet thay vi `.split()` don gian.  ",
         "**Expected impact:** BM25 nhan biet duoc 'ma tuy' vs 'matuy', tang Context Recall cho query phap luat.",
         "",
@@ -488,13 +438,10 @@ def main():
     print("=" * 60)
 
     golden_dataset = load_golden_dataset()
+    print(f"\nUsing all {len(golden_dataset)} questions for evaluation")
 
-    # Chay Config A va B (dung subset 8 cau de nhanh hon)
-    subset = golden_dataset[:8]
-    print(f"\nUsing {len(subset)} questions for evaluation (subset of {len(golden_dataset)})")
-
-    result_a = evaluate_config("Config A — Hybrid + Rerank", run_config_a, subset)
-    result_b = evaluate_config("Config B — Dense-only", run_config_b, subset)
+    result_a = evaluate_config("Config A — Hybrid + Rerank", run_config_a, golden_dataset)
+    result_b = evaluate_config("Config B — Dense-only", run_config_b, golden_dataset)
 
     write_results(result_a, result_b)
     print("\nDone!")

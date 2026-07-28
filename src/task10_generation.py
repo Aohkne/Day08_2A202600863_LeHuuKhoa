@@ -39,8 +39,8 @@ TOP_P = 0.9
 TEMPERATURE = 0.3
 
 OPENAI_API_KEY = os.getenv("OPENAI_API_KEY", "")
-OPENAI_BASE_URL = os.getenv("OPENAI_BASE_URL", "https://integrate.api.nvidia.com/v1")
-LLM_MODEL = "meta/llama-3.1-70b-instruct"
+OPENAI_BASE_URL = os.getenv("OPENAI_BASE_URL") or None
+LLM_MODEL = os.getenv("LLM_MODEL", "gpt-4o-mini")
 
 
 # =============================================================================

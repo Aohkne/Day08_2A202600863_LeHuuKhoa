@@ -175,7 +175,7 @@ with st.sidebar:
         st.rerun()
 
     st.markdown("---")
-    st.caption("Stack: Streamlit · ChromaDB · BM25 · Jina Reranker · NVIDIA Llama 3.1 Nemotron 70B")
+    st.caption("Stack: Streamlit · ChromaDB · BM25 · Jina Reranker · OpenAI gpt-4o-mini")
 
 
 # Main area

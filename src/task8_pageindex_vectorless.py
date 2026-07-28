@@ -157,7 +157,11 @@ def pageindex_search(query: str, top_k: int = 5) -> list[dict]:
         print("  PAGEINDEX_API_KEY chua set -- bo qua PageIndex fallback")
         return []
 
-    from pageindex import PageIndexClient
+    try:
+        from pageindex import PageIndexClient
+    except ModuleNotFoundError:
+        print("  Package 'pageindex' chua duoc cai (pip install pageindex) -- bo qua fallback")
+        return []
 
     pi = PageIndexClient(api_key=PAGEINDEX_API_KEY)
 
