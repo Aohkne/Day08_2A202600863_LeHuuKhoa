@@ -1,1877 +1,1899 @@
-## CHINHPHU
+## CHÍNH PHÙ
 
-S6:105/2021/ND-CP
+S:105/2021/ND-CP
 
-## CONGHOAXAHQICHUNGHIAVIETNAM Doclap-Tr do-Hanhphuc
+## CNG HÒA XÃ HI CHÙ NGHÍA VIT NAM Đc lp - T do - Hąnh phúc
 
-HaNoi,ngay04thang12nam2021
+Hà Ni, ngày 04 tháng 12 năm 2021
 
-## NGHIDINH Quydinhchi tietvahuongdan thi hanh motsodieucuaLuatPhong,chongma tuy
+## NGHIDNGH Quy đinh chi tit và huóng dn thi hành mt s điu cůa Lut Phòng, chông ma túy
 
-CancirLuatTochircChinhphungay19thang6nam2015;Luat siradoi bosungmotsodieuciiaLuatTochircChinhphuvaLuatTochircchinhquyen diaphuongngay22thang11nam2019;
+Căn c Lut T chúc Chinh ph ngày 19 tháng 6 năm 2015; Lut sia đi, b sung mt s điu ca Lut T chc Chinh ph và Lut T chc chinh quyn đa phưong ngày 22 tháng 11 năm 2019;
 
-CancirLuatPhong,chongma tiyngay30 thang3nam2021;
+Căn c Lut Phòng, chng ma túy ngày 30 tháng 3 năm 2021;
 
-TheodenghicuaBotruongBoCongan;
+Theo đ ngh ca B trưng B Công an;
 
-ChinhphubanhanhNghidinhquydinhchitietvahurongdanthihanh motsodieucuaLuatPhong,chongma tiy
+Chin ph ban hành Ngh nh quy đnh chi tit và hưng dn thi hành mt s điu cúa Lut Phòng, chng ma túy.
 
-## ChuongI QUYDINHCHUNG
+## Chuong I QUY DINH CHUNG
 
-## Dieu 1.Phamvi dieu chinh
+## Điu 1. Phąm vi điu chinh
 
-Nghi dinhnayquydinh chi tietvahuongdan thihanhmotsodieu cua LuatPhong,chongma tuyvecongtacphoihopcuacaccoquanchuyentrach phong,chongtoiphamvematuy;kiemsoatcachoatdonghopphaplienquan denma tuyvaquanlynguoisudungtraiphepchatmatuydurgcquydinh tai khoan5Dieu11,khoan2Dieu13,khoan2Dieu14,Dieu16,khoan3Dieu17, Dieu18,Dieu19,khoan6Dieu23cuaLuatPhong,chongma tuys73/2021/QH14 ngay30 thang3nam2021.
+Ngh đnh này quy đn chi tit và hưóng dn thi hành mt s điu ca Lut Phòng, chông ma túy v công tác phi hp cua các cơ quan chuyên trách phòng, chng ti phm v ma túy; kim soát các hot đng hp pháp liên quan đn ma túy và qun lý ngưòi s dng trái phép cht ma túy đưc quy đnh ti khoan 5 Điu 11, khoàn 2 Điu 13, khoàn 2 Điu 14, Điu 16, khoàn 3 Điu 17, Điu 18, Điu 19, khon 6 Điu 23 ca Lut Phòng, chng ma túy s 73/2021/QH14 ngày 30 tháng 3 năm 2021.
 
-## Dieu 2.Doi tuong ap dung
+## Điu 2. Đi tưng áp dng
 
-Nghi dinhnay ap dung doivoi caccoquan,to chtrc,canhan colienquan dencong tacphoihopphong,chongtoiphamvematuy;kiemsoatcachoat dong hopphaplienquandenma tuy;quanlynguoisir dungtraiphepchatma tuy.
+Ngh đnh này áp dng đi vi các co quan, t chc, cá nhân có liên quan đn công tác phi hp phòng, chng ti phm v ma túy; kim soát các hot đng hp pháp liên quan đên ma túy; quàn lý ngưòi s dng trái phép cht ma túy.
 
-## Dieu 3.Nguyen tac thuchien
+## Điu 3. Nguyên tc the hin
 
-- 1.Congtacphoihop cuacaccoquan chuyentrachphong,chongtoipham vema tuy;kiem soatcac hoat donghopphaplien quan denma tuyva quan ly nguoi sur dung traiphepchatma tuyphai tuan thu LuatPhong,chongma tuy，
-
-<!-- image -->
-
-- 2.Congtacphoihopcuacaccoquanchuyentrachphong,chongtoipham vema tuyphaidambaocacnguyen tacsau:
-- a)Trencosochurcnang,nhiemvvaquyenhancua tingbo,nganh,da phuong,caccoquanchuyentrachphong,chongtoiphamvema tuythychien cachoat dongphoihopdambaosydoanket,hiepdong,hotrglannhau;
-- b)Moikhu vuc,djaban do mot co quan chju trach nhiem chinh,chu tri trongcongtacphongngira,dau tranhvoitoiphamvema tuy;cac coquankhac cotrachnhiemphoi hop theo chucnang,nhiem vu;
-- c)Viec trao doi thong tintoipham,thuc hiencacbien phapnghiepvu dam baokip thoi,chinh xac,dung quy dinhbaovebi matnha nuoc;
-- d)Coquanchuyentrachphong,chongtoiphamvema tuythuocCongan nhandanlanongcottrongcachoat dongphoi hopgiura cacco quanchuyen trach trongcongtacphongngira,dautranhvoitoiphamvema tuytrenpham vitoanquoc.
-- 3.Kiem soat cachoat dong hopphaplienquan denma tuyphai dambao cacnguyen tac sau:
-- a) Cachoatdonghopphaplienquandenmatuytheoquydinh taikhoan1 Dieu12cuaLuatPhong,chongmatuyphaidugckiemsoatchatchetheoting nganh,linhvuc,diaphuongvaphaikiem soat densanphamcuoi cung;
-- b)Co quan quanlynha nuoccothamquyen trongphamvi chucnang, nhiemvu,quyenhan cuaminhcotrachnhiemquanlycachoat dongthuoclinh vuc chuyennganhva phoi hopkiem soat cac hoatdong hopphaplienquan den ma tuy.
-- 4.Congtacquan lynguoisurdungtraiphepchatmatuyphaidambaocac nguyen tac sau:
-- a)Viecquanlynguoisirdung traiphepchatma tuyphaiduroctienhanh congkhai,khach quanva dungquydinhcuaphapluat;
-- b)Ton trong,dambao quyenva loiich hopphap cua nguoi sudung trai phepchatmatuyvagiadinhcuaho;
-- c) Gia dinh,coquan,tochurcvacong dongnoinguoi su dung traiphep chatma tuycutru,congtac,lamviec,hoctapcotrachnhiem thamgiaquanly nguoi sir dung traiphep chatma tuy;
-- d)Thongtin,tai lieuvenguoi su dung traiphepchatma tuyduoccapnhat thuongxuyen,chinhxac;
-- d) Caccoquan churcnangphaiphoi hopchatche trongqua trinhquan ly nguoisrdungtraiphepchatma tuytheodungchurcnang,thamquyenvatrach nhiemdurgcphancong,tuanthu dungtrinhtu,thu tucvathoihangiaiquyet cong viec;
-- e)Nghiemcamloi dungviecquanlynguoisurdungtraiphepchatma tuy dexam pham quyen,lgi fch hop phap cua cong dan.
+1. Công tác phi hp cua các cơ quan chuyên trách phòng, chng ti phm v ma túy; kim soát các hot đng hop pháp liên quan đn ma túy và quán lý ngưòi s dng trái phép cht ma túy phi tuân thù Lut Phòng, chông ma túy, Ngh đnh này và quy đnh ca văn bàn quy phm pháp lut có liên quan.
 
 <!-- image -->
 
-## Dieu4.Giai thich tirngir
-
-TrongNghi dinhnay,nhungtirngurduoidaydugchieunhusau:
-
-- 1.Sanxuat chatma tuy la hoat dong taora chatma tuytircay cochurachat ma tuy,tienchat,hoachathoactirchatmatuykhacduoimoi hinh thurc,cach thuc,phuongphap.Viecsan xuatnaykhongbaogomviec trongcaycochura chat ma tiy.
-- 2.Sanxuat tienchat la hoat dong taora tienchat thongqua cacphanimg hoahoc.
-- 3.Huan luyennghiepvu phong,chong toiphamvema tuy lacachoat dong daotao,taphuan,boi duongnghiepvuchonguoilamcongtacphong,chongma tuy;huan luyen dongvatnghiepvuvacachoatdongkhacvecach thurc,phuong phap,dauhieunhanbietchatmatuy,tienchatthuocgaynghien,thuochuongtan, thuoc tienchat,nguyenlieu lam thuocladugcchatgay nghien,dugc chathuong than,tienchatdunglam thuocva thuocthuycochirachatma tuy,tienchat.
-- h6a,hoaly，vatlydexacdinh trangthai,banchatnguyenlieu,chviet,hinh anh,1ogo trenbaobi,thungchura,nhan hangnham xac dinhnguongocnoi san xuat,nguyenliuungphap,cachthuc dieuchsanxuatcacchatmaty phucvu congtacphong,chong toiphamvema tuy.
-
-## ChuongII PHOIHOPCUACACCOQUANCHUYENTRACH PHONG,CHONGTOIPHAMVEMATUY
-
-## Dieu5.Caccoquan chuyen trachphong,chong toiphamvema tuy
-
-- 1.Coquan chuyen trachphong,chongtoiphamvema tuy thuoc Congan nhan dan baogom:Cuc Canh sat dieu tra toi phamvema tuy,Bo Congan; PhongCanhsatdieutratoiphamvema tuyCongantinh,thanhphotrycthuoc dieu tra toi pham ve ma tuy) Cong an huyen,quan,thi xa,thanh pho thuoc tinh, thanhphotrycthuoctrunguong.
-- 2.Coquan chuyen trach phong,chong toi phamvema tuy thuocBodoi Bien phong baogom:CucPhong,chongma tuyva toipham;Doan dacnhiem phong,chongtoiphammatuyvatoipham,BoTulenhBdoiBienphong,B Quocphong;PhongPhong,chongma tuyva toipham(BanPhong,chong ma tuyvatoipham),DoiDacnhiemphong,chongma tuyva toipham thuocB chi huyBodoiBienphongcaptinh,thanhpho;Doi Phong,chongma tuyva toipham thuoc cacDonBienphong(Ban Chi huyBienphongcurakhau cang); Hai doan Bien phong
-- 3.Caquan chuyen trachphong,chong toipham vema tuy thuocCanh sat bienbaogom:CucNghiepvuvaphapluat,cacDoandacnhiemphong,chong toi pham ma tuy thuocBoTu lenh Canh sat bien,Bo Quocphong;Phong Phong,chong toiphamma tuy thuoccacVungCanhsatbien.
-- 4.Coquan chuyentrachphong,chongtoiphamma tuy thuocHaiquan baogom:CucDieu trachong buon lau thuocTong cucHai quan,BoTai chinh; DoiKiemsoatphong,chongma tuy(hoacDoiKiem soatHaiquan) tryc thuoc CucHaiquan tinh,lien tinh,thanhpho;ToKiem soatma tuy thuoc Chi cuc Hai quan curakhau.
+2. Công tác phi hp cùa các cơ quan chuyên trách phòng, chông ti phm v ma túy phi đàm bào các nguyên tăc sau:
+- a) Trên co s chc năng, nhim v và quyn hn cùa trng b, ngành, đa phuong, các co quan chuyên trách phòng, chông ti phm v ma túy thc hin các hot đng phi hp đám bo s đoàn kt, hip đng, h tr ln nhau;
+- b) Mi khu vc, đja bàn do mt co quan chu trách nhim chính, chù trì trong công tác phòng nga, đu tranh vi ti phm v ma tuý; các co quan khác có trách nhim phi hp theo chc năng, nhim v;
+- c) Vic trao đi thông tin ti phm, thc hin các bin pháp nghip v đm bào kip thòi, chính xác, đúng quy đnh bào v bí mt nhà nuc;
+- d) Co quan chuyên trách phòng, chng ti phm vè ma túy thuc Công an nhân dân là nòng ct trong các hot đng phi hp gia các cơ quan chuyên trách trong công tác phòng nga, đu tranh vói ti phm v ma tuý trên phm vi toàn quc.
+3. Kim soát các hot đng hp pháp liên quan đn ma túy phài đám bo các nguyên tăc sau:
+- a) Các hot đng hp pháp liên quan đn ma túy theo quy đnh ti khoán 1 Điu 12 cúa Lut Phòng, chông ma túy phài đưc kim soát cht chē theo tirng ngành, līnh vc, đa phưong và phài kim soát đn sn phm cui cùng;
+- b) Cσ quan quàn lý nhà nưc có thm quyn trong phm vi chc nāng, nhim v, quyn hn cua minh có trách nhim quàn lý các hot đng thuc līnh vc chuyên ngành và phi hp kim soát các hot đng hp pháp liên quan đn ma túy.
+4. Công tác qun lý nguòi s dng trái phép cht ma túy phài đàm bào các nguyên tc sau:
+- a) Vic quàn lý ngưi s dng trái phép cht ma túy phi đưc tin hành công khai, khách quan và đúng quy đnh cua pháp lut;
+- b) Tôn trng, đám bo quyn và li ích hp pháp ca ngưòi s dng trái phép cht ma túy và gia đình ca ho;
+- c) Gia đinh, cơ quan, t chúc và cng đồng noi ngưi s dng trái phép cht ma túy cư trú, công tác, làm vic, hc tp có trách nhim tham gia quàn lý ngưòi s dng trái phép cht ma túy;
+- d) Thông tin, tài liu v ngưi s dng trái phép cht ma túy đưc cp nht thuòng xuyên, chính xác;
 
 <!-- image -->
 
-## Dieu6.Phoihop tham muu,chi dao
+- đ) Các cơ quan chc năng phi phi hp cht ch trong quá trình quàn lý ngưòi s dng trái phép cht ma túy theo đúng chúc năng, thm quyn và trách nhim đưc phân công, tuân thù đúng trinh t, thů tc và thi hn gii quyt công viêc;
+- e) Nghiêm cm li đng vic qun lý ngưi s dng trái phép cht ma túy đ xâm phm quyn, li ích hp pháp ca công dân.
 
-- 1.Cac co quan chuyen trach phong,chong toi phamvema tuyphoi hop nghiencuru,baocao,thammuucapcotham quyencacchu truong,bienphap tangcuongphoihop trongcongtacphongngia,dau tranhvoi toipham vé matuy.
-- 2.Dexuat sura doi,bosungco che,chinh sachphap luatkhiphat sinh nhingvandemoi trong congtacphongngiura,dau tranhvoi toiphamvema tuy theo tham quyen hoacbao caocap co tham quyen sura dbi,bosung,ban hanhmoi dambaoyeu cauquanlynhanuocvephong,chongma tuy.
-- 3.Phoihop trienkhaiva tochuc thychienhieu quacacnhiemvu cong tactheolinhvucphutrach.
+## Điu 4. Gii thích tìr ngū
 
-## Dieu 7.Phoi hop tuyen truyen,van dongNhan dan
+Trong Ngh đnh này, nhng t ng dưi đây đưc hiu như sau:
 
-Cac coquanchuyen trachphong,chongtoiphamvematuy traodoi,thong nhat de thammuu capuy,chinh quyencaccaptochtrc tuyen truyen,nangcao nhan thucchoNhan danvephapluatphong,chongma tuy,phuong thurc,thu doan hoat dong cua toipham vematuy,hauquava tachai cua ma tuy;bien soan tai lieu,xay dung,trienkhaikehoach tuyen truyen,van dongNhan dan tich cycthamgiaphongngira,phathien,togiacvadau tranhvoitoipham,t nan ma tuy.
+1. Sn xut cht ma túy là hot đng to ra cht ma túy t cây có cha cht ma túy, tin cht, hóa cht hoc t cht ma túy khác dưói mi hinh thc, cách thc, phưong pháp. Vic sàn xut này không bao gồm vic trng cây có cha cht ma túy.
+2. Sn xut tin cht là hot đng to ra tin cht thông qua các phn mg hóa hc.
+3. Hun luyn nghip v phòng, chng ti phm v ma túy là các hot đng đào to, tp hun, bi dưõng nghip v cho ngưòi làm công tác phòng, chông ma túy; hun luyn đng vt nghip v và các hot đng khác v cách thc, phưong pháp, du hiu nhn bit cht ma túy, tin cht, thuc gây nghin, thuc hưóng thn, thuc tin cht, nguyên liu làm thuc là dưc cht gây nghin, dưc cht hưóng thn, tin cht dùng làm thuc và thuc thú y có cha cht ma túy, tin cht.
+4. Truy nguyên ngun gc ma túy là vic áp dng các phưong pháp sinh hóa, hóa lý, vt lý đ xác đnh trng thái, bn cht nguyên liu, ch vit, hinh ành, lô gô trên bao bi, thùng cha, nhãn hàng nhăm xác đinh ngun gc noi sàn xut, nguyên liu, phưong pháp, cách thc điu ch, sàn xut các cht ma túy phc v công tác phòng, chông ti phm v ma túy.
 
-<!-- image -->
+## Chuong II PHÓI HQP CÚA CÁC CO QUAN CHUYÊN TRÁCH PHÒNG, CHÓNG TI PHAM VÈ MA TÚY
 
-## Dieu 8.Phoi hop trao doi thong tin
+## Điu 5. Các co quan chuyên trách phòng, chông ti phm v ma túy
 
-- 1.Noi dung thong tin,tai lieu trao doi giura cac co quan chuyen trach phong,chongtoiphamvematuygom:
-- a)Tinh hinh toiphamvema tuy tren thegioi;chinh sach,phapluatcua cac nuocvevandematuy;thongtintoiphamvematuycolienquandenVietNam docacnuocvatochurcquocte traodoi;tinhhinh toiphamvematuy taikhu vucbiengioi,curakhauva trenbien.
-- b)Ket qua cong tacphongngira,dau tranhvoitoiphamvema tuy cua quyluathoat dong cuacac doituong phamtoi;cactochrc,duong day,onhom, cac tuyen,djaban trongdiem;cacdoituong truynavema tuy;
-- c)Quy trinh,quy che cong tac,kinh nghiem va cac bien phap giaiquyet kh6khan,vuongmac trongcongtacphongngira,dau tranhvoitoiphamvema tuy cuacacco quan chuyen trach;
-- d)Tienbokhoahoc,ky thuat,congnghecotheap dungphucvucong tac phong,chongtoiphamvema tuy;
-- d) Cacloaimatuymoivacacvanbanquyphamphapluatmoitrongcong tacphongngira,dau tranhvoitoi phamve ma tuy;
-- e)Thong tin,tai lieu khac theo de nghi khi coyeu cau.
-- 2.Coquanchuyen trachphong,chongtoi phamvematuythuoc Cong an nhan dan,BodoiBienphong,Canh satbien,Hai quancotrachnhiem thong bao,chia sekipthoicacthong tin,tailieuvehoat dong cuatoiphamma tuyco lienquan denkhuvuc,diabandoluc luongkhacchutridephoi hopgiaiquyet.
-
-## Dieu 9.Phoi hgp thuc hien cac bien phap nghiep vu
-
-- 1.Caccoquan chuyen trachphong,chong toiphamvema tuyphoi hop tochirc lurc lurong,phuong tienva ap dung cacbienphapnghiepvudephong ngura,dau tranhvoitoiphamvema tuy;traodoinghiepvudedieu tra,xuly vy an,vyviectheoyeu cau.
-- 2.Co quan chuyen trach phong,chong toipham vema tuy thuocBdoi Bienphong,Canh satbienvaHai quanphoihopvoicoquan chuyen trach phong,chongtoiphamvema tuy thuoc Cong annhan dan cung capthyc hien cacbienphapnghiepvutaicackhuvyc,djabanquanly
-- a)Tainhingdiaban trongdiem,phirctapvematuy,coquanchuyentrach phong,chongtoiphamvema tuythuocCongannhandan chudongphoi hop voi caccoquan chuyen trachphong,chong toiphamvema tuy thuocBodoi Bien phong,Canh satbienva Hai quan cokehoach trienkhaicacbienphap nghiepvutaptrunggiaiquyet;
+1. Co quan chuyên trách phòng, chông ti phm v ma túy thuc Công an nhân dân bao gồm: Cc Cành sát điu tra ti phm v ma túy, B Công an; Phòng Cnh sát điu tra ti phm v ma túy Công an tinh, thành ph trc thuc trung ưong; Đi Cnh sát điu tra ti phm v ma túy (hoc Đi có chc năng điu tra ti phm vè ma túy) Công an huyn, qun, th xã, thành ph thuc tinh, thành ph trrc thuc trung ưong.
 
 <!-- image -->
 
-b)Khico quanchuyen trach phong,chongtoiphamvema tuy thuocCong annhan dancoyeucauphoihop thuchiencongtacnghiepvu trinhsatokhu vrcbiengioi,curakhauva trenbien,thi coquan chuyentrachphong,chong ti phamvematuy thuocBodoiBienphong,CanhsatbienvaHaiquancotrach nhiemphoihop traodoi thongtinvahotrg trienkhai thuc hien;
+2. Cơ quan chuyên trách phòng, chng ti phm vè ma túy thuc B đi Biên phòng bao gồm: Cc Phòng, chông ma túy và ti phm; Đoàn đc nhim phòng, chng ti phm ma túy và ti phm, B Tư lnh B đi Biên phòng, B Quc phòng; Phòng Phòng, chông ma túy và ti phm (Ban Phòng, chông ma túy và ti phm), Đi Đc nhim phòng, chông ma túy và ti phm thuc B chi huy B đi Biên phòng cp tinh, thành ph; Đi Phòng, chông ma túy và ti phąm thuc các Đn Biên phòng (Ban Chi huy Biên phòng ca khu càng); Hi đoàn Biên phòng
+3. Cơ quan chuyên trách phòng, chông ti phm v ma túy thuc Cnh sát bin bao gồm: Cc Nghip v và pháp lut, các Đoàn đc nhim phòng, chông ti phm ma túy thuc B Tư lnh Cành sát bin, B Quc phòng; Phòng Phòng, chng ti phm ma tuý thuc các Vùng Cành sát bin.
+4. Cơ quan chuyên trách phòng, chông ti phm ma túy thuc Hi quan bao gồm: Cuc Điu tra chông buôn lu thuc Tng cc Hi quan, B Tài chính; Đi Kim soát phòng, chông ma túy (hoc Đi Kim soát Hi quan) trc thuc Cc Hi quan tinh, liên tinh, thành ph; T Kim soát ma túy thuc Chi cc Hi quan ca khu.
 
-c)Khi co quan chuyen trachphong,chong toi pham vema tuy thuoc B doiBien phong,Canh satbien,Hai quan thuchiencacbienphap nghiepvu phong,chong toiphamvema tuy onoi dialien quan denkhuvyc biengioi, cuakhauva trenbien,thico quan chuyentrachphong,chongtoiphamvema tuy thuocCong annhan dancotrachnhiemphoihoptraodoithongtinva ho tro trienkhai thuchien.
+## Điu 6. Phi hp tham mưu, chi đo
 
-## Dieu 10.Phoi hop dau tranh chuyen anva dieu tra,xirly cacvu an, vuvieccu the
+1. Các cơ quan chuyên trách phòng, chông ti phm v ma túy phi hp nghiên cu, báo cáo, tham mưu cp có thm quyn các chú trưong, bin pháp tăng cưòng phi hop trong công tác phòng nga, đu tranh vi ti phm v ma tuý.
+2. Đ xut sa đi, b sung cơ ch, chính sách pháp lut khi phát sinh nhng vn đ mói trong công tác phòng nga, đu tranh vói ti phm v ma tuý theo thm quyn hoc báo cáo cp có thm quyn sa đi, b sung, ban hành mi đm bào yêu cu qun lý nhà nưc v phòng, chng ma túy.
+3. Phi hp trin khai và t chc thc hin hiu qu các nhim v công tác theo līnh vc ph trách.
 
-1.Cac co quan chuyen trach phong,chong toi pham vema tuyphoihop xaclap,dau tranhchuyenantrongcactruonghopsau:
+## Điu 7. Phi hp tuyên truyn, vn đng Nhân dân
 
-a)Doivoi cacchuyen anma tuydocoquan chuyen trachphong,chong toiphamvéma tuythuocBodoiBienphong,Canhsatbien,Haiquanxaclap dau tranhcodoituonglienquandendiabannoidjathicoquanchuyentrach phong,chongtoiphamvema tuythuocCongannhan dan chu dongphoi hop, thuchientheoyeucauva tiepnhankip thoihoso,vatchinglienquan dedieu tra,xulytheoquydinh cuaphapluat;
-
-b)Doivoi cacchuyen an ma tuy do co quan chuyen trachphong,chong lienquandenkhuvucbiengioi,curakhauva trenbienthi coquanchuyen trach phong,chongtoiphamvematuythuocBodoiBienphong,Canhsatbienva Haiquan phoihop,thychien theoyeucau;
-
-c)Doivoinhtngchuyen anmatuyphuc tap,doi tuong colienquan den nhieu diaphuong,hoat dongxuyenquocgia,cotinhquoctethicaccoquanphi trachphong,chongtoiphamvema tuy thuoc lurclurongnaophat hien thi dong chu tri voicoquan chuyen trachphong,chong toiphamvema tuy thuocCong annhandan,caccoquan con laiphoi hop thamgia;thamquyenpheduyet thanh lapBan Chi dao chuyenan:lyc luongCong an laTruong ban chi dao,lyclurong Bodoi Bienphong,Canhsatbien,Haiquanlathanhvien;BanChi daochuyen anlacap trenmotcap cuaBan chuyenan;
-
-d)Trurong hop co quan chuyen trachphong,chong toiphamvema tuy thuocBdoiBienphong,Canhsatbien,Haiquantaidiaban,khuvycquanly cua minh,neuphathien thong tin,tailieu cocancurxaclapchuyenan thi chu xaclapchuyenandedau tranh.
+Các cơ quan chuyên trách phòng, chông ti phm v ma tuý trao đi, thng nht đ tham mưu cp y, chính quyn các cp t chc tuyên truyn, nâng cao nhn thc cho Nhân dân v pháp lut phòng, chông ma tuý, phưong thc, thú đon hot đng ca ti phm v ma tuý, hu quà và tác hi ca ma tu; biên son tài liu, xây dng, trin khai k hoch tuyên truyn, vn đng Nhân dân tích cc tham gia phòng ngra, phát hin, t giác và đu tranh vói ti phm, t nn ma tuý.
 
 <!-- image -->
 
-- 2.Caccoquanchuyentrachphoi hop trongqua trinhdieu tra toipham va xir lyviphamphapluatvema tuy theoquydinhcuaphapluat.
-- a)Truonghopcoquan chuyentrachphong,chongtoiphamvema tuy thuoc Cong annhandancoyeucau thuchiencachoatdongnghiepvudieu tra vetoiphamma tuykhuvrcbiengioi,cuakhauva trenbien thico quan satbienva Haiquan c6trachnhiemphoihop,taodieukienhotrgco quan chuyen trach phong,chongtoi phamvema tuy thuoc Cong an nhan dan hoan thanhnhiemvu;
-- b) Coquanchuyentrachphong,chongtoiphamvematuy thuocCongan nhandancotrachnhiemhotro,taodieukienthuanlgi chocoquanchuyen trachphong,chongtoiphamvema tuythuocBodoiBienphong,Canhsatbien vaHaiquankhicaccoquannaycoyeucauphoi hopdieutra,xulyvetoipham vaviphamphapluatvematuytrongnoidia;
+## Điu 8. Phi hp trao đi thông tin
 
-Khi nhan duocyeucau cua coquan chuyen trachphong,chongtoipham vematuy thuocBodoiBienphong,CanhsatbienvaHaiquanveviectruybat di tuong,truytimphuongtienvatchungcolienquandentoipham,vipham phapluatvematuytirbiengioi,cuakhauhoactrenbienvaonoi dia,coquan chuyentrach phong,chongtoiphamvema tuythuoc Congannhan dan co trachnhiemtrienkhaingaylucluongphoihopbatgiur,truy tim.Saukhi bat gidurocdoiturong,truytimdugcphuongtien,vatchungthikhantruongthong baovabangiaohoso,doiturong,vatchungphuongtienchocoquanyeucau detieptucdieutra theoquydinhcuaphapluat;
+1. Ni dung thông tin, tài liu trao đi gia các cơ quan chuyên trách phòng, chông ti phm v ma túy gồm:
+- a) Tinh hinh ti phm v ma tuý trên th giói; chính sách, pháp lut cua các nuóc v vn đ ma túy; thông tin ti phm v ma túy có liên quan dn Vit Nam do các nưc và t chc quc t trao đi; tinh hinh ti phm v ma túy ti khu vc biên gii, ca khu và trênbin.
+- b) Kt quà công tác phòng ngra, đu tranh vi ti phm v ma túy ca tùng co quan; kt quà x lý tin báo, t giác ti phm ma túy  khu vc biên giói; d báo xu hưóng, tinh hinh ti phm v ma túy; phưong thc, thù đon, quy lut hot đng ca các đi tưng phm ti; các t chc, đưòng dây,  nhóm, các tuyn, đja bàn trng đim; các đi tưng truy nã v ma tuý;
+- c) Quy trình, quy ch công tác, kinh nghim và các bin pháp gii quyt khó khăn, vưóng măc trong công tác phòng ngira, đu tranh vi ti phm v ma tuý cúa các co quan chuyên trách;
+- d) Tin b khoa hc, k thut, công ngh có th áp dng phc v công tác phòng, chông ti phm v ma túy;
+6. đ) Các loi ma túy mói và các văn bàn quy phm pháp lut mi trong công tác phòng nga, đu tranh vi ti phm v ma túy;
+- e) Thông tin, tài liu khác theo đ ngh khi có yêu cu.
+2. Cơ quan chuyên trách phòng, chông ti phm v ma túy thuc Công an nhân dân, B đi Biên phòng, Cành sát bin, Hi quan có trách nhim thông báo, chia sė kip thi các thông tin, tài liu v hot đng cùa ti phm ma túy có liên quan đn khu vc, đa bàn do lc lưng khác chù trì đ phi hp gii quyt.
 
-- c)Sau khi ket thuc dieu tra,xi lycacvu an,vuviec,cac co quan thong baoketquaphoihopvoinhauva thongnhattochurctongketrutkinhnghiem.
-- 3.Trong truong hop can thiet,co quan chuyen trachphong,chong toi phamvematuychu tri,dexuatthanhlapTocongtacphoi hopliennganh;cac coquan chuyentrachphong,chong toiphamvema tuykhaccircanbo tham gia.Tocongtac tugiai thesaukhi hoan thanhnhiemvu.
+## Điu 9. Phi hp thc hin các bin pháp nghip v
 
-## Dieu 11. Cac noi dung phbi hyp khac
-
-- 1.Caccoquanchuyen trachphong,chongtoiphamvema tuy trongpham lannhau trongcongtachuanluyennghiepvuphong,chongtoiphamvematuy; phoihopthuchienhoacdexuatcapc6thamquyenxemxetkhenthuongcho cactapthe,canhanco thanhtichxuatsactrongcongtacphoihopphong,chong toiphamvematuy.
-- 2.Phoihop thuchiencong tachoptacquocte trongphongngira,dau tranh voitoiphamvematuy.
-
-<!-- image -->
-
-## Dieu 12.Hinh thurcphoihop
-
-- 1.Trao doi,cung cap thong tin,tailieu,tinhhinh lien quan dennoi dung phoihopgiuracaccoquanchuyen trachphong,chongtoiphamvema tiythong quacac hinh thuc lamviec tryctiep,quacacphuong tien thong tin,girivanban...
-- 2.Trien khai cacke hoach tuyen truyen,van dong nhan dan tham gia phong,chong ma tuy.
-- 3.Tuan tra kiem soat lien nganh;xay dung va trien khai cacke hoach tren cac tuyen,djaban trong diem.
-- 4.Tchuc caccuoc hop giao ban dinhky,hi nghi,hoi thao,toa damve cacvan delienquandennoi dungphoi hopgiua caccoquan.
-- 5.Tochurccaclopgiang day,dao tao,taphuan,boiduongnghiepvucong tacphong,chong toipham ma tuy.
-- 6.Bao cao dinh kyhoac dot xuat;to chucgiao ban nghiep vuva soket, tongketviecphoihoptheoquydinhtaiNghi dinhnay.
-
-## Dieu13.Chedogiaoban,baocaova thongke
-
-- 1.Chedogiaoban
-- a) Cacco quanchuyen trachphong,chongtoiphamvema tuy thychien chedogiaobandinhkynhusau:
-- Cap trung uong: Luan phien chu tri to churcgiao ban dinh ky moi nam motlan.
-
-Cap tinh:Luanphienchu tritochurcgiaoban dinhky 6 thangmot lan.
-
-- captrentryctiepde theo doi,chi dao,dong thoithongbaochocapduoithuoc quyen de quan triet,thyc hien;
-- quan chuyentrachphong,chongtoiphamvematuyphaichudongthongbao chonhaubangcachinh thurcthich hopnhuhopbat thuong,quacacphuongtien thong tinlien lac,qua he thong tryrc ban,truc chi huy.
-
-## 2.Chedobao cao,thongke
-
-Dinhky6thang,1nam,caccoquan chuyen trachphong,chongtoipham vematuy bao cao tinhhinh,ketquava thongkesolieuve cong tacphoi hop tiep.Doivoi cacchuyenan,vuanvavuviecvi phamphap luatvematuy do cac coquanphoihopgiaiquyetthidonvichu tricotrachnhiemthongkebandau va thongbao,traodoichocacdonviphoihopbiet.
+1. Các co quan chuyên trách phòng, chng ti phm v ma túy phi hp t chúc lc lưrng, phưong tin và áp dng các bin pháp nghiêp vu đ phòng nga, đu tranh vói ti phm v ma túy; trao đi nghip v đ điu tra, x lý v án, v vic theo yêu cu.
+2. Co quan chuyên trách phòng, chông ti phm vè ma túy thuc B đi Biên phòng, Cành sát bin và Hài quan phi hop vi co quan chuyên trách phòng, chng ti phm v ma túy thuc Công an nhân dân cùng cp thc hin các bin pháp nghip v ti các khu vc, đa bàn quàn lý
+- a) Ti nhng đa bàn trong đim, phc tp v ma túy, co quan chuyên trách phòng, chông ti phm v ma túy thuc Công an nhân dân chù đng phi hp vói các co quan chuyên trách phòng, chông ti phm v ma túy thuc B đi Biên phòng, Cành sát bin và Hái quan có k hoch trin khai các bin pháp nghip v tp trung gii quyt;
 
 <!-- image -->
 
-Coquan chuyen trachphong,chongtoiphamvema tuy cap trunguong cotrachnhiemtonghopbaocaochungvaguribaocaoveBo Congandetap hop,baocaoThu tuongChinh phu.
+b) Khi cơ quan chuyên trách phòng, chông ti phm v ma túy thuc Công an nhân dân có yêu cu phi hp thc hin công tác nghip v trinh sát  khu vc biên gii, cưa khu và trên bin, thì cơ quan chuyên trách phòng, chng ti phm v ma túy thuc B đi Biên phòng, Cành sát bin và Hi quan có trách nhim phi hp trao đi thông tin và h tr trin khai thc hin;
 
-Thoi diemguribaocaova thoi gian tinhsolieu thongke dugc thychien theo quy dinh cua Chinh phu ve che do baocao cua coquan hanh chinhNha nuoc.
+c) Khi cơ quan chuyên trách phòng, chông ti phm v ma túy thuc B đi Biên phòng, Cành sát bin, Hài quan thc hin các bin pháp nghip v phòng, chng ti phm v ma túy  ni đa liên quan đn khu vc biên giói, ca khu và trên bin, thì co quan chuyên trách phòng, chông ti phm v ma túy thuc Công an nhân dân có trách nhim phi hp trao đi thông tin và hǒ tr trin khai thc hin.
 
-## ChuongIlI KIEMSOATCACHOATDONGHQPPHAPLIENQUANDENMATUY
+## Điu 10. Phi hp đu tranh chuyên án và điu tra, x lý cc v án, v vic c th
 
-## Mue1 KIEMSOATCACHOATDONGNGHIENCUU,GIAMDINH, SANXUAT,VANCHUYENCHATMATUY,TIENCHAT VATHUOCTHUYCOCHUACHATMATUY,TIENCHAT
+1. Các co quan chuyên trách phòng, chông ti phm v ma túy phi hơp xác lp, đu tranh chuyên án trong các trưòng hp sau:
 
-- Dieu 14. Coquan cotham quyen cho phep cachoat dongnghien ciru, giam dinh,san xuat,van chuyen chatma tuy,tien chatvahoat donglien quanden thuoc thuy cochura chatmatuy,tienchat
-- 1.BoConganchophep cac co quan,tochurcdugc tien hanhcachoat dongsau:
-- a)Nghiencurucacchatma tuy,tienchat theoDanhmucchatma tuyva tien chatdoChinhphuquydinh;
-- b) Sanxuatcac chatma tuy,tien chat tai cac danh muc chatma tuyva tien chat doChinhphu quy dinh (trircac tienchat doBo CongThuong,BoYt quan ly va chophep);
-- quy dinh.
-- 2.BoNongnghiepvaPhat triennong thonchophepcaccoquan,tochurc, canhandugcnghienciru,kiemnghiem,kiem dinh,sanxuat,van chuyen,bao quan,tontr,mua ban,phanphoi,sdung,xily,trao doi thuoc thuycochura chatma tuy,tien chat.
-- 3.SoCongThuongcac tinh,thanhpho tryc thuoc trunguong chophep cac co quan,to chirc,canhan durocsanxuattien chat tai Danh muc tien chat hoachat(doivoi cactienchatdoBoCongThuongquanly).
+a) Đi vi các chuyên án ma túy do co quan chuyên trách phòng, chng ti phm v ma túy thuc B đi Biên phòng, Cành sát bin, Hi quan xác lâp đu tranh có đi tưng liên quan đn đa bàn ni đja thì cơ quan chuyên trách phòng, chông ti phm v ma túy thuc Công an nhân dân chú đng phi hop, thc hin theo yêu cu và tip nhn kp thi h so, vt chng liên quan đ điu tra, x lý theo quy đnh ca pháp lut;
 
-<!-- image -->
+b) Đi vi các chuyên án ma túy do cơ quan chuyên trách phòng, chng ti phm vè ma túy thuc Công an nhân dân xác lp đu tranh, có đi tưng liên quan đn khu vc biên giói, ca khu và trên bin thì cơ quan chuyên trách phòng, chng ti phm v ma túy thuc B đi Biên phòng, Cnh sát bin và Hi quan phi hp, thc hin theo yêu cu;
 
-4.Bo Congan,BoNongnghiepvaPhat triennong thon trongpham vi hoso,thamdinhvaquyetdinhviecchophepnghiencru,sanxuat,vanchuyen chatma tuy,tienchatvacachoat donglienquan den thuoc thuy cochura chat ma tuy,tien chat theoquy dinh taiMuc1 ChuongIlI cuaNghi dinhnay(sau daygoilaco quancapphep).
+c) Đi vói nhng chuyên án ma tuý phc tap, đi tưng có liên quan đn nhiu đa phuong, hot đng xuyên quc gia, có tính quc t thì các co quan phi hp thành lp Ban chuyên án chung đ đu tranh, khám phá. Cσ quan chuyên trách phòng, chng ti phm v ma túy thuc lc lưng nào phát hin thì đng chú trì vói cơ quan chuyên trách phòng, chông ti phm v ma túy thuc Công an nhân dân, các cơ quan còn li phi hp tham gia; thm quyn phê duyt thành lp Ban chuyên án chung là cp trên mt cp ca đon v xác lp chuyên án; thành lâp Ban Chi đo chuyên án: lc lưng Công an là Trưòng ban chi đo, lc lưng B đi Biên phòng, Cnh sát bin, Hi quan là thành viên; Ban Chi đo chuyên án là cp trên mt cp ca Ban chuyên án;
 
-5.BoCong an trong phamvi churcnang,nhiemvu,quyenhan quan lynha nuocve linhvycgiam dinhky thuat hinhsy chju trachnhiemtochurcthyc hien trinh tu,thu tucgiam dinh chatma tuy,tienchatva thuocthuycochuachat ma tuy,tienchat theoquydinhcuaLuat Giamdinh tuphap,Boluat T6tung hinhsu,cacvan ban quypham phap luat c6lienquanva quy dinh tai Muc3 ChuongIII cuaNghi dinhnay.
-
-## Dieu 15.Kiem soat hoat dong nghien ciru chat ma tuy,tien chat
-
-1.Trinh ty,thutucchophepnghienciru chatma tuy,tienchat
-
-a)To churckhoa hocvacongnghe dugc thanh lap theo quy dinh cua Luat nghiencurucacchatma tuy,tienchat theoquydinh taidiem akhoan1Dieu14 Dieunay,guri truc tiephoacqua duongburu diendenBoConganhoacguriban dien tur thongqua he thongdichvu congtruc tuyencuaBo Cong an tren Cong thong tin mot cira quoc gia;
-
-b)Trong thoihan 05ngay lamviec,ke tirngaynhan diho so theo quy dinh,coquancappheptienhanhthamdinhvathongbaochophepbangvanban.
-
-Truonghopcoyeucauchinh ly,bosung tai lieu,trong thoi hanchamnhat 03ngaylamviec,ketirngaynhandugchoso,coquancapphepcophieuthong baoveviecchinhly,bosung tai lieu,trongdoneuro tai lieu,noi dung can chinhly,bosungva thoigian hoan thanh.Viectiepnhan,giaiquyet hosodugc thuchien trongthoihan03ngaylamviec,ke tiurngaynhanduhosoda hoan thanh viec chinh ly，bo sung.
-
-Truong hop het thoi han yeu cau chinh ly,bo sung ho sohoac thong tin khong thong nhat gita van ban de nghi va tai lieu chung minh tai cacvan ban, tai lieu co trong ho so,co quan cap phepkhong tien hanh giai quyet.
-
-2.Ho so de nghi cho phep nghien ctru chat ma tuy,tien chat bao gom:
-
-a)Van ban de nghi cho phep nghien curu cua co quan nghien curu.Noi dungvanban denghineu ro thong tinve ten,djachi co quannghien curu;danh sach,vai tro cua nhtng nguoi tham gianghien ciru;muc dich nghien ciru;ten, dja chico quan,tochuccungcapchatma tuy,tienchatvatengoi,maCASva maHS,soluong,ham luong chatma tuy,tienchat denghi chophepnghien curu;thoigiannghienciru;thoigian,hanhtrinh,phuong tienvanchuyentu dia diemcungcapdendiadiembaoquan,nghienciru;
+d) Trưòng hp cơ quan chuyên trách phòng, chông ti phm v ma túy thuc B đi Biên phòng, Cành sát bin, Hài quan ti đa bàn, khu vc quàn lý cùa mình, nu phát hin thông tin, tài liu có căn c xác lp chuyên án thì chù trì, phi hp vói co quan chuyên trách phòng, chông ti phm v ma túy khác xác lp chuyên án đ đu tranh.
 
 <!-- image -->
 
-- b)Ban saoGiay churngnhan dangkyhoat dongkhoa hocvacongnghe cua co quannghien curu;
-- c)Ban saoKehoach nghienciru durgccapcothamquyenphe duyet;
-- cru;kehoach,bienphapdambaoan toanva dieukienbaoquanchatma tuy tien chatdenghi chophepnghien ctru;ke hoach,bien phapxily ton du chat ma tuy,tienchat trong qua trinhnghien ciru.
-- 3.Noi dungvan ban chophepnghien curuchatma tuy,tienchat
+2. Các cơ quan chuyên trách phi hp trong quá trinh điu tra ti phm và x lý vi phm pháp lut v ma túy theo quy đnh ca pháp lut.
+- a) Trưòng hp cơ quan chuyên trách phòng, chng ti phm vè ma túy thuc Công an nhân dân có yêu cu thc hin các hot đng nghip v điu tra v ti phm ma tuý  khu vc biên gii, ca khu và trên bin thì cσ quan chuyên trách phòng, chng ti phm v ma túy thuc B đi Biên phòng, Cành sát bin và Hi quan có trách nhim phi hp, to đièu kin h tr cơ quan chuyên trách phòng, chông ti phm v ma túy thuc Công an nhân dân hoàn thành nhim v;
+- b) Co quan chuyên trách phòng, chng ti phm v ma túy thuc Công an nhân dân có trách nhim h tr, to điu kin thun li cho cơ quan chuyên trách phòng, chng ti phm v ma túy thuc B đi Biên phòng, Cnh sát bin và Hi quan khi các cơ quan này có yêu cu phi hp điu tra, x lý v ti phm và vi phm pháp lut v ma túy trong ni đa;
 
-Vanbanchophepphaighirothongtinveten,diachi coquannghiencuru; tengoi,maCASvamaHS,sluong,ham luongchatma tuy,tienchat dugc nghienciru;thoigian duocphepnghienciru;thoigian,hanhtrinh,phuongtien vanchuyen(truonghopcanvanchuyenchatma tuytirkholuru tri,baoquan dennoitochurchoatdongnghienciru);
+Khi nhn đưc yêu cu ca co quan chuyên trách phòng, chng ti phm v ma túy thuc B đi Biên phòng, Cành sát bin và Hài quan v vic truy bt đi tưng, truy tim phưong tin, vt chúng có liên quan đn ti phm, vi phm pháp lut v ma túy t biên giói, ca khu hoc trên bin vào ni đa, co quan chuyên trách phòng, chng ti phm v ma túy thuc Công an nhân dân có trách nhim trin khai ngay lc lưng phi hp bt gi, truy tim. Sau khi băt gi đưc đi tưng, truy tìm đưc phưong tin, vt chúng thi khn trưong thông báo và bàn giao hò sơ, đi tưrng, vt chúg, phưong tin cho cơ quan yêu cu đ tip tc điu tra theo quy đnh ca pháp lut;
 
-Vanbanchophep dugcgui choco quannghienciru,Cong antinh,thanh phonoi coquannghiencuru tienhanhbaoquan,nghienciruchatma tuyduoc chophep.
+- c) Sau khi kt thúc điu tra, x lý các v án, v vic, các co quan thông báo kt qu phi hp vi nhau và thng nht t chc tng kt rút kinh nghim.
+3. Trong trưòng hơp cn thit, co quan chuyên trách phòng, chông ti phm v ma túy ch trì, đè xut thành lp T công tác phi hp liên ngành; các cơ quan chuyên trách phòng, chng ti phm v ma túy khác c cán b tham gia. T công tác t gii th sau khi hoàn thành nhim v.
 
-- 4.Trinh ty,thu tucgia hanchophepnghiencuruchatma tuy,tienchat
-- a)Truockhihet thoi han chophep toi thieu03ngay,coquannghien ciru girivanban denghicoquan capphepgia han cho phepnghiencuru,trong d6 neuroly do,thoigiandenghi giahan;
-- b)Coquancapphepcotrachnhiemxemxetvathongbaoviecchophep thoihan03ngay lamviec,ketirngaynhandugc congvan denghi;
-- khoan3Dieunay;
-- mucdichnghienciru,loai chat,hamluong,soluong,bienphapdambao an toanva dieukienbaoquanchatma tuy,tien chatdenghigiahan chophep nghien ciru;kéhoach,bienphapxirly ton duchatma tuy,tien chat trongqua trinhgiahan chophepnghienciru.
+## Điu 11. Các ni dung phi hp khác
 
-<!-- image -->
-
-- 5.Hoatdongnghiencuruchatma tuy theoquy dinh cuaDieunayphai dugctheodoi,kiemtra,giamsatchatchetirqua trinhduocchophepdenkhi hoan thanhnghien ciru.
-- a) Co quan nghien curu phai thychien dungnoi dung theovanban cho phepvaphai thongbaochocoquancapphepveviechoanthanhnghienciru, ketquanghiencru,soluongchatmaty,tienchatdasidung;tonduchatma tuy,tien chat va bienphap,ket quaxir ly;
-- b)Cong an tinh,thanhphonoi co quannghien curu tienhanhbao quan, nghienciruchatmatuydugcchophepbotri lycluongtheodoi,kiemtra,giam satviecvanchuyen,giao,nhan,baoquanva sudungchatma tuydenghien cirutheovanbanchophepvaquydinhcuaphapluat;
-- quy dinh cua phapluat.
-
-## Dieu16.Kiem soat hoat dong san xuat chatma tuy,tienchatva thuoc thuycochura chatmatuy,tien chat
-
-- 1.Trinh ty,thu tuc chophep san xuatchat ma tuy,tien chat
-- a) Coquan,tchuckhitienhanhcachoat dongsan xuatchatma tuy,tien chat theoquy dinh tai diembkhoan1Dieu14cuaNghi dinhnay(saudaygoi la tochuccohoatdongsanxuat)gurihosotruc tiephoacqua durongburudien denBoConganhoacgiribandien tirthongquahe thongdichvucongtryc tuyencuaBoCong an tren Cong thong tin mot cura quocgia;
-- b)Trong thoi han 30ngay lamviec,ke turngay nhan du hoso theoquy dinh,coquancapphep tienhanh xemxet,danhgia thuc tco sovacap giaychurngnhan du dieukien sanxuatchatma tuy,tien chat;
-- c)Truong hopcoyeucau chinh ly,bo sung hoso,cham nhat trong thoi han 03ngaylamviec,ketungaynhan durgchosodenghi,coquancapphep cophieu thong bao,trongd6neuro tailieu,noi dung can chinh ly,bosung;
-
-Saukhinhanduhosodahoan thanhviecchinhly，bosung,coquancap pheptien hanhcapgiaypheptheoquydinhtai diembkhoan1Dieunay;
-
-Trurong hopqua thoihan 03 thang,ketirngay co quan capphep covan banyeucau chinh ly,bosungma tochurcdenghichophepsanxuatchatma tuy,tienchatkhonghoan thanhviecchinh ly,bosung thihosadanopkhong congiatri;
+1. Các cơ quan chuyên trách phòng, chng ti phm v ma túy trong phm vi chc năng, nhim v, quyn hn cua minh có trách nhim phi hp, h tr ln nhau trong công tác hun luyn nghip v phòng, chông ti phm v ma túy; phi hp thc hin hoc đ xut cp có thm quyn xem xét khen thưng cho các tp th, cá nhân có thành tích xut sc trong công tác phi hop phòng, chng ti phm v ma túy.
+2. Phi hp thc hin công tác hp tác quc t trong phòng nga, đu tranh vi ti phm v ma túy.
 
 <!-- image -->
 
-- d)Hoso,dieukien,tieu chuandoivoi tchurc c6hoat dong sanxuatva nguoicolienquan den hoatdongsan xuat thuchien theoquydinhcuavanban quyphamphapluathien hanhveduocdoivoinguyenlieulamthuocphaikiem soatdacbietvaquanlyhoachatdoivoihoachatsanxuat,kinhdoanhcodieukien.
-- 2.Trinh tu,thu tuc chophep san xuat thuoc thuy cochura chatma tuy, tienchat
-- a)Coquan,tochirckhi tienhanhcachoatdongsanxuatthuocthuyco churachatmatuy,tienchatgui hoso tryc tiephoacquaduongbuu diendenB Nongnghiepva Phat trien nong thon hoacgui ban dientir thong qua he thong thongtinmotcuraquocgia;
-- b)Trinh tu,thu tuc,hoso,dieukien,tieu chuandivoico quan,tochuc vanguoi lienquandenviecsanxuat,dangkyluuhanh thuocthuycochura chatma tuy,tien chat thuchien theoquy dinhcua phapluatvethuydoivoi quanlythuocthuyvaquydinh taiNghidinhnay;
-- c)Doivoico soda dugc capgiay chungnhan dudieu kiensan xuat thuoc thuy theoquydinh cuaphapluatve thuyhienhanh,khiconhucau san xuat thuydadugccapGiaychungnhan dudieukiensanxuatthiguri hosodenghi, gom:vanban denghi cuatochurc cohoat dong san xuat kem theo ban sao Giay chungnhandudieukien sanxuat thuoc thuydadugccapva tai lieuchimg chathuong than,tienchat dunglam thuocthuy.
+## Điu 12. Hinh thc phi hp
 
-Trong thoi han05ngay lamviec,ketungaynhandu hoso theoquy dinh, Coquancappheptienhanhtiepnhan,tham dinhvacapGiay chungnhan du dieukien sanxuatdoivoidaychuyensanxuatthuoc thuycochurachatma tuy,tien chat;truonghopkhongdudieukienchophepsan xuat,co quancap pheptraloibangvanbanneurolydokhongcapGiaychurngnhandudieukien san xuat.
+1. Trao đi, cung cp thông tin, tài liu, tinh hinh liên quan đn ni dung phi hop gia các cơ quan chuyên trách phòng, chông ti phm v ma túy thông qua các hinh thc làm vic trc tip, qua các phưong tin thông tin, gi văn bàn..
+2. Trin khai các k hoch tuyên truyn, vn đng nhân dân tham gia phòng, chông ma túy.
+3. Tun tra kim soát liên ngành; xây dng và trin khai các k hoch nht n  d   n  n        u trên các tuyn, dja bàn trong dim.
+4. T chc các cuc hp giao ban đnh k, hi ngh, hi tho, to đàm v các vn đ liên quan đn ni dung phi hơp gia các cơ quan.
+5. T che các lp ging dy, đào to, tâp hun, bi dưõng nghip v công tác phòng, chông ti phm ma túy.
+6. Báo cáo đnh k hoc đt xut; t chc giao ban nghip v và so kt, tồng kt vic phi hp theo quy đnh tąi Ngh đnh này.
 
-- 3.Trinh tu,thu tuccaplai giaychungnhan du dieukien san xuat chat ma tuy,tienchatvathuocthuycochurachatma tuy,tienchat
-- a)Truonghopgiay chungnhan bi mat,saisot,huhonghoacc6 thay doi vethongtincuacoquan,tochucthi coquan,tochuclap01bohosodenghi truonghopsaisotthuocvecaquancapphep)kem theogiaychurngnhanda dugc cap.Ho so denghi dugcguri tryc tiep hoacquaduongburu dien den co quancapphephoacguiriban dientuthongquahe thongdichvucong truc tuyen cuaBoCong an,BoNongnghiepvaPhat trien nong thon tai Cong thong tin mot cira quocgia;
+## Điu 13. Ch đ giao ban, báo cáo và thông kê
 
-<!-- image -->
+1. Ch đ giao ban
+- a) Các cơ quan chuyên trách phòng, chông ti phm v ma túy thc hin ch đ giao ban đnh k như sau:
+3. Cp trung ương: Luân phiên ch trì t chc giao ban đnh k mi năm môt làn.
 
-b)Trong thoihan05ngaylamviec,ke tirngaynhan duhoso theoquy dinh, coquancappheptienhanh thamdinhvacaplaigiaychungnhan.
+Cp tinh: Luân phiên ch trì t chc giao ban đnh k 6 tháng mt ln.
 
-4.Trinh tu,thutucsra doigiay chungnhandudieukien san xuatchatma tuy,tienchatva thuoc thuycochura chatma tuy,tienchat
+- b) Sau hi nghi giao ban đnh k, các đon v báo cáo kt qu hi ngh lên cp trên trc tip đ theo di, chi đo, đng thi thông báo cho cp dưói thuc quyn đ quán trit, thc hin;
+- c) Trong trưòng hp đt xut hoc khi có tinh hình phc tp xày ra, các co quan chuyên trách phòng, chông ti phm v ma túy phài chù đng thông báo cho nhau bàng các hinh thc thich hp như hop bt thưòng, qua các phuong tin thông tin liên lc, qua h thng trc ban, trc chi huy.
 
-a)Truronghop c6thaydoive dja diem,quy mo,chung loai,loai hinh nghien curu,sanxuat thi coquan,tchuclap01bohosodenghi,gom:cong vandenghi,bansaocochungthuctailieuchurngminhcothaydoi.Hosodurgc guri tryctiephoacqua durongbuu diendencoquancapphephoacguibandien tir thongqua he thongdichvucong tructuyen cuaBoCongan,BoNongnghiep va phat triennong thon taiCong thong tinmotcura quocgia;
+## 2. Ch đ báo cáo, thông kê
 
-b)Coquancappheptienhanh thamdinh,danhgiathuc teco sova chirngnhan.
-
-5.Hoat dong sanxuat chatma tuy,tien chatva thuoc thuy cochura chat ma tuy,tienchatphai dugc theodoi,kiemtra,giam satchatchetrqua trinh dugccapphepdensanphamhoanthanhtheoquytrinh.
-
-a)Giaychungnhandudieukiensanxuatchatma tuy,tienchat,thuoc thu ycochura chatma tuy，tienchatvaGiaychungnhanluru hanh thuocthuyco chuachatma tuy,tienchat duocgiri cho tochuc codenghi,Cong an tinh, hanhhoatdongsanxuat;
-
-b)Tochurc co hoat dong san xuat phai thuchien dung noi dung theo giay chungnhan dugccapva chju su theodoi,kiem tra,giam satcua cac coquan churc nang;
-
-c)Congan tinh,thanh phova co quan quanlynha nuoc chuyennganh tai djaphuongnoitienhanh hoatdongsanxuatphoihop theodoi,kiemtra,giam sat hoatdongsanxuatquy dinhcuaphapluat;
-
-d)Truonghopphathienvipham,lucluong Congannoiphathien vi phamthongbaongaychocoquancapphepvaphoihopnganchan,xirlytheo quydinhcuaphapluat.
-
-## Dieu 17.Kiem soat hoat dong van chuyenchat ma tuy
-
-## 1.Trinh ty,thu tuc cap giay phep van chuyen chat ma tuy
-
-a)Co quan,to chuckhi conhu cau van chuyen chat ma tuy（sau day goi la tochurccanvan chuyen) chuan bi ho so denghi theoquy dinh tai khoan 2 Dieunayguri trrc tiephoacqua durongburu diendenBo Conganhoacgiriban dien tir thongqua he thongdichvucong truc tuyencuaBoCongan trenCong thongtinmotcuraquocgia;
+Đinh k 6 tháng, 1 năm, các cơ quan chuyên trách phòng, chng ti phm v ma túy báo cáo tinh hinh, kt quà và thông kê s liu v công tác phi hp gia các co quan chuyên trách phòng, chông ti phm v ma túy lên cp trên trc tip. Đi vi các chuyên án, v án và v vic vi phm pháp lut v ma tuý do các co quan phi hp giài quyt thì đon v chù trì có trách nhim thông kê ban đu và thông báo, trao đi cho các đon vi phi hp bit.
 
 <!-- image -->
 
-- b)Trong thoihan05ngay lamviec,ke tirngaynhanduho so theo quy djnh,coquan capphep tienhanh tham dinhvacapgiayphepvanchuyencho tochirc canvan chuyen;
-- c)Truong hopcoyeu cau chinh ly,bo sungho so,trong thoi han cham nhat03ngaylamviec,ketirngaynhanduochoso,coquancapphepc6phieu thongbaoveviecchinhly,bosung,trongdoneurtailieu,noidungcanchinh ly,bosungvathoigianhoanthanh.Viectiepnhan,thamdinhvacapgiayphep van chuyen duocthuchien trong thoihan 05ngay lamviec,ketirngaynhan duho so da hoan thanhviec chinh ly,bo sung.
+Cơ quan chuyên trách phòng, chng ti phm vè ma túy cp trung ương có trách nhim tng hp báo cáo chung và gi báo cáo v B Công an đ tâp hp, báo cáo Thú tưóng Chính phú.
 
-## 2.Hoso de nghi cap giay phep van chuyen chat ma tuy
+Thi đim gi báo cáo và thi gian tính s liu thng kê đưc thc hin theo quy đnh ca Chính phù v ch đ bo cáo ca co quan hành chính Nhà nưc.
 
-- a) Don denghi capgiayphepvan chuyen chatma tuy cocacnoi dung sau: ten,dia chi to chucgiaova to chucnhan chatma tuy;muc dichvan chuyen; tengoi,ma CASvamaHS,solrong,ham lurongchatma tuy;thoigian,hanh trinh,phuongtienvanchuyen;
-- b) Ban saohopdongvanchuyengiuatochuccanvanchuyenvoi tochurc thuchienvanchuyenhopphap;
-3. c)Ban saogiayphepxuat khau,nhapkhau,tamnhap,tai xuat,tamxuat tainhapchatma tuy（truronghopvanchuyentikholuru trir,baoquanden cura khau hoacngugc lai de thuchien thu tuc hai quan).
-4. 3.Giayphepvan chuyendurgccapcho tinglanvanchuyenvacogiatri phepghirothongtinten,diachitochucgiaovatochucnhanchatma tuy;muc dichvanchuyen;tengoi,ma CASvama HS,soluong,ham luong chatma tuy; thoigian,hanhtrinh,phuongtienvanchuyen.Giayphepdugcgirichotochurc canvanchuyen,to churc thuc hienvan chuyenva luc luongHai quan,Bodi Bienphong,Canhsatbien,Congan tinh,thanhphotheohanh trinhvanchuyen duocghi trengiayphep.
-5. 4.Trinhty,thu tucgiahanva caplaigiayphepvan chuyenchatma tuy
-6. a)Truockhihet thoi han chophep toi thieu 03ngay,tochurccanvan chuyen guri don denghi co quan capphepgia han,trong doneu ro ly do,thoi gian denghigiahan;
-7. b)Truong hopgiayphepbimathoacco thay doive thoigian,hanhtrinh, phepcaplaigiayphepkem theogiayphepdadugccap;
-8. c)Trongthoihan03ngay lamviec,keturngaynhan dugc don denghi cua tchuc canvan chuyen,co quancapphep tien hanh xem xetvacapphepgia hanhoaccaplaigiayphepvanchuyenchocactruonghopquydinhtaidiema vadiembcuakhoannay.
+## Churong III KIM SOÁT CÁC HOT DNG HQP PHÁP LIÊN QUAN ĐÉN MA TÚY
 
-<!-- image -->
+## Mc 1 KIÉM SOÁT CÁC HOT DNG NGHIÊN CÚU, GIÁM DINH, SÀN XUÁT, VN CHUYÈN CHÁT MA TÚY, TIÈN CHÁT VÀ THUÓC TH Y CÓ CHÚA CHÁT MA TÚY, TIÈN CHÁT
 
-- 5.Viecvan chuyen chatma tuyphai thuchien theodungnoi dungghi tronggiayphep.Khi tienhanh giao,nhanchatma tuyphai cobien ban giao nhangiua tochurccanvanchuyenvoitochurc thuchienvanchuyen.Noidung bienbanneuro ten,djachitochurcgiaovatochucnhan chatma tuy;tennguoi giao,nguoinhan,giayto tuythan;tngoi,maCASvamaHS,sluong,ham luongchatmatuygiaonhan;thoi gian,dia diemgiaonhanva camketviec giaonhan day du cuanguoigiao,nguroinhan.
-- 6.Hoat dongvan chuyenchat ma tuy theo quy dinh cuaDieu nayphai dugc theo doi,kiem tra,giam satchatchetirqua trinh dugccapgiayphep den khihoanthanhviecvanchuyen
-- a)Tochurccanvanchuyenva tochurc thychienvan chuyenphai chju trachnhiemvesoluong,chatlurong,cobienphapbaoveantoan,khongdeb that thoattrongquatrinhvanchuyenvachjusytheodoi,kiemtra,giamsatcua coquannhanuoccothamquyen;
-- b) Congancactinh,thanhphotrrc thuoc trunguong,donvi Bdoi Bien phong,donvi Canh satbienquanlytuyenduongvanchuyentheohanh trinh dugcchophepphaibotrilrclurong,phuong tientheodoi,kiemtra,giamsat chatche,dambaoviecvan chuyentheodungtuyenduongvanoi dungghi tronggiayphep.Truonghopphat hiencodau hieuvi pham,coquanchurcnang theoquydinhcuaphapluat.
-
-## Dieu18.Kiem soat cac hoat dong lien quan den thuoc thuy co chira chatma tuy,tienchat
-
-- 1.Kiem soat hoat dong san xuat thuoc thuy co chura chat ma tuy,tien chat thuchien theoquy dinh taikhoan2,khoan3vakhoan4Dieu 16cua Nghi dinhnay.
-- 2.Ca sokiem nghiem,kiem dinh thuoc thuycochura chat ma tuy,tien chatphaidambaodieukien,tieuchuanvecosvatchat,djadiem,nguoihanh nghethuy theoquy dinh cuaphapluatvethuy doivoi quan ly thuocthuy, duocBoNongnghiepvaPhat triennongthonchi dinh hoat dongvachju su theodoi,kiem tra,giam satcuaco quan cothamquyen.
-- 3.Co quan,to chirc,canhan tien hanh cac hoat dong nghien ciru,van chuyen,bao quan,ton tr,muaban,phanhoi,sudung,xuly,trao di thuoc thuy co chua chat ma tuy,tien chat thyc hien theo quy dinh cua phap luatve thuydoivoiquan ly thuoc thuy,cacquy dinh colienquan taiNghi dinh nay vachju sy theo doi,kiem tra,giamsatcuacoquanc6tham quyen.
+- Đièu 14. Co quan có thm quyn cho phép các hoąt đng nghiên cu, giám dinh, sn xut, vn chuyên cht ma túy, tin cht và hoąt đng liên quan đn thue thú y có cha cht ma túy, tin cht
+1. B Công an cho phép các cơ quan, t chc đưc tin hành các hot đông sau:
+- a) Nghiên cu các cht ma túy, tin cht theo Danh mc cht ma túy và tin cht do Chính phù quy đnh;
+- b) Sn xut các cht ma túy, tin cht ti các danh mc cht ma túy và tin cht do Chính ph quy đnh (tr các tin cht do B Công Thưong, B Y t quàn lý và cho phép);
+- c) Vn chuyn các cht ma túy theo Danh mc cht ma túy do Chính phú quy đnh.
+2. B Nông nghip và Phát trin nông thôn cho phép các cơ quan, t chc, cá nhân đưc nghiên cu, kim nghim, kim đnh, sàn xut, vn chuyn, bo quàn, tn tr, mua bán, phân phi, s dng, x lý, trao đi thuc thú y có cha cht ma túy, tin cht.
+3. S Công Thưong các tinh, thành ph tre thuc trung ưong cho phép các cơ quan, t chc, cá nhân đưc sàn xut tin cht ti Danh mc tin cht do Chính ph quy đnh và văn bàn quy phm pháp lut hin hành vè quàn lý hóa cht (đi vi các tin cht do B Công Thưong quàn lý).
 
 <!-- image -->
 
-- 4.BoNongnghiepvaPhat triennong thon tien hanhkiem soat cac hoat donglienquanden thuocthuycochurachatmatuy,tienchattheoquydinh phapluatve thuy doivoiquan lythuoc thuyvacacquy dinhcolienquan tai Nghidinhnay;phathiencachanhviviphamphapluat,xulytheothamquyen
+4. B Công an, B Nông nghip và Phát trin nông thôn trong phm vi nhim v, quyn hn giao cho cơ quan chc năng thc hin nhim v tip nhn h so, thm đnh và quyt đnh vic cho phép nghiên cu, sn xut, vn chuyn cht ma túy, tin cht và các hot đng liên quan đn thuc thú y có cha cht ma túy, tin cht theo quy đnh ti Mc 1 Chưong III cùa Ngh đnh này (sau đây goi là cσ quan câp phép).
 
-## Muc2
+5. B Công an trong phm vi chc năng, nhim v, quyn hn quàn lý nhà nuc v līnh vc giám đnh k thut hinh s chu trách nhim t chc thc hin trinh t, thǔ tc giám đnh cht ma túy, tin cht và thuc thú y có cha cht ma túy, tin cht theo quy đnh cùa Lut Giám đnh tư pháp, B lut T tng hinh s, các văn bn quy phm pháp lut có liên quan và quy đnh ti Mc 3 Chưong III ca Ngh đnh này.
 
-KIEMSOATCACHOATDONGNHAPKHAUXUATKHAU, TAMNHA,TAIXUAT,TAMXUAT,TAINHAPVAQUACANH LANHTHOVIETNAMCHATMATUY,TIENCHAT,THUOC GAYNGHIENTHUOCHUONGTHANTHUOCTIENCHAT, NGUYENLIEULAMTHUOCLADUOCCHATGAYNGHIEN, DUOCCHATHUONGTHAN,TIENCHATDUNGLAMTHUOC VATHUOCTHUYCOCHUACHATMATUY,TIENCHAT
+## Điu 15. Kim soát hot đng nghiên cu cht ma túy, tin cht
 
-Dieu 19.Co quan c6 tham quyen cho phep va coquan, to chirc,ca nhan duroc tien hanh hoat dongnhapkhau,xuat khau,tam nhap,tai xuat, tam xuat,tai nhapva qua canh lanh thoVietNam chatma tuy,tien chat, thuocgaynghien,thuochuong than,thuoctienchat,nguyenlieu lamthuoc la duge chatgay nghien,duge chat huong than,tien chatdung lam thuoc va thuocthuycochurachatmatuy,tienchat
+1. Trình t, th tc cho phép nghiên cu cht ma túy, tin cht
 
-- 1.BCong anchophepcoquan,tchurc dugc tienhanhcachoat dong sau:
-- a)Nhapkhau,xuat khau cacchatma tuy,tienchat tai cacDanh mucchat nguyen lieu lam thuocphaikiemsoatdacbietdoBoYtechophepvacactien chatcongnghiepdoBo CongThuongquan lyvachophep);
-- b)Quacanh lanh thoViet Nam cacchatma tuy,tienchat tai cacDanh mucchatma tuyva tienchat do Chinh phu quy dinh;thuocgaynghien,thuoc huong than,thuoc tien chat,nguyenlieu lam thuocla dugc chatgaynghien, durgc chat huong than,tien chatdunglam thuocva thuoc thuyco chura chat ma tuy,tien chat.
-- 2.BCong Thuong chophep co quan,tochurc,canhan dugc tien hanh cac hoat dong sau:
-- a)Nhapkhau,xuatkhau tien chat quy dinh tai Danhmuc tien chat do Chinhphu quy dinh （trircac tienchat doBoCong an,BoYtequanlyva chophép);
-- b)Tamnhap,taixuat,tam xuat,tainhap chat ma tuy,tien chat quy dinh nghien,thuoc huong than,thuoc tienchat,nguyen lieu lam thuoc la dugcchat gaynghien,dugcchathuong than,tienchat dunglam thuocva thuoc thuyco chura chatma tuy,tien chat.
+a) T chc khoa hc và công ngh đưc thành lp theo quy đnh ca Lut Khoa hc và công ngh (sau đây goi tt là cơ quan nghiên cu) khi có nhu cu nghiên cu các cht ma túy, tin cht theo quy đnh ti đim a khoàn 1 Điu 14 ca Ngh đnh này chun b h so đ ngh cho phép theo quy đnh ti khon 2 Điu này, gi trc tip hoc qua đưòng bưu đin đn B Công an hoc gi bn đin t thông qua h thng dch v công trc tuyn ca B Công an trên Cng thông tin mt ca quc gia;
 
-<!-- image -->
+b) Trong thi hn 05 ngày làm vic, k t ngày nhn đù h sơ theo quy đnh, cơ quan cp phép tin hành thm đnh và thông báo cho phép bng văn bàn.
 
-3.BoNongnghiepva Phat trien nong thon cho phep co quan,to chuc dugctienhanhcachoatdongsau:
+Trưòng hp có yêu cu chinh lý, b sung tài liu, trong thi hn chm nht 03 ngày làm vic, k t ngày nhn đưc h so, cơ quan cp phép có phiu thông báo v vic chinh lý, b sung tài liu, trong đó nêu rõ tài liu, ni dung cn chinh lý, b sung và thi gian hoàn thành. Vic tip nhn, gii quyt h sơ đưc thc hin trong thi hn 03 ngày làm vic, k t ngày nhn đù h so đã hoàn thành vic chinh lý, b sung.
 
-a)Nhapkhau,xuat khau thuoc thuyco chua chat ma tuy,tienchat;
+Trưòng hp ht thòi hn yêu cu chinh lý, b sung h sơ hoc thông tin không thng nht gia vǎn bn đ ngh và tài liu chng minh ti các văn bàn, tài liu có trong h so, cơ quan cp phép không tin hành gii quyt.
 
-b)Nhapkhau chat ma tuy,tienchat dung lamnguyenlieu sanxuat thuoc thuylacacchatma tuy,tienchattaicacDanhmucchatma tuyvatienchat do Chinhphuquydinh.
+2. H so đ ngh cho phép nghiên cu cht ma túy, tin cht bao gm:
 
-4.BCongan,BCongThuong,BNongnghipvaPhat triennongthon trongphamvi nhiem vu,quyen hangiaochoco quan chirenang thuchien nhiemvutiepnhanhoso,thamdinhvaquyetdinhviecchophepcachoat dong quy dinh taikhoan 1,khoan 2va khoan3cuaDieunay（sau daygoila coquan capphep).
-
-5.Coquan,tochurc,canhanc6hoat dongquy dinh tai khoan 1,khoan2va khoan3cuaDieunayla thuongnhanVietNamvathuongnhannuocngoaihoat dong thuongmai taiVietNam theoquydinhcuaLuat Thuongmai(sau daygoi la doanh nghiep).
-
-## Dieu 20.Kiem soat hoat dongnhapkhau,xuatkhau chatma tuy,tin chatva thuoe thu yco chura chatma tuy,tienchat
-
-1.Trinh tur,thu tuc cap giayphep nhapkhau,xuat khau
-
-- a)Doanhnghiepcohoatdongtheoquydinh taidiemakhoan1vakhoan3 Dieu19 cuaNghi dinhnay chuan bi ho so denghicapgiayphepnhapkhau, xuatkhautheoquydinhtaikhoan2Dieunay,giritryctiephoacguiqua duong buudiendenBo Congan,BoNongnghiepvaPhattriennong thonhoacgiri ban dien tir thong quahe thong dich vu cong tryc tuyencuaBo Cong an,Bo Nongnghiepva Phat trien nong thon tren Congthongtinmotciraquocgia;
-- b)Trong thoi han chamnhat la03ngay lamviec,ke tirngaynhan du h sodenghicapgiayphepnhapkhau chatma tuytheoquydinh,co quancap pheptienhanh thamdinhvacapgiayphepnhapkhau;
-
-c)Trong thoi han chamnhat la 10ngay lamviec,ke tirngaynhan du ho sodenghicapgiayphep xuat khauchatma tuy,tienchat theo quy dinh,co quancappheptienhanhthamdinh,thuchienthongbaotienxuatkhauvacap giayphep xuatkhau.Truong hopco quanco thamquyencuanuocnhapkhau khong thongquayeu cau thongbao tienxuatkhau thi coquan capphepkhong capgiayphepva thongbaobangvanbanchodoanhnghiepbiet lydo;
-
-- d)Trong thoi han chamnhatla 05ngaylamviec,ke tirngaynhan du ho sodenghicapgiayphepnhapkhau,xuatkhau thuoc thuycochrachatma tuy,tienchattheoquy dinh,coquancappheptienhanh thamdinhvacapgiay phepnhapkhau,xuatkhau.
+a) Văn bn đ ngh cho phép nghiên cúu ca cơ quan nghiên cu. Ni dung văn bn đ ngh nêu rõ thông tin v tên, đa chi cơ quan nghiên cu; danh sách, vai trò ca nhng ngưòi tham gia nghiên cu; mc đích nghiên cu; tên, đa chi cơ quan, t chc cung cp cht ma túy, tin cht và tên goi, mã CAS và mã HS, s lưng, hàm lưng cht ma tuý, tin cht đ ngh cho phép nghiên cu; thòi gian nghiên cúu; thi gian, hành trinh, phưong tin vn chuyn tù đa đim cung cp đn đa đim bo quàn, nghiên cu;
 
 <!-- image -->
 
-## 2.Ho so denghi capgiay phep nhapkhau,xuat khau
+- b) Bn sao Giy chng nhn đăng ký hot đng khoa hc và công ngh ca co quan nghiên cúu;
+- c) Bn sao K hoch nghiên cu đưc cp có thm quyn phê duyt;
+- d) Tài liu chng minh tính hp pháp ca cht đ ngh cho phép nghiên cu; k hoch, bin pháp đàm bo an toàn và điu kin bo qun cht ma túy, tin cht đè ngh cho phép nghiên cu; k hoch, bin pháp x lý tồn dư cht ma túy, tin cht trong quá trình nghiên cu.
+3. Ni dung văn bàn cho phép nghiên cu cht ma túy, tin cht
 
-- a)Dondenghicapgiayphepnhapkhau,xuatkhaucuadoanhnghieptheo Mauso01 taiPhulucbanhanhkemtheoNghidinhnay;
-- b)Banchinhmot trongcacvanban sau:Giayphepxuatkhau hoacnhap khau cua nuoc co hang xuat khau hoacnhapkhau(neu co);
-- c)Bansao cochung thuc cacgiay to sau:Giaychungnhan dautur,Giay chungnhandangkykinhdoanh,Giaychungnhandangkydoanhnghiep,Giay chungnhandudieukiensanxuatkinhdoanhdoivoihoatdongdugcphep,Giay chungnhandudieukiennhapkhauvaGiaychungnhanluu hanhthuocthuy tai VietNam,tri truonghopnhapkhauvimuc dichnghiencuru,su dungdieu tri benhcho dongvat hoang da,quyhiem;
-- d)Ban sao hopdong,donhang lien quankem theobanchinh doi chiu (khi coyeu cau);
-- d)Cacgiayto,tai lieulien quankhac:Phieuphan tich chat luong san pham(CoA)cuanha sanxuat hoacPhieuketquakiem dinh sanpham,nhan sanphamdoivoithuocthuycochirachatmatuy,tienchat;
+Văn bn cho phép phi ghi r thông tin vè tên, đa chi cơ quan nghiên cu; tên goi, mã CAS và mã HS, s lưng, hàm lưng cht ma tuý, tin cht đưc nghiên cúu; thi gian đưc phép nghiên cu; thòi gian, hành trinh, phưong tin vn chuyn (trưòng hp cn vn chuyn cht ma túy t kho lưu tr, bo qun đn noi t chc hot đng nghiên cu);
 
-Cac tai lieu neu trenneubangtiengnuocngoai thi phaikem theoban dich tiengVietco cong churng theo quy dinh cuaLuat Congchimg.
+Văn bàn cho phép đuc gi cho cơ quan nghiên cu, Công an tinh, thành ph noi cơ quan nghiên cu tin hành bo quàn, nghiên cu cht ma túy đưc cho phép.
 
-- 3.Giayphepnhapkhau,xuatkhau theoMaus02A,02B taiPhulucban hanhkemtheoNghidinhnay
-- a)Giayphepduoccapchotinglannhapkhau,xuatkhauvacogiatri trongthoihanghi trengiayphepnhungkhongqua12thang.Truonghophet thoi hanghi tronggiayphepnhungviecnhapkhau,xuatkhau chua thyc hien dugc thi doanhnghiepdenghicoquancapgiayphepgiahan,khonggioihan so lan gia han;
-- b) Giayphep duocgui cho doanhnghiep,Chi cucHaiquannoi lam thu tuchaiquan chohangnhapkhau,xuatkhauvagui BoTai chinh(TongcucHai quan),BoCongande theodoi,quanlyva thychiencacyeucau thongbaotien xuatkhau (khi coyeu cau);
-
-Vieccap giayphepneuchua durgc thuchien trenCongthong tinmot cira quocgia:Trong thoihan chamnhat la 03ngay lamviec,keturngay capgiay phep,coquancapgiayhepcotrachnhiemgrigiayphepnhapkhauxuatkhau toidoanhnghiepdenghi capphepnhapkhau,xuatkhau,ChicucHaiquannoi lamthu tuchaiquancho hangnhapkhau,xuat khauvaguri BoTai chinh(Tong cucHai quan),BCongan dephoi hop quan ly,kiem soat.
-
-<!-- image -->
-
-Truonghop,vieccapgiayphep dathychientrenCongthongtinmotcura quocgianhung trongthoigianTrungtamdulieukiemsoatcachoatdonghop phap lienquan denma tuythuocBoCongan chuaketnoi dugcvoi Cong thong tinmotcura quocgia thi trong thoihan03ngaylamviec,ke tirngaycapgiay phep,coquan capphepcotrachnhiemthongbaovaguigiayphepnhapkhau, xuatkhau toiBo Congan dephoihopquan ly,kiemsoat;
-
-d)Vieccap,dieuchinh,caplaigiayphepomat,thatlachoacsaisot,oanh chinhhoacbaocaogiai trinhlydomat,that lacdencoquancapphep.Trongthoi han chamnhatla05ngay lamviec,coquan capphep tienhanh xemxet,dieu chinh hoaccaplaigiayphep.Truonghoptirchoicapphep,coquancapphep tra loibangvanban,neurolydo.
-
-4.Ho so,trinh tu,thutuccapgiay phepnhapkhau,xuat khau tienchat djnhcuaphapluatvehoachatva cacquydinhcolienquan tai Nghidinhnay.
-
-chedkiem tra,giam sathangnhapkhau,xuatkhau theoquy dinh cua phap luat.Truonghopphathienhangnhapkhau,xuatkhaukhongdungvoinoidung giayphep,coquanHaiquan tamdingcacthu tucnhapkhau,xuatkhau,lapbin ban,xirlytheothamquyen;dongthoitrongthoihanchamnhat la03ngaylam viec,ke tirngayphathiensaipham,coquanHaiquancotrachnhiem thongbao tryc tiepqua durong daynong cho cac co quancapphepvaBoCong andephoi hopquan ly,kiem soat.
-
-6.Doivoi truonghopvi phamcacquy dinhve kiem soat hoat dongnhap khau,xuatkhau,Thu truongco quancapphepva Chicc truongChicucHai quannoilam thutuchaiquantuytheotinhchat,murcdoviphamcothequyet dinh thuhoiGiayphepnhapkhau,xuatkhaudacap,dinhchitamdinhchivic nhapkhau,xuatkhau,xilynguoiviphamvahangnhapkhau,xuatkhau theo cuaphapluat.
-
-Dieu21.Kiem soathoat dongtamnhap,tai xuat,tamxuat,tainhap chatmatuy,tienchat,thuocgaynghien,thuochuongthan,thuoctienchat, nguyen lieu lam thuoc la duoc chatgay nghien,duoe chathuong than,tien chatdunglam thuocvathuoethuycochirachatma tuy,tienchat
-
-1.Doanhnghiepcohoatdong theoquy dinh tai diembkhoan2Dieu19 cuaNghidinhnaychuanbihoso denghicapgiaypheptheoquydinhcuaphap luatvequan lyngoai thuong,guri tryctiephoacgiri qua duongbuu dienden Bo CongThuonghoacguribandientir thongquahethongdichvucongtruc tuyen cuaBoCongThuongtren Congthongtinmot ciraquocgia.
+4. Trình t, thù tc gia hn cho phép nghiên cu cht ma túy, tin cht
+- a) Trưc khi ht thi hn cho phép ti thiu 03 ngày, cơ quan nghiên cu gi văn bàn đ ngh cơ quan cp phép gia hn cho phép nghiên cúu, trong đó nêu rõ lý do, thòi gian đ nghi gia hn;
+- b) Cơ quan cp phép có trách nhim xem xét và thông báo vic cho phép gia hn hoc không cho phép gia hn (phài nêu rõ lý do) băng văn bàn trong thi hn 03 ngày làm vic, k tù ngày nhn đưc công văn đ nghi;
+- c) Vic cho phép gia hn thc hin theo quy đnh ti đim a và đim b khon 3 Điu này;
+- d) Không cho phép gia hn nghiên cu đi vói các trưòng hp thay đi mc đích nghiên cu, loi cht, hàm lưng, s lưng, bin pháp đàm bào an toàn và đièu kin bào quàn cht ma túy, tiên cht đ nghi gia han cho phép nghiên cúu; k hoch, bin pháp x lý tn du cht ma túy, tin cht trong quá trinh gia hn cho phép nghiên cu.
 
 <!-- image -->
 
-2.Coquan capphep tiepnhanhoso,tham dinh,thuc hien thongbao tien xuatkhau theoquydinhtaidiemdkhoan2Dieu35cuaNghidinhnayvacap giaypheptamnhap,taixuat,tamxuat,tainhapchatmatuy,tienchat,thuoc gaynghien,thuochuong than,thuoc tienchat,nguyenlieu lam thuocla dugc chatgaynghien,dugcchathuong than,tien chatdunglam thuocva thuoc thu ycochura chatma tuy,tienchat theoquydinhcuaLuatQuanlyngoai thuong.
+5. Hot đng nghiên cu cht ma túy theo quy đnh ca Điu này phi đưc theo dõi, kim tra, giám sát cht chē t quá trinh đưc cho phép đn khi hoàn thành nghiên cu.
+- a) Cơ quan nghiên cu phài thc hin đúng ni dung theo văn bàn cho phép và phi thông báo cho co quan cp phép v vic hoàn thành nghiên cu, kt quà nghiên cu, s lưng cht ma túy, tin cht đā s dng; tn dư cht ma túy, tin cht và bin pháp, kt quà x lý;
+- b) Công an tinh, thành ph noi cơ quan nghiên cúu tin hành bào quàn, nghiên cu cht ma túy đưc cho phép b trí lc lưng theo dōi, kim tra, giám sát vic vn chuyn, giao, nhn, bo qun và s dng cht ma túy đ nghiên cu theo văn bàn cho phép và quy đnh ca pháp lut;
+- c) Trưòng hp phát hin vi phm, lc lưng Công an noi phát hin vi phm thông báo ngay cho cơ quan cp phép và phi hp ngăn chn, x lý theo quy đnh ca pháp lut.
 
-3.Trong thoi hanchamnhat la03ngaylamviec,ketirngaycapgiayphep, nhapdacapchoChi cucHaiquannoilam thutuchaiquanvagui BoTaichinh （Tong cucHaiquan),Bo Cong an dephoihop quan ly,kiemsoat.
+## Điu 16. Kim soát hot đng sn xut cht ma túy, tin cht và thuc thú y có cha cht ma túy, tin cht
 
-4.Lurc lurongHaiquanc6 trachnhiem thuchien thu tucvakiem tra,giam sathaiquan theoquydinhcuaphapluatHai quan.Viecthaydoi mauma,bao bi,thung chua cua hang tam nhap,tai xuat,tam xuat,tai nhapphai dugc su dongycuaBo CongThuongvagiam satcualyrclurongHaiquan.Truonghop giayphep,coquanHaiquantam dingcacthu tuchaiquan,lapbienban,xily theothamquyen;dong thoi trongthoihan chamnhatla03ngaylamviec,ke tirngayphathiensaipham thongbaotrrctiepquaduongdaynongchoco quancapphepvaBoCongandephoi hopquanly,kiemsoat.
+1. Trình t, thù tc cho phép sn xut cht ma túy, tin cht
+- a) Co quan, t chc khi tin hành các hot đng sàn xut cht ma túy, tin cht theo quy đnh ti đim b khon 1 Điu 14 ca Ngh đnh này (sau đây goi là t chc có hot đng sn xut) gi h sơ trc tip hoc qua đưòng bưu đin đn B Công an hoc gi bàn đin t thông qua h thông dch v công trc tuyn cua B Công an trên Cng thông tin mt ca quc gia;
+- b) Trong thi hn 30 ngày làm vic, k t ngày nhn đ h sơ theo quy đnh, co quan cp phép tin hành xem xét, đánh giá thc t  cơ s và cp giy chng nhn đù điu kin sn xut cht ma túy, tin cht;
+- c) Trưòng hp có yêu cu chinh lý, b sung hò sơ, chm nht trong thi hn 03 ngày làm vic, k t ngày nhn đưc h sσ đ ngh, cơ quan cp phép có phiu thông báo, trong đó nêu rõ tài liu, ni dung cn chinh lýy, b sung;
 
-Dieu 22.Kiem soat hoat dong qua canh lanh thoViet Nam chat ma tuy,tinchat,thuocgaynghien,thuochuongtan,thuoc tinchat,nguyn lieulam thuocla duoe chatgay nghien,duocchathuongthan,tien chat dunglam thuoevathuoe thuycochirachatmatuy,tien chat
+Sau khi nhn đ hò so đā hoàn thành vic chinh lý, b sung, cơ quan cp phép tin hành cp giy phép theo quy đnh ti đim b khon 1 Điu này;
 
-## 1.Trinh ty,thu tuc capgiayphepqua canh lanh thoVietNam
-
-- a)Doanhnghiepcohoat dong taidiembkhoan1Dieu19 cuaNghidinhnay chuanbihosodenghicapgiaypheptheoquydinhtaikhoan2Dieunay,guritrc tiephoacguriqua duongburu diendenBo Conganhoacguribandientirthongqua hethong dichvu cong truc tuyen cuaBo Congan tren Cong thong tin mot cira quocgia;
-- b)Trong thoi han chamnhat la 05ngay lamviec,ke tingay nhan du ho sotheoquydinh,coquancappheptienhanhthamdinhvacapgiayphepqua canh.Truong hopkhongcapgiayphep qua canh thi phai thong baobang van banneurolydocho doanhnghiepdenghicapphep.
-
-## 2.Hosodenghicapgiayphepquacanh
-
-- a)Don denghi capgiayphepqua canhcuadoanhnghiepgomcacthong tinve ten,dja chi cua doanh nghiep;thoigian,dia diem,ly doqua canh;ten, dja chinoisanxuat,tengoi,masoCASvaHS,solurng,hamluong;tengoi, maHS,solurong thuocvanguyen lieu lamthuoc dugc diemsoatcanqua canh;tri giahang hoa;phuong tien,hanhtrinhva dieukienbao dam an toanvanchuyen;
-
-<!-- image -->
-
-## b)Banchinh hopdongvantai;
-
-c)Banchinhmottrongcacgiay tosau:Cong thu denghicua co quanco thamquyencua nuoc denghi chohanghoa qua canh,Giayphepxuatkhaucua nuoccohangxuatkhauhoacGiayphepnhapkhaucuanuoc cohangnhapkhau;
-
-d)Ban chinh Giayphepqua canh cua nuocmahangxuatkhau hoac nhapkhauda diqua truockhi denVietNam(truonghopvan chuyen qua canh nhieu nuoc).
-
-Cac tai lieuneu tren neu bang tiengnuoc ngoai thi phai dugc dichra tieng Vietcocongchirng theoquydinhcuaLuatCongchirng.
-
-## 3.Giayphepquacanh
-
-a)Noidunggiayphepphaighirten,diachi cuadoanhnghiepdugcphep qua canh;ten goi,ma s CAS,ma sHS,ma sUN （neu co),so luong,ham lurongcacchatduocphepquacanh;thoigian,phuongtien thuchienviecvan
-
-b) Giayphepquacanhcogia trimotlantheo thoi hanghitronggiayphep nhung thoi hanghikhongqua 02 thang.Truonghophetthoi hanghi tronggiay phepnhungviecquacanhchua thuchiendugcthi doanhnghiepdenghidugc khong qua30ngay;
-
-c)Giayphepqua canhdugcguri cho doanh nghiepdenghi capphepqua canh,Chi cucHai quan,Congan cactinh,thanhpho truc thuoc trunguong, donviBodoiBienphong,donvi Canhsatbiennoihangvan chuyenquacanh diqua,Bo Tai chinh(TongcucHai quan)va Bo Cong Thuong dephoi hop quan ly,kiem soat;
-
-d)Truonghopcandieuchinhgiayphepdosaisothoaccaplaigiayphep domat,thatlac,doanhnghiepcodondenghikem theogiayto,tai lieuchung minhnoi dungcandieuchinh hoacbaocaogiai trinh ly domat,that lac,gui co quancapphep.Trong thoi han chamnhat la05ngaylamviec,ketirngaynhan duho so theo quy dinh,co quan capphep tienhanh xem xetdieu chinhgiay phephoac caplai giayphep.Truong hop tirchoi dieuchinhhoaccap lai giay phep,coquan capphep tra loi bangvanban,neuroly do.
-
-4.Chatma tuy,tien chat,thuocgaynghin,thuoc huong than,thuoc tien chat,nguyenlieu lam thuoc la duoc chat gay nghien,dugcchat huong than, tienchatdunglam thuocva thuocthuycochua chatma tuy,tienchatquacanh lanh thVietNamphai dugcchira trong thungchua,donggoi,niemphongva dambaotuanthu tieuchuan,quychuanquoctevahosokemtheo.Truonghgp quacanh,ChicucHaiquannoilam thu tucqua canh tam dirngcacthu tuchai quan,lapbienban,xir ly theo tham quyenva thongbaongay qua duong day nongchoBoCongandephoi hopquan ly,kiemsoat.
+Trưòng hp quá thòi hn 03 tháng, k t ngày cσ quan cp phép có văn bn yêu cu chinh lý, b sung mà t chc đè ngh cho phép sn xut cht ma túy, tin cht không hoàn thành vic chinh lý, b sung thì h sơ đã np không còn giá tri;
 
 <!-- image -->
 
-5.Hoat dongquacanhlanhthVitNamchatma tuy,tinchat,thuocgay nghien,thuochuong than,thuoc tien chat,nguyenlieu lam thuoc ladugc chat gaynghien,dugcchat huong than,tien chat dunglam thuocva thuocthuyco chuachatma tuy,tienchatphai theodunghanh trinhvaovara theodungcura khaudaghitronggiayphepqua canh.Doanh nghiep thyuchienviecquacanh phai lam thu tuc,chju sykiem soatcua coquanHai quan,co quan c6tham quyencuaVietNamva chjumoichiphiquacanh theoquy dinh cuaphapluat;
+- d) Hò so, điu kin, tiêu chun đi vói t chc có hot đng sàn xut và ngưòi có liên quan đn hot đng sàn xut thc hin theo quy đnh ca văn bàn quy phm pháp lut hin hành v dưc đi vói nguyên liu làm thuc phi kim sot đc bit và quàn lý hóa cht đi vi hóa cht sn xut, kinh doanh có điu kin.
+2. Trinh t, thù tc cho phép sn xut thuc thú y có cha cht ma túy, tièn cht
+- a) Cơ quan, t chc khi tin hành các hot đng sàn xut thuc thú y có cha cht ma túy, tin cht gi hò so trc tip hoc qua đưòng bưu đin đn B Nông nghip và Phát trin nông thôn hoc gri bàn đin t thông qua h thông dch v công trc tuyn ca B Nông nghip và Phát trin nông thôn trên Cng thông tin mt ca quôc gia;
+- b) Trình t, th tc, hò so, điu kin, tiêu chun đi vi cơ quan, t chc và ngưi liên quan đn vic sàn xut, đāng ký lưru hành thuc thú y có cha cht ma túy, tin cht thc hin theo quy đnh ca pháp lut v thú y đi vói qun lý thuc thú y và quy đnh ti Ngh đnh này;
+- c) Đi vi co s đā đưc cp giy chng nhn đ điu kin sàn xut thuc thú y theo quy đnh ca pháp lut v thú y hin hành, khi có nhu cu sàn xut thuc thú y có cha cht ma túy, tin cht cùng trên dây chuyn sàn xut thuc thú y đã đưc cp Giy chng nhn đ điu kin sàn xut thì gi h so đ nghi, gm: văn bn đ ngh cua t chc có hot đng sn xut kèm theo bàn sao Giy chng nhn đ điu kin sàn xut thuc thú y đã đưc cp và tài liu chng minh quy trinh sàn xut, các nguyên liu làm thuc thú y là cht gây nghin, cht hưóng thàn, tin cht dùng làm thuc thú y.
 
-Chatma tuy,tien chat,thuocgaynghien,thuoc huong than,thuoc tien chat,nguyen lieu lam thuocla dugcchatgaynghien,dugcchathuong than, tienchatdunglam thuocva thuocthuycochurachatmatuy,tienchatquacanh duocpheplurulai trenlanh thoVietNamtrongthoihantoidala30ngay，ke tingayhoan thanh thu tuchai quan tai curakhau nhapkhau,trirtrurong hop dugcgiahan thoigian quacanh,duoclurukho tai VietNam hoachangqua
+Trong thi hn 05 ngày làm vic, k t ngày nhn đ h so theo quy đnh, Cσ quan cp phép tin hành tip nhn, thm đnh và cp Giy chng nhn đu điu kin sàn xut đi vi dây chuyn sn xut thuc thú y có cha cht ma tuý, tin cht; trưòng hơp không đù đièu kin cho phép sn xut, co quan cp phép trà lòi bàng văn bàn nêu rō lý do không cp Giy chng nhn đ điu kin sàn xut.
 
-Viectiu thunoidiachatmatuy,tienchat,thuocgaynghien,thuochuong than,thuoc tienchat,nguyenlieulamthuoc la dugc chatgaynghien,dugcchat huongthan,tienchatdunglam thuocvathuocthuycochuachatma tuy,tien chatquacanhphai thuchien theoquy dinhcua phapluatvenhapkhau,xuat khau taiNghidinhnayvaquydinhcuaphapluatcolienquan.
-
-6.LucluongHaiquancotrachnhiem thuchienthu tuchaiquanvakiem tra,giamsathaiquandoivoi hangqua canh theo quydinhcuaphapluat Hai dunggiayphep,coquanHaiquan tamdingcacthutuchaiquan,lapbienban, ke tirngayphat hiensaipham,coquanHaiquanco trachnhiem thongbao tryc tiepchocoquan capphephoac thongbaoqua durongdaynongchoBoCong anvaBoCongThuongdephoihopquanly,kiemsoatvaxur ly.
-
-7.Congan cactinh,thanh pho tryc thuoc trunguong,donviBodoi Bien quacanhdugcchophepphaibotrilycluong,phuongtienkiemsoatchatche, dambaoviecvanchuyentuanthu theodungtuyendurongvanoidungghitrong giay phep.Truronghophangvanchuyencoso luong lonhoac trong truong hop can thietkhac,donvi capphep dugc quyenyeu cau lurc luong Cong an dia phuong,BdoiBienphong,Canhsatbienphoihopvoi lycluongHaiquanto chucviecap taihangvanchuyenquacanhrakhoi lanh thoVietNam.Trong qua trinhdoanhnghiepthuc hien thutucquacanh,cacco quanchurcnangphat hienc6dauhieuviphamthi thongbaongaychocoquanHaiquandephoi hop
-
-<!-- image -->
-
-- 8.Viecmang theo thuocgaynghien,thuochuong than,thuoctienchat vi mucdichdieu tribenhchobanthannguoiquacanhlanhthoVietNamkhong nhiemkhai baovagiaitrinhvesolurongthuocdasurdungvoicoquanHaiquan cuaVietNam,conghiavu thuchiennghiemcacbienphapan toan thichhop docoquanHaiquanapdungdenganchanviecsurdungkhongdungmucdich hoacvan chuyentraiphepcac thuocdo,dong thoi chiu sykiemsoatcuaco quancothamquyencuiaVietNam.
-
-## Muc3
-
-## KIEMSOATCACHOATDONGHOPPHAPLIENQUANDEN MATUYVIMUCDICHQUOCPHONG,ANNINH
-
-Dieu23.Coquan c6thamquyen chophepvacaccoquan,tochurc durge tienhanh cachoat donghopphaplien quan denma tuyvimuc dich quoc phong,an ninh
-
-- 1.BoCongan chophepcoquan,to chucdugctienhanhcachoat dong hopphap lien quan den ma tuyvi muc dich quocphong,an ninh doivoi cac hoat dong sau:
-- ma tuydoChinhphuquydinh;
-- b)San xuatchatma tuy,tienchat quy dinh tai cacDanhmuc chatma tuy va tienchatdoChinhphuquydinh;
-- c)Nhapkhau,xuatkhauchatma tuy,tienchatquy dinhtaicacDanhmuc chatma tuyvatienchat doChinhphuquy dinh（triurtienchatdoBoQuocphong chophepquydinh taikhoan2cuaDieunay);
-- d)Nhapkhaumau chatma tuyquy dinh tai khoan 5cuaDieunay.
-- 2.BQuocphongchophepcaccoquan,tochurcdugc tienhanhhoat dong nhapkhau,xuatkhau,muaban,sudungtienchattheoquydinhtaiDanhmuc tienchat do Chinhphuquy dinh（trir tienchat doBoCongan,BoYtequan ly va cho phep).
-- 3.Bo Cong an,BoQuocphong trongphamvi nhiemvu,quyen hangiao chocoquanchucnangthychiennhiemvutiepnhanhoso,thamdinhvaquyet dinhviecchophepcachoat dongtaikhoan1vakhoan2cuaDieunay（sauday goi lacaquancapphep).
-- 4.Caquan,tochuc tienhanhcac hoat dongquy dinhtaikhoan1vakhoan2 cua Dieu nayphai lacaccoquan,tochurcdugcBoConganva BoQuocphong chi djnhva capphep(sau daygoi la don vi).
+3. Trinh t, thú tc cp li giy chng nhn đù điu kin sàn xut cht ma túy, tin cht và thuc thú y có cha cht ma túy, tin cht
+- a) Trưòng hp giy chng nhn b mt, sai sót, hư hòng hoc có thay đi v thông tin ca co quan, t chc thì co quan, t chc lp 01 b hò so đ nghi cp lai giy chng nhn hoc văn bn đ ngh cp li giy chng nhn (đi vi trưòng hp sai sót thuc v cσ quan cp phép) kèm theo giy chúg nhn đã đưc cp. H so đè ngh đưe gi trc tip hoc qua đưòng bưu đin đn co quan cp phép hoc gi bàn đin t thông qua h thông dch v công trc tuyn ca B Công an, B Nông nghip và Phát trin nông thôn ti Cồng thông tin mt ca quôc gia;
 
 <!-- image -->
 
-- 5.Cac donvi dugcnhapkhau,quan lyva sur dungmau cacchatma tuy, tienchat,thuocgaynghien,thuochuong than,thuoctienchat,nguyenlieulam thuocladuoc chatgaynghien,dugcchathuong than,tienchatdunglam thuoc va thuocthuycochurachatma tuy,tien chatvimucdich quocphong,anninh (sau daygoi chunglamau chatma tuy):
-- a)VienKhoahochinh sy,BoCongan la donvi duynhatdugcphepnhap khau mau chat ma tuy;
-- b)Cac donvi duocquanly,sur dungmau chatma tuybaogom:
+b) Trong thi hn 05 ngày làm vic, k t ngày nhn đù h so theo quy đnh, cơ quan cp phép tin hành thm đnh và cp li giy chúng nhn.
 
-Donvi chircnang thuocVienKhoahochinh sy,Bo Congan;PhongKy thuathinhsy Congan cactinh,thanhpho trycthuoctrunguong dugcnhan mau,quan lyva su dungmauchatma tuytirVienKhoahoc,hinhsu cua B Congandegiamdinh,huanluyennghiepvuphong,chongtoiphamvema tuy vatruynguyennguongocmatuy;
+4. Trinh t, thù tc sa đi giy chúg nhn đ điu kin sn xut cht ma túy, tin cht và thuc thú y có cha cht ma túy, tin cht
 
-Cac co quan chuyen trachphong,chong toiphamvema tuy thuoc lrc luongCongannhan dan,BodoiBienphong,CanhsatbienVietNamvaHai nhan mau,quanlyva su dungmau chatma tuy tuVienKhoahochinhsy B Congan dehuan luyennghiepvuphong,chongtoiphamvema tuy;
+a) Trưòng hp có thay đi vè đa đim, quy mô, chng loi, loi hình nghiên cu, sn xut thì cơ quan, t chc lp 01 b h so đ nghi, gm: công văn đ nghi, bn sao có chng thc tài liu chúng minh có thay đi. H so đưrc gi trc tip hoc qua đưòng bưu đin đn co quan cp phép hoc gi bàn đin t thông qua h thông dich v công trc tuyn ca B Công an, B Nông nghip và phát trin nông thôn ti Cng thông tin mt ca quc gia;
 
-Cong an(BoTu lenh Canh satco dong),BoQuocphong,BTaichinh（Tong cucHai quan)dugcnhanmau,quanlyvasirdungmau chat ma tuy tirVien Khoa hoc hinh sy,BoCong an de huan luyen dongvatnghiepvu.
+b) Co quan cp phép tin hành thm đnh, đánh giá thc t  cσ s và yn       n    n  n  iay chúng nhn.
 
-## Dieu24.Kiem soathoat dongnghienciru,giam dinh,san xuatchat ma tuy,tien chat vimue dich quoc phong,an ninh
+5. Hot đng sn xut cht ma túy, tin cht và thuc thú y có cha cht ma túy, tièn cht phài đưc theo dōi, kim tra, giám sát cht chē t quá trinh đưc cp phép đn sàn phm hoàn thành theo quy trình.
 
-- 1.Cacdonvi cohoat dongquydinh tai diem ava diembkhoan1Dieu23 cuaNghi dinh nayguri hosa denghicapgiayphepveco quan capphepcua Bo Cong an.
-- 2.Hoso,trinh ty,thu tccapphepvacacdieukien,tieuchuanchophep nghien ciru,san xuat chat ma tuy,tien chatvi muc dich quocphong,an ninh thuchien theoquy dinh taiDieu15vaDieu 16cuaNghidjnhnay.Doivoicac donvithuoclycluongCongannhandanvaQuandoinhandan theoquydinh taikhoan4Dieu23cuaNghidinhnaykhi dugcchi dinhtienhanhhoatdong nghien curu chat ma tuy,tien chatvi muc dichquocphong,an ninh duqc loai trir Giay chungnhandangkyhoat dongkhoa hocva congnghe cua co quan nghien ciru.
+a) Giy chng nhn đ điu kin sn xut cht ma túy, tin cht, thuc thú y có cha cht ma túy, tin cht và Giy chng nhn lưru hành thuc thú y có cha cht ma túy, tin cht đưc gi cho t chc có đ nghi, Công an tinh, thành ph và co quan quàn lý nhà nuc chuyên ngành ti đja phưong noi tin hành hot đng sàn xut;
 
-<!-- image -->
+b) T chc có hot đng sn xut phi thc hin đúng ni dung theo giy chúg nhn đưc cp và chu s theo dōi, kim tra, giám sát cùa các cơ quan chúc năng;
 
-3.Cacdonvi dugc phep nghien curu,san xuat chat ma tuy,tien chatvi muc dichquocphong,anninhcotrachnhiemthuchien daydu cacquy dinhve hoat dongva chju sy theodoi,kiemtra,giamsatcua coquanchircnangtheo quydinh taiDieunayva quydinh cuaphapluatc6lienquan.
+c) Công an tinh, thành ph và cơ quan qun lý nhà nưc chuyên ngành ti đa phưong noi tin hành hot đng sàn xut phi hp theo dōi, kim tra, giám sát hot đng sàn xut quy đnh cùa pháp lut;
 
-4.VienKhoa hochinh sy,BoConganchju trachnhiem tochuc thuchien trinhtu,thutucgiamdinhchatmatuy,tienchat,thuocgaynghien,thuochuong than,thuoctienchat,nguyenlieulam thuoc la dugcchatgaynghien,dugcchat huong than,tienchatdunglamthuocva thuocthuycochrachatma tuy,tien chat theoquy dinhcuaLuat Giam dinhturphap,BoluatTotunghinh suvacac vanbanquyphamphapluatcolienquan.
+d) Trưòng hp phát hin vi phm, lc lưng Công an nơi phát hin vi phm thông báo ngay cho cơ quan cp phép và phi hp ngăn chn, x lý theo quy đnh ca pháp lut.
 
-## Dieu 25.Kim soat cachoat dong nhapkhau,xuat khau,van chuyen chatma tuy,tien chatvimuc dich quocphong,an ninh
+## Điu 17. Kim soát hot đng vn chuyn cht ma túy
 
-1.Cacdonvi cohoat dongquy dinhtaidiem a,diemckhoan1va khoan2 Dieu23cuaNghi dinhnaygurihosodenghicapphepveBCongan,BoQuoc phong.
+## 1. Trinh t, th tc cp giy phép vn chuyn cht ma túy
 
-2.Ho so,trinhtu,thu tuccapphepvacac dieukien,tieuchuan choph nhapkhau,xuatkhauvavan chuyenchatma tuy,tien chatvimuc dichquoc phong,anninh thychien theoquydinhtaiDieu17,Dieu20 cuaNghi dinhnay. quyet dinhloaitrimotsodieukien,tieuchuanva tai lieucu theithoackhong capbachcho quocphong,an ninh.
-
-3.Caquancapphep thuocBoCong anvaBoQuocphongla donvi tiep nhanhoso,xemxet,danhgiavatochurc cachoat dong tham dinh,capgiay phepva theo doi,kiem tra,giam sathoat dongnhap khau,xuatkhau,van chuyen chat ma tuy,tien chatvimuc dich quocphong,anninh cua cacdon vi duoccappheptheo quy dinh.
-
-4.Cacdon vi dugcphepnhapkhau,xuatkhau,van chuyen chatma tuy， tien chatvimuc dich quocphong,anninh co trachnhiem thyc hienday ducac quy dinhve hoat dongnhapkhau,xuatkhau,van chuyenvachju su theo doi, kiem tra,giam satcua coquanchucnang theoquydinh taiDieunay,Dieu17, Dieu 20 cuaNghi dinhnayvaquy dinhcua phapluat c6lien quan.
-
-Dieu26.Quy djnhvehoatdongbaoquan,ton tru,phan phoi,sirdung, xrly,trao doichatma tuy,tien chatvimuc dich quocphong,anninh
-
-1.Donvidugc tien hanhcachoat dong hopphaplienquandenma tuyvi mucdichquocphong,anninhduocquy dinhtaiDieu23cuaNghi dinhnayco trachnhiem:
+a) Cσ quan, t chc khi có nhu cu vn chuyn cht ma túy (sau đây gi là t chc cn vn chuyn) chun b h so đè ngh theo quy đnh ti khon 2 Điu này gi trc tip hoc qua đưòng bưu đin đn B Công an hoc gi bn đin t thông qua h thông dch v công trc tuyn ca B Công an trên Công thông tin mt ca quc gia;
 
 <!-- image -->
 
-- a)Xay dungke hoach to churc thuc hien cac hoatdong bao quan,ton tri, phanphoi,sudung,xirly,trao doi chatma tuy,tien chat trong caquan dam baotuyetdoian toanvaphaichju trachnhiemtruocphapluatveviecnham lan,that thoat cac chat do;
-- b) Chaphanhviectheo doi,kiemtra,giam satcuacaccoquanchurcnang divicacoatngbaoquan,ntruhanphoidng,xly,taodihat ma tuy,tien chat tai coquan,don vi.
-- 2.Don vi chucnang thuocBoConganchju trach nhiemphoihopvoi cac coquan chucnang thuoccacbo,nganhcolien quan tienhanh theodoi,kiem tra,giamsatcachoatdongbaoquan,tntr,phanphoi,srdung,xirly,ra doi chatma tuy,tien chatvimuc dichquoc phong,anninh doivoicac donvi theoquydinh taikhoan1cuaDieunay.
+- b) Trong thi hn 05 ngày làm vic, k t ngày nhn đ h sơ theo quy đjnh, cσ quan cp phép tin hành thm đnh và cp giy phép vn chuyn cho t chc cn vn chuyn;
+- c) Trưòng hp có yêu cu chinh lý, b sung h so, trong thòi hn chm nht 03 ngày làm vic, k t ngày nhn đưc h so, cơ quan cp phép có phiu thông báo v vic chinh lý, b sung, trong đó nêu rõ tài liu, ni dung cn chinh lý, b sung và thi gian hoàn thành.Vic tip nhn, thm đnh và cp giy phép vn chuyn đưc thc hin trong thi hn 05 ngày làm vic, k t ngày nhn đù hồ so đã hoàn thành vic chinh lý, b sung.
 
-## Dieu 27.Quy djnh viec nhap khaumau,lay mau chat ma tuy vi muc dich quocphong,an ninh
+## 2. H sơ đ ngh cp giy phép vn chuyn cht ma túy
 
-- 1.Nguonmau chatma tuyvimuc dich quoc phong,anninh baogom:
-- a)Mauchatma tuy tirnguon nhapkhau;
-- b)Mauchatma tuylavatchungtircacvu anve toiphamma tuy;
-- c) Mau chatma tuyla san pham tircac hoat donghopphaplienquan den ma tuyvi mucdich quocphong,an ninh phuc vu cong tacgiam dinh,huan luyennghiepvuphong,chong toiphamvema tuyvamaunguonhoichatma tuyhuanluyendongvatnghiepvu.
-- 2.Ho so de nghi cap giayphep nhapkhaumau chatma tuy baogom:
-- a)Vanban churngminhnguonkinh phi hopphap;
-- c)Vanban thongbaohangvien tro(neu lahangvien tro);
-- d) Congvan de nghi capgiayphepnhapkhau cuaVienKhoa hoc hinh sy.
-- 3.Trinh ty,thu tuccapgiayphepnhapkhaumauchatma tuy
-- a) Can cuvao du trunhu causirdungmauchatma tiyda duocBo Cong anpheduyet,VienKhoa hochinh su laphosodenghi capgiayphepnhap khauguri coquancapphep tham dinh;
+- a) Đon đ ngh cp giy phép vn chuyn cht ma túy có các ni dung sau: tên, đa chi t chc giao và t chc nhn cht ma túy; mc đích vn chuyn; tên goi, mã CAS và mã HS, s lưng, hàm lưng cht ma tuý; thi gian, hành trình, phưong tin vn chuyn;
+- b) Bn sao hp đng vn chuyn gia t chc cn vn chuyn vi t chc thc hin vn chuyn hp pháp;
+- c) Bn sao giy phép xut khu, nhp khu, tm nhp, tái xut, tm xut, tái nhp cht ma túy (trưòng hp vn chuyn t kho lưu tr, bào quàn đn ca khu hoc ngưc li đ thc hin th tc hài quan).
+3. Giy phép vn chuyn đưc cp cho tng ln vn chuyn và có giá tri trong thòi hn ghi trên giy phép nhung không quá 06 tháng. Ni dung giây phép ghi rõ thông tin tên, đa chi t chc giao và t chc nhn cht ma túy; mc đích vn chuyn; tên goi, mã CAS và mã HS, s lưng, hàm lưng cht ma tuý; thi gian, hành trinh, phưong tin vn chuyn. Giy phép đưc gi cho t chc cn vn chuyn, t chc thc hin vn chuyn và lc lưng Hài quan, B đi Biên phòng, Cnh sát bin, Công an tinh, thành ph theo hành trinh vn chuyn đưc ghi trên giy phép.
+4. Trinh t, th tc gia hn và cp li giy phép vn chuyn cht ma túy
+- a) Trưc khi ht thi hn cho phép ti thiu 03 ngày, t chc cn vn chuyn gi đon đ ngh co quan cp phép gia hn, trong đó nêu rǒ lý do, thòi gian đ nghi gia hn;
+- b) Trưòng hp giy phép b mt hoc có thay đi v thi gian, hành trinh, phưong tin vn chuyn, t chúc cn vn chuyn gi đon đ ngh co quan cp phép cp li giy phép kèm theo giy phép đã đưc cp;
+- c) Trong thi hn 03 ngày làm vic, k t ngày nhn đưc đon đ ngh ca t chc cn vn chuyn, cơ quan cp phép tin hành xem xét và cp phép gia hn hoc cp li giy phép vn chuyn cho các trưòng hp quy đnh ti đim a và đim b cua khoàn này.
 
 <!-- image -->
 
-b)Trong thoi han10ngay lam viec,ke tungaynhandu ho so theo quy dinh,coquancapphepco trachnhiemthamdinhvacapgiayphepnhapkhau;
+5. Vic vn chuyn cht ma túy phi thc hin theo đúng ni dung ghi trong giy phép. Khi tin hành giao, nhn cht ma túy phi có biên bn giao nhn gia t chc cn vn chuyn vi t chc thc hin vn chuyn. Ni dung biên bn nêu rõ tên, đa chi t chc giao và t chc nhn cht ma túy; tên ngưi giao, ngưòi nhn, giy tò tùy thân; tên goi, mã CAS và mã HS, s lưng, hàm lưng cht ma tuý giao nhn; thòi gian, đa dim giao nhn và cam kt vic giao nhn đy đù ca ngưòi giao, ngưòi nhn.
+6. Hot đng vn chuyn cht ma túy theo quy đnh ca Điu này phài đưc theo dõi, kim tra, giám sát cht chē t quá trinh đưc cp giy phép đn khi hoàn thành vic vn chuyn
+- a) T chc cn vn chuyn và t chc thc hin vn chuyn phi chu trách nhim v s lưng, cht lưng, có bin pháp bo v an toàn, không đ bi tht thoát trong quá trinh vn chuyn và chu s theo di, kim tra, giám sát cua co quan nhà nuóc có thm quyèn;
+- b) Công an các tinh, thành ph trc thuc trung ưong, đon v B đi Biên phòng, đon v Cành sát bin quàn lý tuyn đuòng vn chuyn theo hành trình đưc cho phép phài b trí lc lưng, phưong tin theo dõi, kim tra, giám sát cht chē, đàm bào vic vn chuyn theo đúng tuyn đưòng và ni dung ghi trong giy phép. Trưòng hp phát hin có du hiu vi phm, cơ quan chc năng phát hin thông báo ngay cho cơ quan cp phép và phi hp ngăn chn x lý theo quy đnh ca pháp lut.
 
-Giayphepnhapkhaumauchatma tuy dugclam thanh05bo(moibogom 01ban tiengVietva 01 ban tiengAnh)gurichoVienKhoa hochinh sy(02bo); Chi cucHai quan noilam thu tucnhapkhau,BoTai chinh(TongcucHaiquan) va luu tai coquancapphepmoinoi01bo;
+## Điu 18. Kim soát các hot đng liên quan đn thuc thú y có cha cht ma túy, tin cht
 
-c)Saukhi dugccap Giay phepnhapkhau,VienKhoa hochinh sy tien hanhcacthutucnhapkhau:Kyhopdongvoidoi tacduocpheduyetuythac nhapkhau (truong hop dugc Bo Cong an,Bo Quoc phong hoac BoTai chinh chomua desurdung);phoi hopvoidai diendoi tacvien trglam thu tucnhap khau(neuco).
-
-4.Lay mau chatma tuyvi muc dichquocphong,an ninh
-
-naydetrungcaugiam dinhphucvcong tacdieutra,truyto,xetxircacvuan
-
-b)Hangnamhoackhiconhu cau bosungmauchatma tuyphucvu cong tacgiamdinh,huanluyennghiepvuphong,chongtoiphamvema tuyvahuan luyen dongvat nghiepvu,Vien truongVienKhoa hoc hinh sy dexuatBo truongBo Conganpheduyetkehoachlaymauchatmatuylasanpham tircac hoat dong hopphaplien quan denma tuyvi muc dichquocphong,anninh.Cac donviduocpheptienhanhcachoatdongsanxuat,nhapkhauquydinhtaikhoan1 vakhoan2Dieu23cuaNghidinhnaycotrachnhiembangiaomauchatmatuy veVienKhoa hochinh sy,BoCong an theoke hoach dugcphe duyet.
-
-## Dieu28.Quy dinhviec bao quan,phan phoi,sir dung mau chatma tuy vi muc dich quoe phong,an ninh
-
-1.Mau chatma tuyphai dugcluu truvabaoquan taicackholurumau chatma tuyquocgiavakho luru mau chatma tuy trunggian.
-
-a)Kho lurumau chatma tuy quocgia la noi tiepnhanmau theo cacnguon quy dinh tai khoan 1 Dieu 27 cuaNghi dinh nay doTrung tam giam dinh ma tuy thuocVienKhoahochinh sy,Bo Cong an tryc tiep quan ly,baoquan va phanphoi chocaccoquandurgc su dung theoquydinh tai diembkhoan5Dieu 23cuaNghi dinhnay;
-
-b)Kho lurumau chatma tuy trunggian tai cac co quan theo quy dinh tai diembkhoan5Dieu 23cuaNghidinhnay,baogom:
-
--Kho luumau chat ma tuy trung gian tai Cong an tinh, thanh pho tryc thuoc trunguong lanoitiepnhanmauchatmatuy tirVienKhoa hoc hinh su,Bo Cong an doPhongKy thuat hinh sythuocCong an tinh,thanhpho tryc thuoc trung uong tructiepquanlyva thychiengiamdinh,huanluyennghiepvuphong,chongtoi phamvema tuyva truynguyennguongocma tuy;
+1. Kim soát hot đng sàn xut thuc thú y có cha cht ma túy, tin cht thc hin theo quy đnh ti khon 2, khon 3 và khoàn 4 Đièu 16 ca Ngh đnh này.
+2. Cơ s kim nghim, kim đnh thuc thú y có cha cht ma túy, tin cht phi đm bo điu kin, tiêu chun v cơ s vt cht, đa đim, ngưi hành ngh thú y theo quy đnh cùa pháp lut v thú y đi vi qun lý thuc thú y, dns         nn    dnn  s theo dõi, kim tra, giám sát ca co quan có thm quyn.
+3. Cơ quan, t chc, cá nhân tin hành các hot đng nghiên cu, vn chuyn, bào quàn, tn tr, mua bán, phân phi, s dng, x lý, trao đi thuc thú y có cha cht ma túy, tin cht thc hin theo quy đnh ca pháp lut vè thú y đi vi qun lý thuc thú y, các quy đnh có liên quan ti Ngh đnh này và chu s theo dǒi, kim tra, giám sát ca co quan có thm quyn.
 
 <!-- image -->
 
-- -Kho luru mau chat ma tuy trung gian tai Bo Quocphong,Bo Tai chinh （Tong cucHai quan)la noi tiepnhanmau chatma tuy tirVienKhoa hochinh su, BCongandocoquanchuyen trachphong,chongtoiphamvema tuyva cacco sodaotaonguoilamcongtacphong,chongmaty,huanluyendongvatnghiep vu chuyenkhoa phathien ma tuy thuocBodoi Bienphong,CanhsatbienViet Nam,ngcHaiquanttiquanlydngaotaohunluyngi vuphong,chongtoiphamvematuy;
-- -Kholurumau chatmatuy trunggian tai caccosodao taonguoilam cong tacphong,chongtoiphamvematuy thuocBoCong anlanoitiepnhanva tryc tiepquan lymauchatma tuytirVienKhoa hochinhsuBo Congandesir dung huanluyennghiepvuphong,chongtoiphamvema tuy;
-- -Kholuru mau chatma tuy trunggian taiBoTu lenh Canh satco dong la noi tiepnhanmauchatma tuytirVienKhoahochinh sy,BoCongan do donvi Hurongdanhuanluyen,sidungdongvatnghiepvutrctipquanlysidungd huan luyendongvatnghiepvu.
-- 2.VienKhoa hoc hinh sy,BCong an tochurcphanphoi,bangiaomau chatmatuytheokehoachdurgcpheduyet,tiepnhanmauchatmatuykhongcon sudungcua cacdonvi,tienhanh theo doi,kiem traviecsu dung tai cacdonvi vadanhgiachat luongmauchatmatiy contontrutaikholurumau chatma tuy trunggiandedexuatxirlytheoquy dinh tai Dieu 29 cuaNghi dinhnay.
-- 3.Cac don vi sur dungkhi khong connhu cau sur dung mau chat ma tuy phai bangiaolai choVienKhoa hochinhsu,Bo Congan.
-- 4.Cacdonvi dugctienhanhcachoat dong theoquydinh taikhoan1 cua Dieunay cotrachnhiem thychien cacquy dinhvehoat dongbaoquan,phan taiDieu26cuaNghidinhnay.
+4. B Nông nghip và Phát trin nông thôn tin hành kim soát các hot đng liên quan đn thuc thú y có cha cht ma túy, tin cht theo quy đnh pháp lut vè thú y đi vói qun lý thuc thú y và các quy đnh có liên quan ti Ngh đnh này; phát hin các hành vi vi phm pháp lut, x lý theo thm quyn hoc chuyn giao cho cơ quan có thm quyn x lý theo quy đnh ca pháp lut.
 
-## Dieu29.Quy dinhve xir ly mau chatma tuy vi mue dich quoc phong, anninh
+## Mc 2
 
-- 1.Dinhkyhangnam,VienKhoahoc hinh su,Bo Cong an tienhanhkiem tra,danhgia chatlurongmauchatma tuy con ton trir tai cackholurumauchat ma tuytrunggianvatukiemtra,danhgiachatluongmauchatma tuyconton trir taikholuru trirmauchatmatuyquocgia.
-- 2.Truong hopbi nham lan hoac that thoat mau chat ma tuy,cac don vi phaibaocaongayvoicoquanquanlycaptren trrctiep.Khinhan dugcbao cao,coquanquanlycaptrentryctiepphai tienhanhngayviecthamtra,xac minhdecobienphapxirly thich hopvagiri baocaoveBoCongan(quaVien Khoahochinh su).
+KIÊM SOÁT CÁC HOT DNG NHP KHÀU, XUÁT KHÁU, TM NHP, TÁI XUÁT, TAM XUÁT, TÁI NHP VÀ QUÁ CÀNH LÃNH THÓ VIT NAM CHÁT MA TÚY, TIÈN CHÁT, THUÓC GÂY NGHIN, THUÓC HUÓNG THÀN, THUÓC TIÈN CHÁT, NGUYÊN LIU LÀM THUÓC LÀ DUQC CHÁT GÂY NGHIÈN, DUQC CHÁT HUÓNG THÀN, TIÈN CHÁT DÙNG LÀM THUÓC VÀ THUÓC THÚ Y CÓ CHA CHÁT MA TÚY, TIÈN CHÁT
 
-<!-- image -->
+Điu 19. Co quan có thm quyèn cho phép và co quan, t chc, cá nhân đưc tin hành hoąt đng nhp khu, xut khu, tm nhp, tái xut, tąm xut, tái nhp và quá cnh lānh th Vit Nam cht ma túy, tièn cht, thuc gây nghin, thuc huróng thàn, thuc tin cht, nguyên liu làm thuc là dưe cht gây nghin, dưe cht hưóng thàn, tièn cht dùng làm thue và thuc thú y có chra cht ma túy, tin cht
 
-3.Khimauchatma tuy ton trrnhieu hoacbigiam chatluongsaukhi da surdunghoacbibiendoi dothoihanbaoquan thiVientruongVienKhoahoc hinhsuphaicovanbanbaocaoBo truongBoConganvetinh trangmau(ghi rten,soluong,nongdo,ham lurong,lydovaphuongphapxurly)dexemxet va thanhlapHoi dongtieuhuy.
-
-4.Hoidong tieuhuymauchatma tuybaogom:Lanh daoVienKhoahoc hinhsy la Chu tichHoidong,thanhviengom daidienVienkiemsatnhan dan toicao,Cuc Canhsatdieutra toiphamvematuy,nguoi phu trachkho luu tr mau quocgiava Giam docTrungtamGiam dinhma tuy,VienKhoa hochinh sula Uyvien thuky.
-
-5.Trinh tu,thu tuctieu huy mau chatma tuy thuc hien theoquydinhcua phapluattotunghinhsyvetieuhuyvatchungvaphailapbienban,chupanh, luuhosotheoquydinh taiVienKhoahochinh sy,BoCongan.
-
-## Dieu30.Lap dy tru,ho so,che dbao caovakinh phi thue hienviec nhapkhau,laymau chatma tuyvimuc dich quocphong,anninh
-
-1.Dinhkyhangnam,cacdonviduoc quy dinh tai diembkhoan5Dieu23 cuaNghi dinhnaylapdu truvaguri dangky soluongmauchatma tuyveVien Khoahochinhsy,BoCongan trurocngay15thang01detonghop,doi chieu phanphoi mau chatma tuyvakehoachnhapkhau,laymauchat matuyvi muc dich quoc phong,an ninh.
-
-2.Don vi sur dung mau chat ma tuy phaimoso theodoi viecsir dung.Vien Khoa hochinh symoso theodoinhap,xuatkho,giaonhanva surdung tai don vi va thuchien che dobaocao,thongke theoquy dinh cuaBo Cong an.Cac tailieulienquanphaidugclurugiu,quanlytheoquydinh.
-
-- a)Doivoimauchat ma tuy phucvu truy nguyennguongocphaithuc hien theo dung quy dinhvegiamdinh truy nguyen nguongoc.Lapbienban hoac so tichmauvalanhdaoquanlytryctiep;
-- b) Cacphong thi nghiemgiam dinhsu dungmau chuanphucvugiam dinh phaimoso theodoiquatrinhsur dungmaucochukyxacnhancuanguoi tham giaphantichmauvalanhdaoquanly tryctiep;
-- quan ly tryctiep.
+1. B Công an cho phép cơ quan, t chc đưc tin hành các hot đng sau:
+- a) Nhp khu, xut khu các cht ma túy, tin cht ti các Danh mc cht ma túy và tin cht do Chính phú quy đnh (trù các cht ma túy, tin cht là nguyên liu làm thuc phi kim soát đc bit do B Y t cho phép và các tin cehhd    n n   g   ep
+- b) Quá cnh lānh th Vit Nam các cht ma túy, tin cht ti các Danh mc cht ma túy và tin cht do Chính phù quy đnh; thuc gây nghin, thuc hưóng thàn, thuc tin cht, nguyên liu làm thuc là dưc cht gây nghin, dưc cht hưóng thn, tin cht dùng làm thuc và thuc thú y có cha cht ma túy, tièn cht.
+2. B Công Thưong cho phép cơ quan, t chc, cá nhân đưc tin hành các hoąt đng sau:
+- a) Nhp khu, xut khu tin cht quy đnh ti Danh mc tin cht do Chính ph quy đnh (tr các tin cht do B Công an, B Y t quàn lý và cho phép);
+- b) Tm nhp, tái xut, tm xut, tái nhp cht ma túy, tin cht quy đnh in cit  n    i t  t n i nt nghin, thuc hưóng thàn, thuc tin cht, nguyên liu làm thuc là dưc cht gây nghin, dưc cht hưóng thn, tin cht dùng làm thuc và thuc thú y có cha cht ma túy, tin cht.
 
 <!-- image -->
 
-- mauchatma tuyveVienKhoa hochinhsu,BoCongantruocngay15 thang7 （solieutinh turngay15 thang12nam truocky baocaoden ngay14 thang6cua kybaocao)vangay15thang01hangnam（tinhtirngay15thang12namtruoc kybao caodenngay14 thang12cua kybaocao).VienKhoa hochinh sy tong hopketquanhapkhau,laymau,phanphoi,surdung,tieuhuyva tonkhomau chatma tuyguri baocaoBoCong an,VienKiemsatnhan dantoi caova Toa an nhan dan toi cao.
-- 4.Kinhphi thuchienviecnhapkhau,laymau,xulymauchatmatuy chi tingansachnhanuoc thuongxuyen cuaBoCong an.Kinhphidambao cac dieukienbaoquanmauchatma tuychi tirngansachnhanuocthuongxuyen cua cacbo,nganh,dia phuong.
+3. B Nông nghip và Phát trin nông thôn cho phép cơ quan, t chc đưc tin hành các hot đng sau:
 
-## Dieu31.Trachnhiemkiem tra,giam sat,xirlyvi pham
+a) Nhp khu, xut khu thuc thú y có cha cht ma túy, tin cht;
 
-- 1.Cacdon vi co hoat dong hopphap lien quan den ma tuyvimuc dich quocphong,anninhchju trachnhiemkiem tra,giamsatvaxilyvipham theo tham quyenva tonghopbaocaoveBo Cong an.
-- 2.Co quan chuyen trach phong,chong toiphamvema tuy thuocBo Cong an chu tri,phoi hop voi co quan chuc nang cua cac bo,nganh,dia phuongtienhanhkiem tra,giam satva dexuatxulyhoacxulyvipham phapluattheothamquyen.
+b) Nhp khu cht ma túy, tin cht dùng làm nguyên liu sn xut thuc thú y là các cht ma túy, tin cht ti các Danh mc cht ma túy và tin cht do Chính phù quy đnh.
 
-## Muc4
+4. B Công an, B Công Thưong, B Nông nghip và Phát trin nông thôn trong phm vi nhim v, quyn hn giao eho co quan chúe năng thc hin nhim v tip nhn hò so, thm đnh và quyt đnh vic cho phép các hot đng quy đnh ti khoàn 1, khoàn 2 và khon 3 ca Điu này (sau đây goi là cơ quan cp phép).
 
-## LAPHOSOVACHEDOBAOCAOCACHOATDONG HOPPHAPLIENQUANDENMATUY
+5. Coơ quan, t chc, cá nhân có hot đng quy đnh ti khoàn 1, khoàn 2 và khoàn 3 ca Điu này là thưong nhân Vit Nam và thưong nhân nưc ngoài hot đng thưong mi ti Vit Nam theo quy đinh ca Lut Thưong mi (sau đây goi là doanh nghip).
 
-## Dieu32.Lapho so
+## Điu 20. Kim soát hot đng nhp khu, xut khu cht ma túy, tin cht và thue thú y có cha cht ma túy, tin cht
 
-- 1.Co quan,tochuc,canhan khi tien hanh cac hoat dong hopphap lien quandenma tuyquydinh tai khoan1Dieu12cuaLuatPhong,chongma tuy phai laphosotheoquy dinh cua coquanquan lychuyennganh,trongdophai dambaobaogomcacnoi dungsau:
-- a)Coquan,tchccoatngnghienctrugiamdinh,sanxuatphai lu trislieu theodoisluong,chatluong,thoi han sdung,quy trinh sanxuat; slieu vexuat,nhap,tonkho;phieu xuat,nhapkho;
-- b)Caquan,tochurc,canhancohoat dongmuaban,xuat khau,nhapkhau, tamnhap,taixuat,tamxuat,tainhapphailurutrslieunhap,xuat,tonkhova hoadon,ching ti,tailieucolienquandoivoi tingchattheo danh muctai Nghi dinh quy dinhcacDanhmuc chatma tuyva tien chatcua Chinh phu.
-- 2.Hoso,churng tirphai luru gir trong thoihan theoquy dinhcua co quan quan ly chuyennganh.Het thoi hanluu gisosach,chung tur,thu truong don vicotrachnhiemlapHoidongdetienhanhhuysosach,chumgtirdovaphai lapbien ban.
+1. Trinh t, th tc cp giy phép nhp khu, xut khu
 
-<!-- image -->
+- a) Doanh nghip có hot đng theo quy đinh ti đim a khon 1 và khon 3 Điu 19 ca Ngh đnh này chun b h so đ ngh cp giy phép nhp khu, xut khu theo quy đnh ti khon 2 Điu này, gi trc tip hoc gi qua đưòng buu đin đn B Công an, B Nông nghip và Phát trin nông thôn hoc gi bn đin t thông qua h thông dich v công trc tuyn ca B Công an, B Nông nghip và Phát trin nông thôn trên Cồng thông tin mt ca quc gia;
+- b) Trong thi hn chm nht là 03 ngày làm vic, k t ngày nhn đ h so đè ngh cp giy phép nhp khu cht ma túy theo quy đnh, co quan cp phép tin hành thm đnh và cp giy phép nhp khu;
 
-## Dieu33.Chéaobaocao
+c) Trong thi hn chm nht là 10 ngày làm vic, k t ngày nhn đ h so đ ngh cp giy phép xut khu cht ma túy, tin cht theo quy đnh, co quan cp phép tin hành thm đnh, thc hin thông báo tin xut khu và cp giy phép xut khu. Trưòng hp co quan có thm quyn ca nưc nhp khu không thông qua yêu càu thông báo tin xut khu thì cơ quan cp phép không cp giy phép và thông báo bng văn bàn cho doanh nghip bit lý do;
 
-1.BCongan,BCongThuong,BYte,BNongnghipvaPhat trin nongthon,BoQuocphongchju trachnhiem tonghop tinhhinhhoatdonghop phaplienquandenmatuycualinhvurcquanlytrenphamvitoanquocvathuc hienbaocaodinhky6thang（solieutinhturngay15thang12namtruocky baocaodenngay14thang6cuakybaocao)/1nam(solieu tinh turngay15 thang12namtruockybaocaodenngay14thang12cuakybaocao)guiBo Congan de tonghop,baocaoThutuongChinhphu.
-
-2.BoTai chinhchiu trachnhiem tonghop tinh hinh nhapkhau,xuatkhau, tam nhap,tai xuat,tam xuat,tainhap,quacanhlanh thVietNamchatmatuy， tien chat,thuocgaynghien,thuochuong than,thuoctienchat,nguyenlieulam thuocla dugcchatgaynghien,duoc chathuong than,tienchatdunglam thuoc va thuoc thuyco chura chatma tiy,tien chat trenphamvi toanquoc（so luong thycte,sovuviecvipham,hinh thurcxirlyvacacthongtinkhaccolienquan） va thuchienbaocaodinhky6thang（solieu tinh tirngay15thang12nam truockybaocaodenngay14thang6cuakybaocao)/1nam（solieutinh tir ngay15thang12namtruockybaocaodenngay14 thang12cuakybaocao) guri Bo Cong ande tong hop,baocaoThu tuong Chinh phu.
-
-3.Co quan,tchuc,canhan trong qua trinh tien hanh cac hoat dong hop phaplienquandenma tuydeuphaibaocaokhantoicoquanquanlytryctiep trong truonghop co synhamlan,ngodoc,bi that thoat cac chatnay.
-
-4.Khi chat ma tuy,tienchat,thuoc thuycochua chat ma tuy,tien chat khong thuoc quy dinhcuaDieu 21 LuatPhong,chongma tuycanxir ly thi don xir ly.Viecxirlychi dugc thuchienkhicoquancap trencothamquyenphe duyetbangvanban.Thu truongdonviphai thanhlaphoi dongxi lyvalap bienbanxily,baocaolencoquanquanlycaptrentryctiepvaguriBoCong ande theo doi,quan ly.
-
-## Dieu34.Lap dy tru
-
-1.Coquan,tchcconhucaunhapkhau,xuatkhau divoi chatmaty tien chat thuocdanhmucphai dy tru theoquydinhcua cacConguocquocté vekiemsoatma tuy,hangnamguri dangkydy trunhucauvecoquancotham quyenthuocBoquanlychuyennganh.
-
-2.BYte,BCongThuong,BQuocphong,BoNongnghiepvaPhat triennongthon tonghop dytrunhu caunhapkhau,xuatkhauchatma tuy,tien chatquydinh taikhoan1 cuaDieunay theomau du trucuaUybankiemsoat matuy quocte Lien hopquocvagiri BoCong an truocngay31 thang3hang nam.Truonghopnhu cauvuotqua du tru hoacco thay doi khac,cacbo thong baobangvanbanveBo Congande thuchiendangkybosung truocngay31 thang5vatruocngay30 thang9cuanamdangky.
+- d) Trong thi hn chm nht là 05 ngày làm vic, k t ngày nhn đ hồ so đ ngh cp giy phép nhp khu, xut khu thuc thú y có cha cht ma túy, tin cht theo quy đnh, co quan cp phép tin hành thm đnh và cp giy phép nhp khu, xut khu.
 
 <!-- image -->
 
-3.BoCong an tonghop,ra soat,doi chieunhu cauvaketquanhapkhau, xuatkhau cuanam truoc,thuchienviecdangkynhucauvoi Uybankiem soat ma tuyquoc teLienhop quocva theo doi,thuchien thongbao tien xuat khau voicacnuoc theo quy dinh;dong thoiguiBoTai chinh（TongcucHaiquan) dephoihoptheodoi.
+## 2. H so đ ngh cp giy phép nhp khu, xut khu
 
-## Muc5
+- a) Đon đ ngh cp giy phép nhp khu, xut khu ca doanh nghip theo Mu s 01 ti Ph lc ban hành kèm theo Ngh đnh này;
+- b) Bn chính mt trong các văn bn sau: Giy phép xut khu hoc nhp khu ca nưc có hàng xut khu hoc nhp khu (nu có);
+- c) Bn sao có chng thc các giy tò sau: Giy chng nhn đu tưr, Giy chg nhn đāng ký kinh doanh, Giy chúng nhn đăng ký doanh nghip, Giy chúng nhn đ điu kin sàn xut, kinh doanh đi vi hot đng đưc phép, Giy chng nhn đ điu kin nhp khu và Giy chng nhn lưu hành thuc thú y ti Vit Nam, trù trưòng hop nhp khu vì mc đích nghiên cu, s dng điu tri bnh cho đng vt hoang dã, quý him;
+- d) Bn sao hp đng, đon hàng liên quan kèm theo bàn chính đi chiu (khi có yêu cu);
+5. đ) Các giy tò, tài liu liên quan khác: Phiu phân tích cht lưng sàn phm (CoA) cua nhà sàn xut hoc Phiu kt qu kim đinh sn phm, nhãn sàn phm đi vi thuc thú y có cha cht ma túy, tin cht;
 
-## PHOIHOPKIEMSOATCACHOATDONGHOPPHAP LIENQUANDENMATUY
+Các tài liu nêu trên nu bng ting nưc ngoài thì phi kèm theo bàn dch ting Vit có công chng theo quy đnh ca Lut Công chg.
 
-## Dieu35.Noi dung va cochephoi hopkiem soat cac hoat dong hop phaplienquandenmatuy
+3. Giy phép nhp khu, xut khu theo Mu s 02A, 02B ti Ph lc ban hành kèm theo Nghi đnh này
+- a) Giy phép đưc cp cho tmg ln nhp khu, xut khu và có giá tri trong thi hn ghi trên giy phép nhuưng không quá 12 tháng. Trưòng hop ht thi hn ghi trong giy phép nhưng vic nhp khu, xut khu chưa thc hin đưc thì doanh nghip đ ngh cơ quan cp giy phép gia hn, không giói hn s làn gia hn;
+- b) Giy phép đưc gi cho doanh nghip, Chi cc Hi quan nơi làm thú tc hi quan cho hàng nhp khu, xut khu và gi B Tài chính (Tng cc Hi quan), B Công an đ theo di, qun lý và thc hin các yêu cu thông báo tin xut khu (khi có yêu cu);
 
-1.Phoihopkiemsoatcachoat dongnghiencru,kiemnghiem,kiemdinh, san xuat,vanchuyen,bao quan,ton tr,muaban,phanphoi,sudung,xily traodoichatma tuy,tienchat,thuocgaynghien,thuochuong than,thuoctin chat,nguyen lieu lam thuoc la dugc chat gay nghien,duqc chat huong than, tienchat dunglam thuocva thuoc thuy co chua chatma tuy,tien chat.
-
-- doi,kimtra,giamsathoatdngnghiencrusanxuat,vanchuyenchatmaty, tienchattheoquydinh;
-- b)Bo CongThuong,BoY te,BoNongnghiepva Phat trien nong thon, BoTai chinh(TongcucHaiquan)vaBoQuocphong trongpham vi churcnang, anhuongdan,kiem tra co quanchurcnangcua cacdjaphuong tienhanhkiem soat hoat dngbao quan,tontr,mua ban,phanphoi,sudung,xily,traoi chatma tuy,tienchat,thuoc gaynghien,thuoc huong than,thuoc tienchat nguyenlieulam thuocla durocchatgaynghien,dugcchathuong than,tienchat dunglam thuocva thuocthuycochua chatma tuy,tienchatcuacacdonvico hoatdongsanxuat,nhapkhau,xuatkhau,tamnhap,tai xuat,tamxuat,tainhap;
-
-c)Uybannhan dancactinh,thanhpho tryc thuoc trunguong trongpham vichtrcnang,nhiemvuvaquyenhan duocgiao co trachnhiem chi daocacco quan churcnangphoihop thyc hienkiem soatcachoat dongvan chuyen,bao quan,tnt,mua ban,phanphoi,sdung,xy,tao dichatma ty,tin chat,thuoc gaynghien,thuoc huong than,thuoc tien chat,nguyen lieulam thuoc la duoc chatgaynghien,dugc chat huong than,tienchatdung lam thuoc va thuoc thuy cochuachatma tuy,tienchat taidiaphuong.
-
-- 2.Phoihopkiem soat cac hoat dong nhapkhau,xuat khau,tam nhap,tai xuat,tam xuat,tainhap,qua canh chatma tuy,tien chat,thuoc gaynghien, thuoc huong than,thuoc tien chat,nguyen lieu lam thuoc la duocchat gay nghien,dugc chat huong than,tienchatdunglam thuocva thuoc thuy co chura chat ma tuy,tien chat.
-
-<!-- image -->
-
-a)Phoi hopkiem soat trong thongbao tienxuat khau doi voi hoat dong nhapkhaucac tienchat tunuocngoaivaoViet Nam(ap dung doivoi hoat dong nhapkhautircacnuocthamgiaDieu12Conguocnam1988cuaLienhop quocve chongbuon ban bathopphapcac chatmatuyva cac chat huong than):
-
-Trenco sogiayphepnhapkhau docacbochurcnangcapguridenBoCong anhoac thongtingiayphepnhapkhau tren Cong thongtinmot cira quocgia, trong thoihanchamnhatla02ngaylamviec,ketirngaynhandugcthongbao cua nuocxuat khau,B6 Cong an co trach nhiem tra loinuocxuatkhau ve tinh hopphapcualohang.TrongtruronghopBoCongankhongnhandurocgiay phepnhapkhau doivoi1ohang dugc thongbao,Bo Congancotrachnhiem de nghi nuacxuatkhau tam dingviecxuatkhau lohang sangVietNam va guri Bo Tai chinh (Tong cuc Hai quan) de theo doi;
-
-b)Phoi hopkiem soat trong thong bao tien xuat khaudoivoihoat dong xuatkhautienchat tirVietNamranuocngoai(ap dung doivoi hoat dongxuat khau sangcacnuoc thamgiaDieu12 Conguocnam1988cuaLienhopquoc vechong buon banbat hopphap cac chatma tuyva cac chathuong than),bao gom ca dang don chat va dangphoi hop;
-
-Trong thoi hanchamnhat la 03ngaylamviec,ketiungaynhanduroc don va hoso denghi capgiayphepxuatkhau hop le,co quan co thamquyen cap phepcotrachnhiemguriBoCongannhung thong tinve ten,djachitochurcde nghi capphep xuat khau;tengoi,ham luong,slung tien chat；ten,djachit chucnhapkhau;ten curakhau cohangxuatkhau di qua dera thong bao tien xuatkhaudoivoi lo hang choco quan churcnangcua nuocnhapkhau.
-
-Trong thoihanchamnhat la02ngaylamviec,ketirngaynhan duoc thong thongbao tien xuat khau doivoilo hang denghicapgiay phepxuat khau.Trong thoihan cham nhat la 02ngay lamviec,ketirngay nhan dugcykienphan hoi cua co quanchurcnangnuocnhapkhau,BoConganc6 trachnhiem tra loi co quancapphepdequyetdinhcapgiayphephoackhongcapgiaypheptheo tham
-
-c)Phoihpkiemsoathoatdongnhapkhauchatmatuy,tienchat,nguyen lieu lam thuocladugcchatgaynghien,duoc chathuong than,tienchatdung lam thuoctirnuocngoaivaoVietNam;
-
-Tren co sobao cao cua Bo Tai chinh(TongcucHai quan)ve so luong nhapkhau thuctedoivoicacchatma tuy,tienchat,nguyen lieulam thuocla duoc chatgaynghien,dugcchathuong than,tienchatdung lam thuoc theo quy dinh taikhoan2Dieu33cuaNghi dinhnay,BConganchu tri,phoihopvoi BCongThuong,BYte,BNongnghiepvaPhattriennongthon,BoQuoc phong tochurcdanhgiaketquanhapkhaucuanamvanhu caunhapkhaucac chatma tuy,tien chatcuanam tiep theode tonghopthongbaoketquanhap khau,dangky dy truvoi Uy bankiem soatma tuy quocte Lienhopquoc theo quydinh.
+Vic cp giy phép nu chưa đưc thc hin trên Cng thông tin mt ca quc gia: Trong thòi han châm nht là 03 ngày làm vic, k tù ngày cp giy phép, co quan cp giy phép có trách nhim gưi giy phép nhp khu, xut khu ti doanh nghip đ ngh cp phép nhp khu, xut khu, Chi cc Hi quan noi làm th tc hi quan cho hàng nhp khu, xut khu và gi B Tài chính (Tng cc Hài quan), B Công an đ phi hp qun lý, kim soát.
 
 <!-- image -->
 
-d)Phoihopkiemsoathoatdongtamnhap,tai xuat,tamxuat,tainhapchat ma tuy,tien chat,nguyenlieulam thuocla durgc chat gaynghien,dugc chat huongthan,tien chatdunglamthuoc;
+Trưòng hp, vic cp giy phép đã thc hin trên Cng thông tin mt ca quc gia nhuưng trong thòi gian Trung tâm dū liu kim soát các hot đng hop pháp liên quan đn ma túy thuc B Công an chưa kt ni đưc vi Cng thông tin mt ca quc gia thì trong thòi hn 03 ngày làm vic, k t ngày cp giy phép, co quan cp phép có trách nhim thông báo và gi giy phép nhp khu, xut khu ti B Công an đ phi hp qun lý, kim soát;
 
-Trong thoi han chamnhat la 03ngaylamviec,ketirngay nhan duocho sodenghicapgiayphep tamnhap,taixuat,tamxuat,tainhapdoivoichatma tuy,tienchat,nguyenlieulamthuocladuocchatgaynghien,dugcchathuong than,tienchatdunglam thuoc,BoCongThuongcotrachnhiemguri BoCong an cac thong tinvéten,dja chi doanh nghiepdenghi capphep;tengoi,so luong,ham luongchatma tuy,tien chat;ten,diachi tochucnhapkhau,xuat khau;thoigianva tencurakhaucohangtamnhap,taixuat,tamxuat,tainhap diquadethuchienthongbaotienxuatkhau;
+d) Vic cp, điu chinh, cp li giy phép do mt, tht lc hoc sai sót, doanh nghip có văn bàn đè ngh kèm theo giy t, tài liu chng minh ni dung càn điu chinh hoc báo cáo gii trinh lý do mt, tht lc đn co quan cp phép. Trong thòi hn chm nht là 05 ngày làm vic, cơ quan cp phép tin hành xem xét, đièu chinh hoc cp li giy phép. Trưòng hp t chi cp phép, co quan cp phép trà lòi bng văn bàn, nêu rõ lý do.
 
-Trong thoihanchamnhat la02ngaylamviec,ketirngaynhandugc thong tinyeu cau cuaBoCongThuong,BoCongancotrachnhiem thuchien thong bao tienxuat khaudoivoilo hang xin cap giay phep.Trong thoi han chamnhat la02ngaylamviec,ketirngaynhan duocykienphanhoi cua nuocnhapkhau, BoCongancotrachnhiemtraloicoquancapphepdequyetdinhcapgiayphep hoackhongcapgiaypheptamnhap,tai xuat,tamxuat,tainhaptheothamquyen vaguri BoTai chinh(TongcucHaiquan)detheodoi;
+4. H so, trinh t, th tc cp giy phép nhp khu, xut khu tin cht theo quy đnh ti đim a khon 2 Điu 19 ca Ngh đnh này thc hin theo quy đnh ca pháp lut v hóa cht và các quy đjnh có liên quan ti Ngh đnh này.
 
-d)BCongan,BCongThuong,BYte,BNongnghipvaPhat trin nongthon,BoQuocphongtrongphamvi churcnang,nhiemvuvaquyen han duocgiao thuchienviec cap giayphepnhap khau,xuatkhau,tam nhap,tai xuat,tam xuat,tainhap,quacanh chatma tuy,tienchat,thuocgaynghin, thuoc huong than,thuoc tien chat,nguyen lieu lam thuoc la dugc chat gay nghien,dugcchathuong than,tienchatdunglamthuocva thuocthuycochira chatmatuy,tienchat,trongthoihanchamnhatla03ngaylamviec,ketungay capgiayphep,coquancapphepcotrachnhiemgirigiayphepnhapkhau,xuat khau,tamnhap,taixuat,tam xuat,tainhap,quacanhcho coquan,tochurc,ca nhan denghi capphep,Chi cucHai quan noi lam thu tuc hai quancho hang nhapkhau,xuatkhau,tamnhap,tai xuat,tam xuat,tainhap,qua canhva gi BTai chinh(Tong cucHaiquan),Bo Cong an de theodoi,quan ly.
+5. Lc lưng Hài quan có trách nhim làm thú tc håi quan và thc hin ch đ kim tra, giám sát hàng nhp khu, xut khu theo quy đnh ca pháp lut. Trưòng hp phát hin hàng nhp khu, xut khu không đúng vi ni dung giy phép, co quan Hi quan tam dùmg các thù tc nhp khu, xut khu, lp biên bn, x lý theo thm quyn; đng thòi trong thi hn chm nht là 03 ngày làm vic, k tù ngày phát hin sai phm, cơ quan Hāi quan có trách nhim thông báo trc tip qua đưòng dây nóng cho các co quan cp phép và B Công an đ phi hop quàn lý, kim soát.
 
-4.Phoihop trao doi thong tinvekiem soat cachoat donghopphaplien quandenmatuy.
+6. Đi vi trưòng hp vi phm các quy đnh v kim soát hot đng nhp khu, xut khu, Thù trưng co quan cp phép và Chi cc trưng Chi cc Hi quan noi làm thù tc hi quan tu theo tính cht, mc đ vi phm có th quyt đnh thu hi Giy phép nhp khu, xut khu đã cp, đinh chi, tm đinh chi vic nhp khu, xut khu, x lý ngưòi vi phm và hàng nhp khu, xut khu theo thm quyèn hoc chuyn giao cho co quan có thm quyn x lý theo quy đnh ca pháp lut.
 
-a)Bo Conganlacoquandaumoitraodoithongtinvekiemsoatcachoat donghopphaplienquandenmatuyvoiBoCongThuong,BoNongnghiepva Phat trien nong thon,BYte,Bo Tai chinh （Tong cucHai quan),Bo Quoc phong,cacdiaphuong,cacnuoclienquanvaUybanKiemsoatma tuyquoc teLienhopquoc thongqua Trung tamDulieu kiem soatcachoat donghop phaplien quan denma tuy(sau daygoi tatlaTrung tamdulieu)dattai Bo Congan.
+Điu 21. Kim soát hot đng tm nhp, tái xut, tm xut, tái nhp cht ma túy, tièn cht, thuc gây nghin, thuc hưóng thàn, thuc tin cht, nguyên liu làm thuc là dưc cht gây nghin, dưe cht hưróng thn, tièn cht dùng làm thuc và thuc thú y có cha cht ma túy, tin cht
 
-<!-- image -->
-
-TrungtamdirlieudoCoquanchurcnangthuocBoCongantryctiepquan ly,vanhanh,truycap,capnhat,khai thac,xrlyvatraodoi thong tinvoiB CongThung,BoNongnghipvaPhattriennongthon,BoYte,BTaichinh (Tong cucHai quan),BoQuocphong,cacdiaphuong,cacnuoclien quan va UybanKiem soatma tuy quocte Lien hopquoc bang phanmemhe thongquan ly dilieu vephong,chongma tuy;
-
-Bo Cong thuong,BoNongnghiepvaPhat triennong thon,BYte,B Tai chinh(Tong cucHai quan),Bo Quocphongva Uy ban nhan dancac tinh, he thongquan ly dulieuvephong,chong ma tuy doBo Congan cung cap de nhingthongtinnghiepvudoBoConganquydinh;
-
-Truonghopcanthong tin,tailieukhongthuocphamviTrungtamdulieu dephucvu congtackiemsoatcachoat donghopphaplien quan denma tuy, yeucauphaitraloibangvanbanvaneurolydotirchoi.
-
-b)Bo Cong an co trachnhiem thong baocho cacbo,nganh va cacdja phuonglienquanthongtinvephuongthurc,thudoanhoatdongcuatoipham vanhting thongtinkhaccolien quan trongqua trinhkiemsoatcachoat dong hopphaplienquan denmatuydecacbo,nganhvacacdiaphuongcobien phap chu dongngan chan,phong ngira hieu qua;
-
-c)Bo CongThuong,BoNongnghiepva Phat triennong thon,BYté, BTai chinh（TongcucHaiquan),Bo Quocphongco trach nhiem:
-
-Thu thap,quan ly thong tinve cachoat donghopphaplienquan den ma
-
-Cungcapnhing thong tin canthiet colienquan dencongtackiem soat cachoatdonghopphaplienquandenmatuychoTrungtamdirlieu thongqua viectruycapvacapnhatdirlieubang phanmemhe thongquanlydulieuve phong,chongma tuy;riengdoivoigiayphepnhapkhau,xuatkhau,tamnhap, tai xuat,tam xuat,tainhap,quacanhchatma tuy,tenchat,thuocgaynghin, thuochuong than,thuoctien chat,nguyen lieu lam thuocla duocchat gay nghien,durocchathuong than,tienchatdunglam thuocva thuoc thuycochura chatma tuy,tien chatgurikem theobanchinh;
-
-Kip thoi trao doi,thong tinvoi Bo Cong an de cobienphapphoi hop phongngira,nganchan,xulyhanhviviphamkhinhan duocnguontin,tailiu hoacphat hiennhung sai pham trong cong tackiem soat cachoat dong hop phaplienquandenmatuy.
+1. Doanh nghip có hot đng theo quy đinh ti đim b khoàn 2 Điu 19 ca Ngh đnh này chun b h so đ nghi cp giy phép theo quy đnh ca pháp lut vè quàn lý ngoi thưong, gi trc tip hoc gi qua đưòng bưu din đn B Công Thưong hoc gi bàn đin t thông qua h thông dch v công trc tuyn ca B Công Thưong trên Cng thông tin mt ca quc gia.
 
 <!-- image -->
 
-d)BoTaichinh(TongcucHaiquan)dambaoketnoi dulieuvavan hanh cuaTrungtamdurlieuvoi Congthongtinmotcuraquocgia.
+2. Co quan cp phép tip nhn hò so, thm đnh, thc hin thông báo tin xut khu theo quy đinh ti đim d khoàn 2 Điu 35 ca Ngh đinh này và cp giy phép tm nhp, tái xut, tm xut, tái nhp cht ma túy, tin cht, thuc gây nghin, thuc hưóng thàn, thuc tin cht, nguyên liu làm thuc là dưc cht gây nghin, dưc cht hưóng thn, tièn cht dùng làm thuc và thuc thú y có cha cht ma túy, tin cht theo quy đnh ca Lut Quàn lý ngoi thưong.
 
-BoTai chinh(Tong cucHaiquan)cung cap tai khoanvamatkhaurieng choTrung tam dilieudetruycap,capnhat,khaithacva traodoi thong tinve giayphepxuatkhau,nhapkhau,tamnhap,taixuat,tamxuat,tainhap,quacanh tai Congthongtinmotcuaquocgia.
+3. Trong thi hn chm nht là 03 ngày làm vic, k t ngày cp giy phép, cơ quan cp phép có trách nhim gi giy phép tm nhp, tái xut, tm xut, tái nhp đã cp cho Chi cc Hi quan noi làm th tc hi quan và gi B Tài chính (Tng cc Hi quan), B Công an đ phi hp qun lý, kim soát.
 
-- d)Uybannhandancactinh,thanhphotructhuoctrunguongtrongpham vi churcnang,nhiemvuvaquyenhan durgcgiaoco trachnhiemchi daocacco quanchurcnangthuongxuyentraodoi thongtinvoinhauvekiem soatcachoat donghopphaplienquandenmatuytai diaphuong.
-- 5.Phoi hop theodoi,kiem tra,giamsatcachoatdonghopphaplienquan denmatuy
-- a)BoCongan chju trachnhiem chu tri,phoi hopvoi BoCongThuong BNongnghiepva Phat triennong thon,BoYte,BoTai chinh（Tongcuc Hai quan),BQuocphonghuongdan,theo doi,kiemtra,giam satcaccoquan,t churc,canhanva diaphuong thuc hiencacvanbanquypham phapluatvekiem soatcachoat dong hopphaplienquan denma tuynhamphongngira,nganchan viecloi dungcachoatdongdonhammucdichbathopphap;
-- b) Cacbo trongphamvi nhiem vu,quyen han cua minh,cotrach nhiem tchurcthuchiennhiemvu dugcgiaova thanh tra,kiem traviec thychien cac quy dinhve kiem soat cachoat dong hopphaplienquan denmatuy cua cacco quan,tochrc,canhan;xir ly cachanhvivipham theo quy dinh cuaphap luat theo thamquyen,chuyenBCongan dieu tra,xu lynhungvuviphamcodau hieu hinh sy;
-- c)Uybannhan dancactinh,thanh photruc thuoc trung uong trongpham vi chucnang,nhiemvuva quyenhan duocgiaoco trachnhiemchi daocacco quan churcnang huong dan,kiem tra,giam satcacco quan,tochuc,canhan thuc hiencacvanbanquyphamphapluatvekiem soatcac hoatdonghopphap lienquan denma tuynhamphongngira,nganchanvieclgi dungcachoat dong d6nham muc dich bathopphap.Thanh tra,kiem traviec thuchien cacquy dinhvekiemsoatcachoatdonghopphaplienquandenma tuycuacacco quan,tchuc,canhan;xurlycachanhvivipham theoquydinhcuaphapluat theo tham quyen,chuyen Cong an cactinh,thanh pho trrc thuoc trung uong dieu tra,xir lynhungvuvi phamcodauhieuhinh su.
+4. Lc lưng Hi quan có trách nhim thc hin thù tc và kim tra, giám sát hài quan theo quy đnh cua pháp lut Hi quan. Vic thay đi mãu mã, bao bì, thùng cha ca hàng tm nhp, tái xut, tm xut, tái nhp phi đưc s đng ý cùa B Công Thưong và giám sát ca lc lưng Hái quan. Trưòng hp phát hin hàng tm nhp, tái xut, tm xut, tái nhp không đúng vói ni dung giy phép, cơ quan Hi quan tm dùng các thù tc hài quan, lâp biên bn, x lý theo thm quyn; đng thòi trong thòi hn chm nht là 03 ngày làm vic, k tr ngày phát hin sai phm thông báo trc tip qua duòng dây nóng cho co quan cp phép và B Công an đ phi hp quàn lý, kim soát.
 
-## Dieu36.To Cong tac lien nganh phoi hopkiem soat cachoat dong hopphaplienquan denma tuycaccap
+Điu 22. Kim soát hot đng quá cnh lānh th Vit Nam cht ma túy, tièn cht, thuc gây nghin, thuôc hróng thàn, thuc tin cht, nguyên liu làm thuc là dưc cht gây nghin, dưc cht huóng thàn, tin cht dùng làm thue và thue thú y có chra cht ma túy, tin cht
 
-1.To Congtacliennganhphoi hopkiem soat cachoat dong hopphaplien quandenmatuycaptrunguong.
+## 1. Trinh t, th tc cp giy phép quá cành lānh th Vit Nam
 
-a)To Cong tacliennganhphoi hopkiemsoatcachoat donghopphaplien quandenmatuycaptrunguongdoBoConganthanhlap,quyetdinhbanhanh quy cheva chi dao hoat dong cua T;
+- a) Doanh nghip có hot đng ti đim b khoàn 1 Điu 19 cua Ngh đnh này chun b h so đ ngh cp giy phép theo quy đnh ti khon 2 Điu này, gi tre tip hoc gi qua đưòng bưu đin đn B Công an hoc gi bn đin t thông qua h thông dch v công trc tuyn ca B Công an trên Cng thông tin mt ca quôc gia;
+- b) Trong thi hn chm nht là 05 ngày làm vic, k t ngày nhn đů h so theo quy đnh, cσ quan cp phép tin hành thm đnh và cp giy phép quá cành. Trưòng hp không cp giy phép quá cành thì phài thông báo bāng văn bn nêu rō lý do cho doanh nghip đ ngh cp phép.
 
-<!-- image -->
+## 2. H sơ đ ngh cp giy phép quá cành
 
-b)NhiemvucuaTo Cong tac liennganhphoi hopkiemsoatcachoatdong hopphap lienquan den ma tuy cap trung urong:Tochurc tuyen truyen,huong dan,taphuan,dondoc,theodoi,kiemtra,giamatcaccoquan,tchc,canhan, diaphuongthuchiencacvanbanquyphamphapluatvekiem soatcachoat donghopphaplienquan denma tuynham phongngua,nganchanviec loidung cachoat dongdonham muc dichbat hopphap.Phat hien,nganchanvakiennghi caccapc6thamquyenxur lycachanhviviphamtheoquydinhcuaphapluat.
-
-2.ToCong taclien nganh phoihopkiem soatcachoat dong hopphaplien quan denma tuycac tinh,thanh pho truc thuoc trung uong.
-
-a)To Congtacliennganhphoihopkiemsoatcachoat donghopphaplien quandenma tuycactinh,thanhphodoUybannhandancactinh,thanhphotrc thuoc trungurong thanhlapvaquyetdinhbanhanhquyche,chidao hoatdong;
-
-b)To Congtacliennganhphoihopkiemsoatcac hoat donghopphaplien dan,tphuan,theo doi,kiem tra,giamsatcaccoquan,tchuc,canhan tn djabantinh,thanhphothuchiencacyanbanquyphamphapluatvekiem soat cachoatdonghopphaplien quan den ma tuynham phongngira,ngan chan chanvakiennghicaccapco tham quyenxiu lycachanh vi vi pham theo quy dinhcuaphapluat.
-
-## ChuongIV QUANLYNGUOISUDUNGTRAIPHEPCHATMATUY
-
-## Dieu37.D6i trongbiquan ly
-
-Doi tuong bi quanlylanguoi cohanhvisu dungtraiphep chatma tuy chongma tuy.
-
-## Dieu38.Can cur xet nghiem nguoi co dau hieu sir dung trai phep chat matuy
-
-- 1.Motnguoi codau hieu su dung traiphepchatma tuykhi comot trong caccancursau day:
-- a)Tinbao,togiaccuacanhan,coquan,tochucda dugccoquanco tham quyen tienhanh xacminh,lam ro;
-- b)Thong tin,tai lieu trong cacvu vi pham phap luat;
-- c)Nguoic6bieu hienmat nanglucnhan thurc hoackiem soathanhvinghi dosirdungmatuy;
+- a) Đon đè ngh cp giy phép quá cành ca doanh nghip gm các thông tin vè tên, đja chi cùa doanh nghip; thòi gian, đia đim, lý do quá cành; tên, đja chi nơi sàn xut, tên goi, mã s CAS và HS, s lưng, hàm lung; tên goi, mã HS, s lưng thuc và nguyên liu làm thuc đưc đim soát cn quá cành; tri giá hàng hóa; phưong tin, hành trình và điu kin bo đm an toàn vn chuyn;
 
 <!-- image -->
 
-- d)Trennguoiphuongtien,noicuanguoi docodauvetcuachatmatuy hoac dung cu,phuong tien surdung trai phepchatma tuy;
-- d)Nguoi dieukhienphuong tiencobieuhiensu dungchatkich thichnghi lama tuy;
-- e)Nguoi comat taicacdia diemcohanhvitochuc,churachaphoacsur dung traiphepchatmatuynhungkhongcoly dochinhdang.
-- g)Nguoitykhai bao hanh vi sir dung trai phepchatma tuy;
-- h) Nguoi bi phat hienqua tang su dung traiphep chatma tuy;
-- i) Nhuingcan cirkhac theoquydinhcuaphapluat.
-- 2.Khi cocan cur chorangnguoico dau hieu su dung traiphepchatma tuy quy dinhtai khoan1Dieunaythicoquan,nguoico thamquyenxetnghiemchat matuy trongcothequydinhtaikhoan2Dieu22cuaLuatPhong,chongma tuy tienhanh xetnghiem.Ketquaxetnghiem chatma tuy trong co the thyc hien theoMau so03 taiPhu lucban hanhkem theoNghi dinhnay).
+## b) Bàn chính hp đồng vn ti;
 
-## traiphepchatmatuy
+c) Bn chính mt trong các giy tò sau: Công thư đ ngh ca ơ quan có thm quyn ca nưóc đ ngh cho hàng hóa quá cnh, Giy phép xut khu ca nưc có hàng xut khu hoc Giy phép nhp khu ca nưc có hàng nhp khu;
 
-- 1.Kinhphi choviec tochurc xetnghiemchat ma tuy trong co the theo quy dinhtaikhoan2Dieu38Nghidinhnaygom:
-- a) Chi phi congcu xet nghiem chatmatuy trong co the;
-- b) Chiphi duanguoi bi xetnghiem chatma tuy trongco the toinoi thuc hien xet nghiem;
-- c) Chiphi denghicoquan chuyenmon thuc hien xetnghiem chatma tuy trong co the (neu co).
-- theoquy dinh tai khoan8Dieu27 cuaLuatPhong,chong ma tuygom：
-- a)Chiphi dua nguoibi denghi xac dinh tinh trang nghiendennoi thuc hien xac dinh tinh trangnghienvachi phi an,cua nguoibi denghi xac dinh tinhtrangnghien trong thoigian theodoidexacdinh tinh trangnghien（trir truonghopnguoi bi tamgit dexac dinh tinh trangnghien);
-- b) Chi phi de nghi co soy te tien hanh xac dinh tinh trangnghien.
+d) Bn chính Giy phép quá cành ca nưc mà hàng xut kh hoc nhp khu đã đi qua trưc khi đn Vit Nam (trưòng hp vn chuyn quá cành nhièu nưc).
 
-<!-- image -->
+Các tài liu nêu trên nu bng ting nưc ngoài thì phi đưc dch ra ting Vit có công chng theo quy đnh ca Lut Công chúng.
 
-- 3.Kinhphi trongquatrinhquanlynguoisurdung traiphepchatmatuygom:
-- hosolien quanve Uy bannhan dancapxa cothamquyenquan ly;
-- b) Chiphi ho trgchonguoikhongthuoc truonghophuongluong tirngan sachnhungdurocphancongtryctiepgiupdonguoi dangtrongthoihanquan lyquydinh tai diemckhoan2Dieu42Nghi dinhnay;
-- 4.Cackhoankinhphiquy dinh tai khoan 1,2va3Dieunay dongan sach nha nuoc dambao theophan capngan sachhienhanhva cacnguonkinhphi hopphap.
+## 3. Giy phép quá cành
 
-Uy ban nhan dancap tinh co trachnhiem trinh Hoi dong nhan dan cung capbo tri kinh phi tirnguonngan sach dia phuongcho cacca quan churcnang thuchiencaccongviecquydinhtaitai khoan1,2va3Dieunay theoquydinh cuaphapluatvengan sachnhanuoc.
+a) Ni dung giy phép phi ghi rõ tên, đa chi ca doanh nghip đưc phép quá cành; tên goi, mã s CAS, mã s HS, mã s UN (nu có), s lưng, hàm lưrng các cht đưc phép quá cành; thòi gian, phưong tin thc hin vic vn chuyn quá cnh; tên các ca khu mà hàng vn chuyn quá cành đi qua;
 
-- 5.Murcho trg nguoi dugc phancong giupdoquy dinh tai diembkhoan3 DieunaydoHoidongnhandancaptinhquyetdinhnhungkhongthaphon25% mirclurong co so.
+b) Giy phép quá cnh có giá tr mt làn theo thi hn ghi trong giy phép nhung thòi hąn ghi không quá 02 tháng. Trưòng hp ht thòi hn ghi trong giy phép nhưng vic quá cnh chưa thc hin đưc thì doanh nghip đè ngh đưc gi  n  n     n       n không quá 30 ngày;
 
-## Dieu 40.Thu thap thong tin,tai lieu de lapHo soquan ly nguoi sur dungtraiphepchatmatuy
+c) Giy phép quá cnh đưc gi cho doanh nghip đ ngh cp phép quá cành, Chi cc Hài quan, Công an các tinh, thành ph trc thuc trung ưrong, đon v B đi Biên phòng, đon v Cành sát bin noi hàng vn chuyn quá cành đi qua, B Tài chính (Tng cc Hi quan) và B Công Thưong đ phi hp quàn lý, kim soát;
 
-- 1.Khic6ket qua xetnghiemquydinh tai khoan2Dieu38Nghi dinhnay la durong tinhthi coquan Cong annoiphat hiennguoisurdung traiphepchat matuycotrachnhiem:
-- a)Thuchienxacminh noi cu trucuanguoisir dung traiphepchatma tuy theoquydinh taiDieu41Nghidinhnay;
-- b)Guri thongbaovehanhvisurdungtraiphepchatma tuychoChu tich noiphathienhanhvisurdungtraiphepchatmatuytrongtruonghopnguoi sur dungtraiphepchatmatuykhongconoicutruondinh theoMauso04taiPhu lucbanhanhkem theoNghidinhnaydetochurcquan lynguoisudung trai phepchatma tuyva lapHo soquan lynguoi sur dung traiphepchat ma tuy.
-- 2.Hosoquanlynguoi surdung traiphepchatma tuybaogomcactai lieu sau day:
-- a)Quyetdinhapdungbienphapquanlynguoisirdungtraiphepchatma tuytheoMauso07taiPhulucbanhanhkemtheoNghidinhnay;
+d) Trưòng hp cn điu chinh giy phép do sai sót hoc cp li giy phép do mt, tht lc, doanh nghip có đon đ ngh kèm theo giy t, tài liu chng minh ni dung cn đièu chinh hoc báo cáo gii trinh lý do mt, tht lc, gi co qu    a           hn đú h so theo quy đinh, co quan cp phép tin hành xem xét điu chinh giy ph              iay phép, cơ quan cp phép trà li bng văn bn, nêu rõ lý do.
+
+4. Cht ma túy, tin cht, thuc gây nghin, thuc hưóng thn, thuc tin cht, nguyên liu làm thuc là dưc cht gây nghin, dưc cht hưóng thàn, tin cht dùng làm thuc và thuc thú y có cha cht ma túy, tin cht quá cành lãnh th Vit Nam phài đưc cha trong thùng cha, đóng gói, niêm phong và đm bo tuân thú tiêu chun, quy chun quc t và h so kèm theo. Trưng hp phát hin thay đi niêm phong hoc thay đi nguyên trng hàng vn chuyn quá cnh, Chi cc Hāi quan noi làm th tc quá cnh tm dùng các thù tc hi quan, lâp biên bàn, x lý theo thm quyn và thông báo ngay qua đưòng dây nóng cho B Công an đ phi hp quàn lý, kim soát.
 
 <!-- image -->
 
-- b)Bantomtat ly lichnguoisirdung traiphepchatma tuy theoMauso05 taiPhulucban hanhkem theoNghi dinh nay;ketquaxacminhnoi cutru cua nguoi su dung traiphepchatma tuy;
-- c)Phieuketqua xetnghiemchatma tuy trong co the theoMauso03 tai Phu lucban hanhkem theoNghidinhnay;
-- d)Tai lieu,bienbanve hanhvi su dung trai phep chat ma tuy;tai lieuve nhinglansudung traiphepchatma tuy truocdayhoaccainghiencua nguoi vi pham(neu co);
-- d)Ban trong trinhcuanguoisu dung traiphepchatmatuy theoMauso06 taiPhulucbanhanhkem theoNghidinhnay;
-- e)Truonghopnguoi dothuocdoiturongquydjnhtaikhoan1Dieu27cua LuatPhong,chongma tuythi phaicoketquaxacdinhtinh trangkhongnghien ma tuy cua doi tuong.
-- 3.Congan capxaco trachnhiemgiup Chu tichUy ban nhan dan capxa
+5. Hot đng quá cành lānh th Vit Nam cht ma túy, tin cht, thuc gây nghin, thuc hưóng thàn, thuc tin cht, nguyên liu làm thuc là dưc cht gây nghin, dưc cht hưóng thàn, tin cht dùng làm thuc và thuc thú y có cha cht ma túy, tin cht phi theo đúng hành trinh vào và ra theo đúng ca khu đã ghi trong giy phép quá cành. Doanh nghip thc hin vic quá cành phài làm thù tc, chu s kim soát cùa co quan Hài quan, cơ quan có thm u dd    o  n      n
 
-## Dieu 41.Xacminhnoi cu tru va giri ho so
+Cht ma túy, tin cht, thuc gây nghin, thuc hưóng thàn, thuc tin cht, nguyên liu làm thuc là dưc cht gây nghin, dưc cht hưóng thn, tin cht dùng làm thuc và thuc thú y có cha cht ma túy, tin cht quá cành đưc phép lưu li trên lānh th Vit Nam trong thòi hn ti đa là 30 ngày, k t ngày hoàn thành th tc hi quan ti ca khu nhp khu, tr trưòng hp đưc gia hn thòi gian quá cành, đưc lưu kho ti Vit Nam hoc hàng quá cành bi hư hong, tn tht hoc phưong tin vn ti hàng quá cành b hư hòng;
 
-- 1.Trong thoi han toi dakhongqua03ngaylamviec,ke tirngay phat hien nguoi cohanhvi sidungtraiphepchatmatuy,coquan Congannoiphat hien hanhvisurdung traiphepchatma tuycotrachnhiemxacminhnoicu trucua nguoi sir dungtraiphep chatma tuy.
+Vic tiêu th ni đa cht ma túy, tin cht, thuc gây nghin, thuc hưóng thn, thuc tin cht, nguyên liu làm thuc là dưc cht gây nghin, dưc cht hưóng thn, tin cht dùng làm thuc và thuc thú y có cha cht ma túy, tin cht quá cành phi thc hin theo quy đnh ca pháp lut v nhp khu, xut khu ti Ngh đnh này và quy đinh ca pháp lut có liên quan.
 
-Doivoi cac dja ban lavungmiennui,hai dao,vung xa xoi,heo lanhma nhungkhongdurocqua10ngaylamviec,ketirngayphathiennguoic6hanh vi sudung traiphepchatmatuy.
+6. Lc lưng Hāi quan có trách nhim thc hin thù tc hi quan và kim tra, giám sát hài quan đi vói hàng quá cnh theo quy đnh cúa pháp lut Hài quan. Trưòng hp phát hin hàng vn chuyn quá cành không đúng vói ni dung giy phép, co quan Hi quan tm dùng các thù tc hài quan, lâp biên bàn, x lý theo thm quyn; đồng thòi trong thòi hn chm nht là 03 ngày làm vic, k t ngày phát hin sai phm, cơ quan Hi quan có trách nhim thông báo trc tip cho cσ quan cp phép hoc thông báo qua đưòng dây nóng cho B Công an và B Công Thưong đ phi hp qun lý, kim soát và x lý.
 
-- 2.Tieu chi xacdinhnguoi conoicu truondinh:
-- a)Nguoiconoicu truondinhlanguoihien dangsinhsongtainoi dangky thuongtruhoactamtru;
-- b)Truronghopkhongxacdinhduocnoidangkythuongtru,tam truthi noi truva thoigian thuongxuyen sinh song tir30ngay trolen,coxacnhancua Truong Cong an cap xa.
-- 3.Tieu chi xac dinh nguoi khongconoi cu truon dinh:
-- a)Nguoicodangky thuong truhoac tam tru nhungkhong sinh songtai noi dangky thuong tru hoac tam tru,coxacnhancua Truong Congancap xa noidangkythuongtruhoactam truveviecnguoidokhongsinh songonoi dangky thuong truhoactam truvakhongbietnguoi dodangodau;
+7. Công an các tinh, thành ph trc thuc trung ưong, đon v B đi Biên Pph n b  n nn n n n d ns n n onn ng quá cành đưc cho phép phài b trí lc lưng, phưong tin kim soát cht chē, đm bo vic vn chuyn tuân thù theo đúng tuyn đưòng và ni dung ghi trong giy phép. Truòng hop hàng vn chuyn có s lung lón hoc trong truòng hop cn thit khác, đon vi cp phép đưc quyn yêu càu lc lưng Công an đa phưong, B đi Biên phòng, Cành sát bin phi hp vói lc lưng Hi quan t chc vic áp ti hàng vn chuyn quá cnh ra khoi lānh th Vit Nam. Trong quá trinh doanh nghip thc hin thú tc quá cành, các co quan chc nāng phát hin có du hiu vi phm thì thông báo ngay cho cơ quan Hi quan đ phi hp ngn d   n      d
 
 <!-- image -->
 
-- b)Thanhviengiadinh theoquydinhphapluatvehonnhanvagia dinh cungcap thongtincho coquan churcnangkhongbietnguoi dohiennaydang dau,lamgivacoquanCongantra ciru dirlieu trongCosodi lieu quocgia vedancu,Cosdlieuvecutru,he thong tangthuhosocu tru,tang thucan cuoccongdancungkhongxacdinhdugcnguoidodangodau;
-- c)Nguoikhongcocanoi thuong tru,tam truva thoigian sinh songnoi ohientaiduoi30ngay.
-- 4.Viecxacminh noi cu truvatraloi xacminhvecutru thuchien theo quy dinh cua phap luatvecu truva huong dancuaBo Cong an.
-- truon dinh,trong thoi han03ngaylamviec,ketirngay coketquaxacminh, coquan Congannoiphat hien hanhvisurdungtraiphepchatma tuy thongbao vehanhvi surdungtraiphepchatma tuyvaguicac tai lieulienquancho Chu tich Uy bannhan dancapxa noinguoi sur dung traiphep chatma tuy cu tru on dinh.
+8. Vic mang theo thuc gây nghin, thuc hưóng thn, thuc tin cht vì mc đích điu tri bnh cho bn thân ngưi quá cānh lānh th Vit Nam không b coi là mang hàng quá cành lānh th Vit Nam. Ngưi quá cành có trách nhim khai báo và gii trình v s lưng thuc đã s dng vi co quan Hài quan ca Vit Nam, có nghĩa v thc hin nghiêm các bin pháp an toàn thích hp do co quan Hài quan áp dng đ ngăn chn vic s dng không đúng mc đích hoc vn chuyn trái phép các thuc đó, đng thòi chu s kim soát ca co quan có thm quyn ca Vit Nam.
 
-6.Truonghopnguoicohanhvi sudungtraiphepchatma tuykhongco noi cu truondinh,trongthoihan03ngay lamviec,ketirngayc6ketquaxac minh,co quan Cong annoiphathien hanhvisi dung traiphep chatma tuy thongbaove hanhvisurdungtraiphepchatmatuyvacactai lieulienquancho matuy.
+## Mc 3 KIÉM SOÁT CÁC HOAT DNG HP PHÁP LIÊN QUAN ĐÉN
 
-## Dieu42.Quyet djnhquan lynguoi sirdung traiphepchatmatuy
+## MA TÚY VÀ MUC ĐÍCH QUÓC PHÒNG, AN NINH
 
-- 1.Trong thoi han03ngay lamviec,ke tirngay nhandugc thong baove hanh visu dung traiphep chatma tuyvaketquaxetnghiem chatma tuytrong co the,Chu tichUybannhan dancapxanoinguoisr dung traiphepchatma tuycutru on dinh hoacnoiphathienhanhvisudung traiphepchatma tuydoi voinguoikhongconoicutruondinhraquyetdinhvatochurcquanlynguoi sudungtraiphepchatma tuy theoquy dinh taikhoan2,khoan4Dieu23cua LuatPhong,chongma tuy.
-- 2.Quyet dinhap dung bienphapquan ly nguoi su dung trai phep chat ma tuy thuchientheoMausoO7taiPhulucbanhanhkem theoNghidinhnay, trongdoneuro:
-- a)Tom tat hanhvi su dung traiphep chat ma tuy;ket quaxetnghiem duong tinhvoichatmatuy trongco the;ketquaxacdinhtinh trangnghien la khong nghien (neu co);
+Điu 23. Co quan có thm quyn cho phép và các co quan, t chúe đưre tin hành các hot đng hp pháp liên quan đn ma túy vì mc đích quc phòng, an ninh
 
-<!-- image -->
-
-- b)PhancongCongancapxalap danh sachnguoisurdung traiphepchat matuyquanly taidiaphuongva tochurcthychienviecxetnghiemchatma tuytrongcathetrongthoi hanquanly;
-- c)PhancongToquan lynguoi surdung traiphepchatma tuy docan bo CongancapxalamTo truong;daidien thon/todanpholamTopho;dai dien giadinhcuanguoisirdungtraiphepchatmatuyhoacnguoiuy tintrongdong traiphepchatma tuy)vanhanviencong tacxahoi（neu co)lam tovien;phan congmot thanhvienToquan ly truc tiep thychiencacnoi dungtuvan,dong vien,giaoduc,giupdonguoi sr dung traiphepchatma tuy.
-
-3.Quyet dinhquanlynguoi su dung traiphep chat ma tuy co hieu lyc tir ngay ky.
-
-4.Quyetdinhquan lynguoisu dung traiphepchatma tuy dugcluru tai ho quanly01ban,guriCongancapxalatotruong01ban,guri01bandendaidien gia dinhdethamgiaquanly.
-
-## Dieu43.Thoi han quan lyva cach tinh thoi han quan ly
-
-- 1.Thoihan quan lynguoi sur dung traiphepchatma tuyla 01nam,ke tir ngayChu tichUybannhandancapxaraQuyetdinhquan ly.
-
-2.Trong thoihanquan ly,neunguoi dangcoquyetdinhquanlybiphathien tieptucsurdungtraiphepchatma tuymakhongthuoccactruronghopquydinh taikhoan5Dieu23cuaLuatPhong,chongma tuythi Chu tichUybannhandan capxacothamquyenraQuyetdinhquanlymoi,trongdoxacdinhlai thoi han quan lyla 01nam,ketirngayraQuyet dinhquan lymoi.
-
-- 3.Truonghopnguoi dang trongthoi hanquanlychuyennoi cutru thi thoi
-
-## Dieu44.Noi dungquanly
-
-- 1.Mucdich quanlynguoi su dung traiphepchatma tuy la dehokhong tieptucsirdung traiphepchatma tuyvaphongnguacachanhviviphamphap luat cuaho.
-
-2.Noi dung quan ly:
-
-- a)Xetnghiemchatmatuy trongco thecuanguoi surdung traiphep chat matuydangtrongthoi hanquanly;
-- b)Tuvanve tamly,thaydoi thai docuanguoi su dung traiphepchatma tuydehoco thai dotich cuc,chu dong tranh xama tuy;
+1. B Công an cho phép co quan, t chc đưc tin hành các hot đng hp pháp liên quan đn ma túy vì mc đích quc phòng, an ninh đi vói các hot đng sau:
+- a) Nghiên cu, vn chuyn các cht ma túy quy đnh ti các Danh mc cht ma túy do Chính phù quy đinh;
+- b) Sn xut cht ma túy, tin cht quy đnh ti các Danh mc cht ma túy và tin cht do Chính phù quy đnh;
+- c) Nhp khu, xut khu cht ma túy, tin cht quy đnh ti các Danh mc cht ma túy và tin cht do Chính ph quy đnh (trù tin cht do B Quc phòng cho phép quy đnh ti khon 2 ca Điu này);
+- d) Nhp khu mu cht ma túy quy đnh ti khon 5 ca Điu này.
+2. B Quc phòng cho phép các cơ quan, t chc đưc tin hành hot đng nhp khu, xut khu, mua bán, s dng tin cht theo quy đnh ti Danh mc tin cht do Chính phu quy đinh (tr tin cht do B Công an, B Y t qun lý và cho phép).
+3. B Công an, B Quc phòng trong phm vi nhim v, quyn hn giao cho cơ quan chc năng thc hin nhim v tip nhn h so, thm đnh và quyt đnh vic cho phép các hot đng ti khon 1 và khoàn 2 ca Điu này (sau đây goi là co quan câp phép).
+4. Co quan, t chc tin hành các hot đng quy đnh ti khoàn 1 và khoàn 2 ca Điu này phi là các co quan, t chc đưc B Công an và B Quc phòng chi đnh và cp phép (sau đây goi là đon vi).
 
 <!-- image -->
 
-)Giao ducvephapluatphong,chongma tuy,tachai cuama tuy,cacni dungkhactuiy theodacdiemnhan than;
+5. Các đon v đưc nhp khu, quàn lý và s dng mu các cht ma túy, tin cht, thuc gây nghin, thuc hưóng thàn, thuc tin cht, nguyên liu làm thuc là dưc cht gây nghin, dưc cht hưng thn, tin cht dùng làm thuc và thuc thú y có cha cht ma túy, tin cht vì mc đích quc phòng, an ninh (sau đây goi chung là mu cht ma túy):
+- a) Vin Khoa hc hình s, B Công an là đon v duy nht đưc phép nhâp khu mu cht ma túy;
+- b) Các đon v đưc qun lý, s dng mu cht ma túy bao gm:
 
-d)Dongvien,giup dodenguoi su dung traiphepchatma tuy thamgia cachoat dongcongdng,hoatdongtquan,hoatdongtheduc,thethao,cac phong traogiupichchoxahoi denangcaosurckhoe,kynangsong,phongngira cachanhviviphamphapluat.
+Đơn v chc năng thuc Vin Khoa hc hình s, B Công an; Phòng K thut hinh s Công an các tinh, thành ph trc thuc trung uong đưc nhn mu, qun lý và s dng mu cht ma túy t Vin Khoa hc, hinh s ca B Công an đ giám đnh, hun luyn nghip v phòng, chng ti phm v ma túy và truy nguyên ngun gôc ma túy;
 
-3.Doivoinguoi surdung traiphepchatma tuyduoi18tuoithi phaidam baoviechocvanhoavanhirngnguoi duocphan congturvan,dongvien,giao duc,giupdophai cosy tham gia cuagiaoviennoinguoi d6danghochoacdoi thieu nientienphong,doan thanhnien.
+Các co quan chuyên trách phòng, chông ti phm v ma túy thuc lc lưng Công an nhân dân, B đi Biên phòng, Cành sát bin Vit Nam và Hi quan và các cơ s đào to ngưòi làm công tác phòng, chông ti phm v ma túy thuc B Công an, B Quc phòng, B Tài chính (Tng cc Hi quan) đưc nhn mu, quàn lý và s dng mu cht ma túy t Vin Khoa hc hinh s B Công an đ hun luyn nghip v phòng, chông ti phm v ma túy;
 
-1.Congan capxanoiquan lynguroi sirdungtraiphepchatmatuy thyc hien hoacdenghicoquan,nguoi cochuyen mon thuchienviecxetnghiem chatmatuytrongcothecuianguoisurdungtraiphepchatmatuytrongthoi han quanly.
+Các đon v hun luyn đng vt nghip v đ phát hin ma túy thuc B Công an (B Tư lnh Cành sát cơ đng), B Quc phòng, B Tài chính (Tồng cc Hi quan) đưc nhn mu, quàn lý và s dng mu cht ma túy t Vin Khoa hc hinh s, B Công an đ hun luyn đng vt nghip v.
 
-2.Viecxetnghiemchatma tuytrongcothedugctienhanhdotxuatdoi quydinh tai khoan1Dieu38Nghi dinhnay.
+## Điu 24. Kim soát hoąt đng nghiên cu, giám đnh, sn xut cht ma túy, tin cht vì mc đích quc phòng, an ninh
 
-## Dieu 46.Quy djnhveviecxetnghiem chatma tuy trong co the
-
-1.Doivoi nguoi thuoc truonghopphaixetnghiem chatma tuy trong co the thi co quan,nguoico thamquyen xetnghiem chatma tuy trong co themoi nguoi dodendiadiem xet nghiemdethuchienviecxetnghiem.
-
-trongcothethiCoquanCongantrieutapnguoidodendjadiemxetnghiem de lay mau xetnghiem chatma tuy trong co the.Nguoi thuoc truong hopphai xetnghiemchatmatuy trongco thephai comatkhi dugcCoquanCongan yeu cau.
-
-- 2.Hinh thurc lay mau xet nghiemchatma tuy trong co thela lay mau,lay nuoc tieu,thong tieuhoaclay cacmauvatkhac tren co the.
-
-3.Cac buongcho xet nghiemvanoi laymauphai chiakhu vuc danh cho namrieng,nurieng.Noikhongcobuongchorieng thi bo trichonam,nu dung riengva noi lay mau phai co buong nam,nurieng.
-
-Vieclaymau nuoctieuphai cocanbocunggioigiamsat.
-
-4.Truong hop laymau xetnghiem nguoi duoi 18 tuoi phai c6 sy dongy cua cha,me hoacnguoigiamhohoacnguoi daidientheophapluat,trir truong hoplaymaunuoctieu.
+1. Các đon v có hot đng quy đnh ti đim a và đim b khon 1 Điu 23 ca Ngh đnh này gi h sσ đ ngh cp giy phép v cơ quan cp phép ca B Công an.
+2. H sơ, trình t, th tc cp phép và các điu kin, tiêu chun cho phép nghiên cu, sn xut cht ma túy, tin cht vì mc đích quc phòng, an ninh thc hin theo quy đinh tąi Điu 15 và Điu 16 ca Ngh đnh này. Đi vi các đơn v thuc lc lưng Công an nhân dân và Quân đi nhân dân theo quy đnh ti khon 4 Điu 23 cùa Ngh đnh này khi đưc chi đnh tin hành hot đng nghiên cu cht ma túy, tin cht vì mc đích quc phòng, an ninh đưc loi tr Giy chng nhn đăng ký hot đng khoa hc và công ngh ca cơ quan nghiên cu.
 
 <!-- image -->
 
-## Dieu 47.Quan ly nguoi sir dung trai phepchatma tuy trong truong hopchuyendikhoinoicutru
+3. Các đon v đưc phép nghiên cu, sàn xut cht ma túy, tin cht vì mc đích quc phòng, an ninh có trách nhim thc hin đy đù các quy đnh v hot đng và chu s theo dõi, kim tra, giám sát cùa co quan chc năng theo quy đnh ti Điu này và quy đnh ca pháp lut có liên quan.
 
-1.Itnhat 01 lan trong thang,Cong an capxanoi quan lynguoi su dung thoi han quan ly.
+4. Vin Khoa hc hinh s, B Công an chu trách nhim t chc thc hin trinh t, thù tc giám đnh cht ma túy, tin cht, thuc gây nghin, thuc hưóng thàn, thuc tin cht, nguyên liu làm thuc là dưc cht gây nghin, dưc cht hưóng thn, tin cht dùng làm thuc và thuc thú y có cha cht ma túy, tin cht theo quy đnh ca Lut Giám đnh tưr pháp, B lut T tng hinh s và các văn bàn quy phm pháp lut có liên quan.
 
-2.Khi nguoi sur dung trai phepchat ma tuy thay doi noicu tru thi Cong an capxanoichuyen denphoi hopvoi Cong an capxanoidangquan lyde kiem tra,xacminh thong tin.Saukhi xacminh,Cong an capxa noi dang quan ly thongbaocho Chu tich Uybannhandancapxanoidangquan lybiet.
+## Điu 25. Kim soát các hot đng nhp khu, xut khu, vn chuyn cht ma túy, tin cht vì mc đích que phòng, an ninh
 
-Trong thoi han 05ngaylamviec,ke tiungaynguoi d6chuyen dennoi cu trumoiChu tich Uy ban nhan dan capxanoi chuyendi thongbaova chuyen hosoquan lynguoisirdungtraiphepchatmatuytheoMauso08taiPhyluc banhanhkemtheoNghi dinhnaychoChutichUybannhandancapxanoi chuyendentieptucquanly.
+1. Các đon v có hot đng quy đnh ti đim a, đim c khon 1 và khon 2 Điu 23 ca Ngh đnh này gi h so đ ngh cp phép v B Công an, B Quc phòng.
 
-nguoistrdungtraiphepchatmatuyvaocosodulieuvecu tru,cosodulieu quocgiave dan cu.
+2. H so, trinh t, th tc cp phép và các điu kin, tiêu chun cho phép nhâp khu, xut khu và vn chuyn cht ma túy, tin cht vì mc đích quc phòng, an ninh thc hin theo quy đnh ti Điu 17, Điu 20 ca Nghi đinh này. Tùy tùmng truòng hp, B trung B Công an và B trưng B Quc phòng quyt đnh loi tr mt s điu kin, tiêu chun và tài liu c th it hoc không liên quan đn hot đng quc phòng, an ninh hoc trưòng hp đáp úg yêu cu cp bách cho quôc phòng, an ninh.
 
-## Dieu48.Dirng,cham durtquan lynguoisirdung trai phepchatma tuy
+3. Cσ quan cp phép thuc B Công an và B Quc phòng là đon v tip nhn h sơ, xem xét, đánh giá và t chúc các hot đng thm đinh, cp giy phép và theo dōi, kim tra, giám sát hot đng nhp khu, xut khu, vn chuyn cht ma túy, tièn cht vì mc đích quc phòng, an ninh ca các đon vi đuc cp phép theo quy đnh.
 
-1.Chu tich Uybannhan dancap xanoi dangquan lyra Quyet dinh ding quanlynguoisur dungtraiphepchatmatuydoivoi cactruonghopquydinh tai khoan5Dieu23cuaLuatPhong,chongmatuy theoMauso09taiPhulucban hanhkemtheoNghidinhnay.
+4. Các đon v đưc phép nhp khu, xut khu, vn chuyn ch ma túy, tin cht vì mc đích quc phòng, an ninh có trách nhim thc hin đy đů các quy đnh v hot đng nhp khu, xut khu, vn chuyn và chju s theo di, kim tra, giám sát ca co quan chúc năng theo quy đnh ti Điu này, Điu 17, Điu 20 ca Ngh đnh này và quy đnh ca pháp lut có liên quan.
 
-- 2.Chu tich Uyban nhan dancapxa noi quan ly raQuyet dinh cham dit quanlynguoisurdungtraiphepchatmatuytrongtruronghophetthoihanquan lymakhongphathiennguoi biquanlycohanh visirdungtraiphep chatma tuy theoMau so10 taiPhu lucbanhanhkemtheoNghi dinh nay.
-- 3.Trong thoi han 03ngaylamviec,ke tirngayraQuyet dinh theoquy dinhtaikhoan1,khoan2Dieunay，ChutichUybannhandancapxaguiQuyet dinhchocoquan,tchuc,canhanquydinhtaidimckhoan2,khoan4Dieu42 Nghi dinh nay.
+Điu 26. Quy đnh v hot đng bo qun, tn tr, phân phi, s dng, x lý, trao đi cht ma túy, tin cht vì mc đích quc phòng, an ninh
 
-## Dieu49.Cong tac quan lyva luru trir hosoquan lynguoisir dung trai phepchatma tuy
-
-Coquan Congancapxanoi laphosochiu trachnhiemquanly，luru tr hoso cuanguoi sir dung traiphepchatma tuy theoquy dinh cuaBoCong an.
+1. Đon v đưc tin hành các hot đng hp pháp liên quan đn ma túy vì mc đích quc phòng, an ninh đưc quy đnh ti Điu 23 ca Ngh đnh này có trách nhim:
 
 <!-- image -->
 
-## ChuongV TRACHNHIEMCUACOQUAN
+- a) Xây dng k hoch t chc thc hin các hot đng bào quàn, tn tr, phân phi, s dng, x lý, trao đi cht ma túy, tin cht trong cơ quan đàm bo tuyt đi an toàn và phi chu trách nhim trưc pháp lut v vic nhàm ln, tht thoát các cht đó;
+- b) Chp hành vic theo dōi, kim tra, giám sát ca các cơ quan chc năng đi vi các hot đng bo quàn, tn tr, phân phi, s dng, x lý, trao đi cht ma túy, tin cht ti co quan, đon vi.
+2. Đon v chc năng thuc B Công an chu trách nhim phi hp vi các cơ quan chc năng thuc các b, ngành có liên quan tin hành theo di, kim tra, giám sát các hot đng bào qun, tồn tr, phân phi, s dng, x lý, trao đi cht ma túy, tin cht vì mc đích quc phòng, an ninh đi vói các đon v theo quy đnh ti khoàn 1 ca Điu này.
 
-## Dieu 50.B Cong an
+## Điu 27. Quy đnh vic nhp khu mu, ly mu cht ma túy vì me đích quc phòng, an ninh
 
-- 1.Chi daocoquanchuyentrachphong,chongtoiphamvematuythuoc Congannhan danchu dongphoi hopchatchevoicaccoquanchuyen trach phong,chongtoiphamvema tuy thuocBodoiBienphong,Canh satbienva Hai quan thychiencachoat dngphongngira,dau tranh,nganchan,dieu tra xirlytoiphamvematuy.
-- 2.Chu tri,phoi hopvoi cac bo,coquan ngang bo,ca quan thuoc Chinh phu thongnhatquanlynhanuocvekiem soatcachoatdonghopphaplien quan denma tuy.
-- a)Tonghopkehoach,ketqua thuchienke hoachtong thedaihanva hang namvekiemsoatcachoatdonghopphaplien quandenma tuycua cacbo, nganh,diaphuong,baocaoThu turongChinh phu;
-- b)Huongdan,dondc,kiemtracaccoquan,tchrc,canhan,djaphung thychiencacvanbanquypham phapluatvekiemsoatcachoatdonghopphap lienquandenmatuytrongphamvilinhvycvadiabanquanlynhamphongngira, nganchanviecloidungcachoatdongdovaomuc dichbat hopphap;
-- 3.Ban hanh va to churc thuchien cacvan ban thuoc tham quyencua Bo Conganvekiemsoatcachoat dong hopphaplienquan denmatuyvimuc dich quoc phong,an ninh.
-- 4.Xay dungva to churc thuchien quy che,ke hoach,to churc dao tao,boi duongcanbovathuc hienthongkenhanuocvenhapkhaumau,laymau,quan lyvasur dungmau cacchatma tuy.
-- 5.Chidaocoquan chuyentrachphong,chong toiphamvematuythyc hiennhiemvuchophepcachoatdong theoquy dinh tai khoan1Dieu14,khoan1 Dieu19va khoan 1Dieu 23 cuaNghi dinh nay;thuc hien thongkenhanuoc, hop tac quoctevekiem soat cachoat dong hop phap lienquan denma tuyva quan ly,van hanhTrung tamDulieukiemsoatcachoatdonghopphap lien quan den ma tuy;thuong tryc thuc hiennhiemvu cuaTo Cong tac liennganh phoihopkiemsoatcachoatdonghopphaplienquandenmatuycaptrunguong va huongdan,kiem tra To Congtacliennganhphoi hopkiemsoatcachoat donghopphaplienquan denma tuy cactinh,thanhphotryc thuoc trunguong thychiennhiemvu theoquydinh taiNghidinhnay.
-- 6.Chi daolrcluongCong ancaccapthuchienvaphoi hopvoicoquan, tochurccolienquan phat hien,quan lynguoi sudung trai phep chatma tuy.
-
-<!-- image -->
-
-- 7.HuongdanCongan capxa lap danh sachnguoi sur dung trai phep chat ma tuy.
-
-## Dieu 51.B Quoe phong
-
-- 1.Chi daocoquan chuyentrachphong,chongtoiphamvema tuy thuoc BodoiBienphongchutri thuchiencachoat dongphongngira;nganchan ma tuythamlauvaoVietNam;kipthoiphat hien,batgittoiphamvema tuyxay raokhuvrcbiengioitheoquydinhcuaphapluat；thuongxuyenphoihopchat chevoicaccoquanchuyentrachphong,chongtoiphamvematuythuocCong annhandan,Canhsatbien,Haiquan trongcongtacphongnga,dautranhi toiphamvema tiy.
-- 2.Chi daoco quanchuyen trachphong,chong toiphamvema tuy thuoc CanhsatBienVietNamchu tri thuchiencachoat dongphongngira,dau tranh, ngan chan,dieu tra,xulytoiphamvema tuy trenbien;phoihopchatchevoi caccoquanchuyentrachphong,chongtoiphamvema tuy thuocBodoi Bien phong,Haiquan,Cnganvachinhquyendiahuong,coquan,tchucc6lin quanthuchiencachoat dongphong,ngira,dau tranhvoitoiphamvema tuy.
-- 3.Cap,thu hoi giayphep nhapkhau,xuat khau tien chat vimuc dich quocphong theo thamquyenquydinh taikhoan2Dieu23va thuc hienquy dinhvephoihopkiem soatcachoat donghopphaplienquandenmatuy tai Nghi dinh nay.
-- 4.Phoi hopvoicoquanhiru quan cuanuockhac dephat hien,nganchan cachanhvimuaban,vanchuyentraiphepcacchatma tuy,tienchat,thuocgay nghien,thuochuongthan,thuoc tien chat,nguyenlieulamthuocla dugc chat gaynghien,durgcchathuong than,tienchat dunglam thuocva thuocthuyco churachatma tuy,tienchatquabiengioi theoquydinhcuaphapluat.
-
-## Dieu52.BoTai chinh
-
-- 1.Chidaocoquanchuyentrachphong,chongtoiphamvema tuythuocHai quanchutriphoihopvoicaccoquanchuyentrachphong,chongtoiphamvema tuythuocCongannhan dan,Bodoi Bienphongva Canh satbientrongkiem tra kiemsoat,phathienvaphoihopvoi caclycluongchurcnangxurlycachanhvivi phamphapluat,toiphamvematuytrongdiaban hoatdongcuaHaiquan.
-- 2.Chu tri,tong hop trinh capco tham quyenphe duyet dytoan chi thuong xuyendambaochocachoatdongphoihop,kiemsoatcachoatdonghopphap lienquandenma tuyvaodytoan chingansachnhanuocthuongxuyen cua BCongan,BQuocphong,BTaichinhvacacbo,nganhcolienquan theo quy dinh hien hanh cua Luat Ngan sachnha nuoc.
+1. Ngun mu cht ma túy vì mc đích quc phòng, an ninh bao gòm:
+- a) Mu cht ma túy t ngun nhp khu;
+- b) Mu cht ma túy là vt chg t các v án v ti phm ma túy;
+- c) Mu cht ma túy là sàn phm t các hot đng hp pháp liên quan đn ma túy vì mc đích quc phòng, an ninh phc v công tác giám đinh, hun luyn nghip v phòng, chng ti phm v ma túy và mu ngun hoi cht ma túy hun luyn đng vt nghip v.
+2. H so đ ngh cp giy phép nhp khu mu cht ma túy bao gm:
+- a) Văn bàn chng minh ngun kinh phí hp pháp;
+- b) K hoch d trù đã đưc cơ quan có thm quyn phê duyt;
+- c) Vān bān thông báo hàng vin tr (nu là hàng vin tr);
+- d) Công văn đ ngh cp giy phép nhp khu ca Vin Khoa hc hinh s.
+3. Trinh t, th tc cp giy phép nhp khu mu cht ma túy
+- a) Căn c vào d trù nhu cu s dng mu cht ma túy đã đưc B Công an phê duyt, Vin Khoa hc hình s lp h so đè ngh cp giy phép nhâp khu gi cơ quan cp phép thm đnh;
 
 <!-- image -->
 
-- 3.Chi dao co quanHaiquan thuc hien thu tuc haiquan,che dkiem tra, giamsathaiquan doivoi cachoat dongnhapkhau,xuatkhau,tamnhap,tai xuat,tamxuat tainhap,van chuyen qua canh lanh thoVietNam chatmatuy, tienchat,thuocgaynghien,thuoc huong than,thuoc tienchat,nguyenlieulam thuocla dugcchatgaynghien,dugcchathuong than,tienchat dung lamthuoc va thuocthuycochura chatmatuy,tien chat theoquy dinh cuaphapluat Hai quan;thuchienquy dinhvephoihopkiem soatcac hoat dong hopphap lien quandenma tuy taiNghi dinhnay.
+b) Trong thi hn 10 ngày làm vic, k t ngày nhn đ h sơ theo quy đnh, co quan cp phép có trách nhim thm đnh và cp giy phép nhp khu;
 
-## Dieu53.BYté
+Giy phép nhp khu mu cht ma túy đưc làm thành 05 b (mi b gm 01 bn ting Vit và 01 bàn ting Anh) gi cho Vin Khoa hoc hinh s (02 b); Chi cc Hi quan noi làm thù tc nhp khu, B Tài chính (Tng cc Hi quan) và lưu ti co quan cp phép mi noi 01 b;
 
-Thuchienquydinhvephoi hopkiem soatcachoatdonghopphaplien quandenmatuytaiNghidinhnay.
+c) Sau khi đưc cp Giy phép nhp khu, Vin Khoa hc hinh s tin hành các thù tc nhp khu: Ký hp đng vi đi tác đưc phê duyt y thác nhp khu (trưòng hp đưc B Công an, B Quc phòng hoc B Tài chính ch    n n     n      t khu (nu có).
 
-## Dieu54.BoCongThurong
+4. Ly mu cht ma túy vì mc đích quc phòng, an ninh
 
-- 1.Thuc hien chrcnangquanlynhanuocvenghien ciru,kiemnghiem,san xuat,kinhdoanh,sudungtienchatcongnghiep theo quydinhcuaLuatPhong, chongma tuy,Luat Hoachatvaquy dinhkhaccuaphapluatcolien quan.
-- 2.Cap,thu hoi giay phep cachoat dongquy dinh tai khoan 2Dieu 19va thuchienquydinhvephoihopkiem soatcachoatdonghopphaplienquan denma tuy taiNghi dinhnay.
+a) Vic ly mu cht ma túy theo quy đnh ti đim b khon 1 ca Điu này đ trưng cu giám đnh phc v công tác điu tra, truy t, xét x các v án ns  n  d   n n        s
 
-## Dieu55.BoNongnghiepvaPhat triennong thon
+b) Hng năm hoc khi có nhu cu b sung mu cht ma túy phc v công tác giám đnh, hun luyn nghip v phòng, chng ti phm v ma túy và hun luyn đng vt nghip v, Vin trưngVin Khoa hc hinh s đ xut B trưòng B Công an phê duyt k hoch ly mu cht ma túy là sn phm t các hot đng hp pháp liên quan đn ma túy vì mc đích quc phòng, an ninh. Các đon v đưc phép tin hành các hot đng sn xut, nhp khu quy đnh ti khon 1 và khon 2 Điu 23 ca Ngh đnh này có trách nhim bàn giao mu cht ma túy v Vin Khoa hc hinh s, B Công an theo k hoch đưc phê duyt.
 
-- 1.Thuchien churcnang quan ly nhanuocve thuoc thuy c6chura chat ma tuy,tienchat theo quydinh cuaLuatPhong,chongmatuy,LuatThuyvacac vanbanquyphamphapluatc6lienquan.
-- 2.Banhanh danh muc thuoc thuycochira chatma tuy,tien chatva danh mucchat matuy,tienchatlanguyenlieu lam thuocthuycochura chatma tuy, tienchat.
-- 3.Cap,thu hoi giay phep cachoat dongquy dinh tai khoan 2 Dieu 14, hopphaplienquandenmatuytaiNghidinhnay.
+## Điu 28. Quy đnh vie bo qun, phân phi, s dng mu cht ma túy vì mc đích que phòng, an ninh
 
-## ChurongVI TOCHUCTHUCHIEN
+1. Mu cht ma túy phi đưc lưu tr và bo qun ti các kho lưu mu cht ma túy quc gia và kho lưu mu cht ma túy trung gian.
 
-## Dieu56.Kinh phi thuc hien
+a) Kho lưu mu cht ma túy quc gia là noi tip nhn mu theo các ngun quy đnh ti khon 1 Điu 27 ca Ngh đnh này do Trung tâm giám đnh ma túy thuc Vin Khoa hc hinh s, B Công an trc tip quàn lý, bào quàn và phân phi cho các co quan đưc s dng theo quy đnh ti đim b khoàn 5 Điu 23 ca Ngh đnh này;
 
-Kinhphi thychiencachoatdongphoihopcuacaccoquan chuyen trach phong,chongtoiphamvematuy;kiem soatcachoatdonghopphaplien quan denmatuyvaquanlynguoisurdungtraiphepchatmatuydongansachnhanuoc dambao,dugcbotri trongdytoan chi thurongxuyencua cacbo,coquan trung uongvacacdjaphuong theoquydinh cuaphapluatveNgan sach nhanuoc.
+b) Kho lưu mu cht ma túy trung gian ti các cơ quan theo quy đnh ti đim b khon 5 Điu 23 ca Ngh đnh này, bao gm:
 
-<!-- image -->
-
-## Dieu57.Hieulrcthihanh
-
-1.Nghi dinh nay cohieu lyrc thi hanhke tirngay 01 thang 01nam2022.
-
-2.Cacvanban sau dayhethieu lrcthi hanhke tirngayNghidjnhnayco hieu luc thi hanh:
-
-a)Nghidinh s680/2001/ND-CPngay05thang11nam2001cuaChinh phu huongdanvieckiem soatcachoatdonghopphaplienquandenma tuy trongnuoc;
-
-b)Nghi dinhs658/2003/ND-CPngay29 thang5nam2003cua Chinh phu quy dinhvekiemsoatnhapkhau,xuatkhau,vanchuyenqua canhlanh tho VietNam chatma tuy,tienchat,thuocgaynghien,thuoc huong than;
-
-c)Nghidinh so45/2009/ND-CPngay13thang5nam2009cuaChinhphu huong danviecnhapkhau mau,laymau,quan ly sir dungmau cac chat ma tuy,tienchat,thuoc gay nghien,thuoc huong thanvimuc dich quocphong, an ninh;
-
-d)Quyet dinhs6133/2002/QD-TTgngay09thang10nam2002cuaThu tuong Chinhphuban hanh Quy chephoi hopgitralycluong ConganBodoi Bienphong,CanhsatbienvaHai quan trong dau tranhphong,chongcac toi phamvematuy tai diabanbiengioi,curakhauva trenbien;
-
-d)Quyetdinh so52/2011/QD-TTgngay21thang9nam2011cuaThu tuong Chinh phu ban hanh Quy chephoi hopkiem soatcac hoat donghop phaplienquandenmatuy.
-
-## Dieu58.Quydinhchuyentiep
-
-1.Hosodenghicho phepnghiencru,san xuat chatma tuy,tienchatva thuocthuy cochurachatma tuy,tienchatdatiepnhantruocngayNghidinh s680/2001/ND-CPngay05thang11nam2001cuaChinhphuhuongdanviec kiemsoatcachoatdonghopphaplienquandenmatuyotrongnuoc tai thoi diemtiepnhan,tri truonghopcoquan,tochirc,canhandanophoscoyeu cau thuchientheoquydinhcuaNghi dinhnay.
-
-2.Ho so denghi cho phep hoat dongnhapkhauxuatkhau,qua canh chat ma tuy,tienchat,thuocgaynghien,thuochuong than qualanh thoVietNam datiepnhan truocngayNghi dinhnaycohieulucthi hanh thi tiep tucgiai cua Chinhphu quydinhvekiemsoatnhapkhau,xuatkhau,van chuyen qua canh lanh thoVietNamchatma tuy,tienchat,thuocgaynghien,thuochuong thantai thoi diem tiepnhan,trir truonghop caquan,tochuc danophoso co yeu cau thuchien theoquy dinh cuaNghidinhnay.
+- Kho lưu mu cht ma tuý trung gian ti Công an tinh, thành ph trc thuc trung ưong là noi tip nhn mu cht ma túy t Vin Khoa hc hinh s, B Công an do Phòng K thut hình s thuc Công an tinh, thành ph trc thuc trung uong trc tip quàn lý và thc hin giám đinh, hun luyn nghip v phòng, chông ti phm v ma túy và truy nguyên ngun gc ma túy;
 
 <!-- image -->
 
-## Dieu59.Trach nhiem thi hanh
+- Kho lưru mu cht ma tuý trung gian ti B Quc phòng, B Tài chính (Tồng cc Hi quan) là noi tip nhn mu cht ma túy t Vin Khoa hc hinh s, B Công an do co quan chuyên trách phòng, chông ti phm v ma túy và các co s đào to ngưi làm công tác phòng, chông ma túy, hun luyn đng vt nghip v chuyên khoa phát hin ma túy thuc B đi Biên phòng, Cành sát bin Vit Nam, Tng cc Hi quan trc tip qun lý, s dng đ đào to, hun luyn nghip v phòng, chông ti phm vè ma túy;
+- Kho lưru mu cht ma tuý trung gian ti các cơ s đào to ngưi làm công tác phòng, chng ti phm v ma túy thuc B Công an là noi tip nhn và trc tip quàn lý mu cht ma túy t Vin Khoa hc hinh s B Công an đ s dng hun luyn nghip v phòng, chông ti phm v ma túy;
+- Kho lưru mãu cht ma tuý trung gian ti B Tư lnh Cnh sát cơ đng là noi tip nhn mu cht ma túy t Vin Khoa hc hinh s, B Công an do đon v Hưóng dn hun luyn, s dng đng vt nghip v trc tip qun lý, s dng đ hun luyn đng vt nghip v.
+2. Vin Khoa hc hinh s, B Công an t chc phân phi, bàn giao mu cht ma túy theo k hoch đưc phê duyt, tip nhn mu cht ma túy không còn s dng cùa các đon vi, tin hành theo dõi, kim tra vic s dng ti các đon v và đánh giá cht lưng mu cht ma túy còn tn tr ti kho lưu mu cht ma túy trung gian đ đè xut x lý theo quy đnh ti Điu 29 ca Ngh đnh này.
+3. Các đon v s dng khi không còn nhu cu s dng mu cht ma túy phài bàn giao li cho Vin Khoa hc hinh s, B Công an.
+4. Các đon v đưc tin hành các hot đng theo quy đnh ti khon 1 ca Điu này có trách nhim thc hin các quy đnh v hot đng bào qun, phân phi, s dng mu cht ma túy vì mc đích quc phòng, an ninh theo quy đnh tąi Điu 26 ca Ngh đnh này.
 
-CacBotruong,Thu truongcoquanngangbo,Thu truongcoquan thuoc Chinh phu,Chu tichUybannhan dancac tinh,thanh photruc thuoc trung uong vatochurc,canhancolien quan chiu trachnhiem huong danva thi hanh Nghi dinh nay.
+## Điu 29. Quy đnh v x lý mu cht ma túy vì me đích quc phòng, an ninh
 
-## Noinhan:
-
-- -Thu turong,cacPhoThu turong Chinh phu;
-- -Ban Bi thu Trung uong Dang;
-- -Cac bo,co quan ngangbo,co quan thuoe Chinh phu;
-- -Van phongTrunguongvacacBan cuaDang:
-- -Vanphong Chu tjch nuoc;
-- -Van phong TongBi thur;
-- -Hoi dongDan tocva cac Uy ban cua Quochoi;
-- -Toa an nhan dan toi cao;
-- -Van phong Quochoi;
-- -Vienkiem sat nhan dan toi cao;
-- -Kiem toan nha nuroc;
-- -Uy ban Giam sat tai chinh Quocgia;
-- -Ngan hang Chinh sach xa hoi;
-- -Uyban trung uongMat tran ToquocViet Nam;
-- -Ngan hangPhat trien Viet Nam;
-- -Co quan trung uong cua cac doan the;
-- -Luu:VT,KGVX(2b).440
-- -VPCP:BTCN,cacPCN,TrqlyTTg,TGDCongTTDT, cac Vu,Cuc,don vj tryc thuoc,Conbao;
+1. Đnh k hng năm, Vin Khoa hc hinh s, B Công an tin hành kim tra, dánh giá cht lưng mu cht ma túy còn tn tr ti các kho lưu mu cht ma túy trung gian và t kim tra, đánh giá cht lưng mu cht ma túy còn tồn tr ti kho lưu tr mu cht ma túy quc gia.
+2. Trưòng hp b nhm ln hoc tht thoát mu cht ma túy, các đon vi phài báo cáo ngay vi co quan quàn lý cp trên trc tip. Khi nhn đưc báo cáo, cơ quan qun lý cp trên trc tip phi tin hành ngay vic thm tra, xác minh đ có bin pháp x lý thich hp và gi báo cáo v B Công an (qua Vin Khoa hc hình s).
 
 <!-- image -->
 
-TM.CHINHPHU
+3. Khi mu cht ma túy tồn tr nhiu hoc bi gim cht lưng sau khi đã s dng hoc b bin đi do thi hn bo quàn thì Vin trưng Vin Khoa hc hinh s phi có văn bàn báo cáo B trưng B Công an v tinh trng mu (ghi rõ tên, s lưng, nng đ, hàm lưrng, lý do và phưong pháp x lý) đ xem xét và thành lp Hi đồng tiêu hy.
 
-Pham Minh Chinh
+4. Hi đng tiêu hy mu cht ma túy bao gm: Lãnh đo Vin Khoa hc hinh s là Chù tch Hi đng, thành viên gm đi din Vin kim sát nhân dân ti cao, Cc Cành sát điu tra ti phm v ma túy, ngưi ph trách kho lưru tr mu que gia và Giám đc Trung tâm Giám đnh ma túy, Vin Khoa hc hinh s là Üy viên thư ký.
+
+5. Trình t, thú tc tiêu hy mu cht ma túy thc hin theo quy đnh ca pháp lut t tng hinh s v tiêu hy vt chg và phài lâp biên bn, chp ành, luu h so theo quy đnh ti Vin Khoa hc hinh s, B Công an.
+
+## Điu 30. Lp d trù, h so, ch đ báo cáo và kinh phí the hin vie nhp khu, ly mu cht ma túy vì mc đích quc phòng, an ninh
+
+1. Đnh k hàng năm, các đon v đưc quy đnh tąi đim b khon 5 Điu 23 ca Ngh đnh này lp d trù và gi đăng ký s lưng mu cht ma túy v Vin Khoa hc hinh s, B Công an trưóc ngày 15 tháng 01 đ tng hop, đi chiu s lưng tn tr và đ xut B trưng B Công an phê duyt k hoch d trù, phân phi mu cht ma ty và k hoch nhp khu, ly mu cht ma túy vì mc đích quc phòng, an ninh.
+
+2. Đon v s dng mu cht ma túy phi m s theo dõi vic s dng. Vin Khoa hc hinh s m s theo dõi nhâp, xut kho, giao nhn và s dng ti đon vi và thc hin ch đ báo cáo, thông kê theo quy đnh cùa B Công an. Các tài liu liên quan phài đưc lưu gi, quån lý theo quy đnh.
+
+- a) Đi vi mu cht ma túy phc v truy nguyên ngun gc phi thc hin theo đúng quy đnh v giám đnh truy nguyên nguồn gc. Lp biên bn hoc s ghi đy đ quá trình s dng mu có ch ký xác nhn ca ngưòi tham gia phân tich mu và lānh đąo quàn lý trc tip;
+- b) Các phòng thí nghim giám đnh s dng mu chun phc v giám đnh phi m s theo dōi quá trinh s dng mu có ch ký xác nhn ca ngưòi tham gia phân tích mu và lānh đo quàn lý trc tip;
+- c) Các đon v s dng mu phc v hun luyn nghip v, đào to, hun luyn đng vt nghip v phài lp biên bn ghi li tình trng và các quá trinh s dng mu có ch ký xác nhn ca ngưi trc tip s dng mu và lānh đo quàn lý trc tip.
+
+<!-- image -->
+
+3. Đnh k (6 tháng/01 năm) các đon v s dng báo cáo tình hình s dng mu cht ma túy v Vin Khoa hc hinh s, B Công an trưc ngày 15 tháng 7 (s liu tính t ngày 15 tháng 12 năm truóc k báo cáo đn ngày 14 tháng 6 ca k báo cáo) và ngày 15 tháng 01 hàng năm (tính tù ngày 15 tháng 12 năm trưc k báo cáo đn ngày 14 tháng 12 cua k báo cáo). Vin Khoa hc hinh s tng hp kt qu nhp khu, ly mu, phân phi, s dng, tiêu hy và tn kho mu cal  an    n n n a  n     an oa án nhân dân ti cao.
+4. Kinh phí thc hin vic nhp khu, ly mu, x lý mu cht ma túy chi t ngân sách nhà nưc thưòng xuyên ca B Công an. Kinh phí đàm bào các dien S n a ns n  n  n  n    en ca các b, ngành, đia phưong.
+
+## Đièu 31. Trách nhim kim tra, giám sát, x lý vi phm
+
+1. Các đơn v có hot đng hp pháp liên quan đn ma túy vì mc đích quc phòng, an ninh chu trách nhim kim tra, giám sát và x lý vi phm theo thm quyn và tng hp báo cáo v B Công an.
+2. Cơ quan chuyên trách phòng, chông ti phm v ma túy thuc B Công an chù trì, phi hp vi cσ quan chúc năng cùa các b, ngành, đa phưong tin hành kim tra, giám sát và đ xut x lý hoc x lý vi phm pháp lut theo thm quyèn.
+
+## Mųc 4 LP HÒ SO VÀ CHÉ D BÁO CÁO CÁC HOT ĐNG
+
+## HQP PHÁP LIÊN QUAN DÉN MA TÚY
+
+## Điu 32. Lp h so
+
+1. Co quan, t chúc, cá nhân khi tin hành các hot đng hp pháp liên quan đn ma túy quy đnh ti khon 1 Điu 12 ca Lut Phòng, chng ma túy phi lp h so theo quy đnh cua cơ quan quàn lý chuyên ngành, trong đó phài đm bào bao gồm các ni dung sau:
+- a) Co quan, t chc có hot đng nghiên cu, giám đnh, sàn xut phi lưu tr s liu theo dõi s lưng, cht lưng, thòi hn s dng, quy trinh sàn xut; s liu v xut, nhp, tn kho; phiu xut, nhp kho;
+- b) Co quan, t chc, cá nhân có hot đng mua bán, xut khu, nhp khu, tm nhp, tái xut, tm xut, tái nhp phài lưu tr s liu nhp, xut, tn kho và hóa đon, chúng tù, tài liu có liên quan đi vi timng cht theo danh mc ti Ngh đnh quy đnh các Danh mc cht ma tuý và tin cht ca Chính ph.
+2. H sơ, chng t phi lưu gi trong thòi hn theo quy đnh ca cơ quan qun lý chuyên ngành. Ht thòi hąn lưu gi s sách, chúng t, thù trưng đon v có trách nhim lp Hi đng đ tin hành hu s sách, chmg t đó và phi lp biên bán.
+
+<!-- image -->
+
+## Điu 33. Ch đ báo cáo
+
+1. B Công an, B Công Thưong, B Y t, B Nông nghip và Phát trin nông thôn, B Quc phòng chu trách nhim tồng hp tình hình hot đng hop pháp liên quan đn ma túy cúa līnh vc quàn lý trên phm vi toàn quc và thc hin báo cáo đnh k 6 tháng (s liu tính t ngày 15 tháng 12 năm truc k báo cáo đn ngày 14 tháng 6 ca k báo cáo)/1 năm (s liu tính t ngày 15 tháng 12 năm trưc k báo cáo đn ngày 14 tháng 12 ca k báo cáo) gi B Công an đ tng hp, báo cáo Thù tưóng Chính ph.
+
+2. B Tài chính chu trách nhim tng hp tinh hinh nhp khu, xut khu, tm nhp, tái xut, tam xut, tái nhâp, quá cành lānh th Vit Nam cht ma túy, tièn cht, thuc gây nghin, thuc hưóng thàn, thuc tin cht, nguyên liu làm thuc là dưc cht gây nghin, dưc cht hưóng thn, tin cht dùng làm thuc và thuc thú y có cha cht ma túy, tin cht trên phm vi toàn quc (s lưng thc t, s v vic vi phm, hinh thc x lý và các thông tin khác có liên quan) và thc hin báo cáo đnh k 6 tháng (s liu tính t ngày 15 tháng 12 năm trưc k báo cáo đn ngày 14 tháng 6 ca k báo cáo)/1 năm (s liu tính t ngày 15 tháng 12 năm trưóc k báo cáo đn ngày 14 tháng 12 ca k báo cáo) gi B Công an đ tng hp, báo cáo Thù tưóng Chính ph.
+
+3. Co quan, t chc, cá nhân trong quá trinh tin hành các hot đng hp pháp liên quan đn ma túy đu phi báo cáo khn tói co quan quàn lý trc tip trong trưòng hop có s nhàm ln, ng đc, b tht thoát cc cht này.
+
+4. Khi cht ma tuý, tin cht, thuc thú y có cha cht ma túy, tin cht không thuc quy đnh ca Điu 21 Lut Phòng, chng ma tuý càn x lý thi đon v qun lý phài báo cáo co quan cp trên trrc tip, ghi rõ lý do, phưong pháp x lý. Vic x lý chi đưc thc hin khi co quan cp trên có thm quyn phê duyt bàng văn bn. Th trưng đon vi phi thành lp hi đng x lý và lâp biên bn x lý, báo cáo lên co quan quàn lý cp trên trc tip và gri B Công an đ theo dõi, qun lý.
+
+## Điu 34. Lp d trù
+
+1. Cơ quan, t chc có nhu cu nhp khu, xut khu đi vi cht ma túy, tin cht thuc danh mc phi d trù theo quy đnh ca các Công ưc quc t v kim soát ma túy, hng năm gi đăng ký d trù nhu cu v co quan có thm quyn thuc B quàn lý chuyên ngành.
+
+2. B Y t, B Công Thưong, B Quc phòng, B Nông nghip và Phát trin nông thôn tng hop d trù nhu cu nhp khu, xut khu cht ma túy, tin cht quy đnh ti khon 1 ca Điu này theo mãu d trù cua Úy ban kim soát ma túy quc t Liên hp quc và gi B Công an truóc ngày 31 tháng 3 hng năm. Trưòng hp nhu cu vưt quá d trù hoc có thay đi khác, các b thông báo bng văn bn v B Công an đ thc hin đăng ký b sung trưc ngày 31 tháng 5 và trưc ngày 30 tháng 9 ca năm đăng ký.
+
+<!-- image -->
+
+3. B Công an tng hp, rà soát, đi chiu nhu cu và kt quà nhp khu, xut khu ca năm trưóc, thc hin vic đăng ký nhu cu vói Uy ban kim soát ma túy quc t Liên hp quc và theo dõi, thc hin thông báo tin xut khu vi các nưc theo quy đnh; đng thi gi B Tài chính (Tng cc Hi quan) đ phi hp theo dõi.
+
+## Mųc 5
+
+## PHÓI HQP KIÉM SOÁT CÁC HOT ĐNG HP PHÁP LIÊN QUAN DÉN MA TUÝ
+
+## Điu 35. Ni dung và co ch phi hp kim soát các hot đng hp pháp liên quan dn ma túy
+
+1. Phi hp kim soát các hot đng nghiên cu, kim nghim, kim đnh, sn xut, vn chuyn, bào quàn, tn tr, mua bán, phân phi, sư dng, x lý, trao đi cht ma túy, tin cht, thuc gây nghin, thuc hưóng thn, thuc tin cht, nguyên liu làm thuc là dưc cht gây nghin, dưc cht hưóng thn, tin cht dùng làm thuc và thuc thú y có cha cht ma túy, tin cht.
+
+- a) B Công an chú tri, phi hp vói các đon vi, đa phưong tin hành theo di, kim tra, giám sát hot đng nghiên cúu, sàn xut, vn chuyn cht ma túy, tin cht theo quy đinh;
+- b) B Công Thưong, B Y t, B Nông nghip và Phát trin nông thôn, B Tài chính (Tng cc Hi quan) và B Quc phòng trong phąm vi chc năng, nhim v và quyn hn đuc giao có trách nhim chù trì, phi hp vi B Công an hưóng dn, kim tra co quan chc năng ca các đia phưong tin hành kim soát hot đng bào quàn, tn tr, mua bán, phân phôi, s dung, x lý, trao đi cht ma túy, tin cht, thuc gây nghin, thuc hưóng thàn, thuc tin cht, nguyên liu làm thuc là dưc cht gây nghin, dưc cht hưóng thn, tin cht dùng làm thuc và thuc thú y có cha cht ma túy, tin cht ca các đon v có hot đng sn xut, nhp khu, xut khu, tm nhp, tái xut, tm xut, tái nhp;
+
+c) Uy ban nhân dân các tinh, thành ph trc thuc trung uong trong phm vi chúc năng, nhim v và quyn hn đưc giao có trách nhim chi đo các co quan chc năng phi hp thc hin kim soát các hot đng vân chuyn, bo quàn, tn tr, mua bán, phân phi, s dng, x lý, trao đi cht ma túy, tin cht, thuc gây nghin, thuc hưóng thàn, thuc tin cht, nguyên liu làm thuc là dưc cht gây nghin, dưc cht hưng thn, tin cht dùng làm thuc và thuc thú y có cha cht ma túy, tin cht ti đa phưong.
+
+2. Phi hp kim soát các hot đng nhp khu, xut khu, tm nhp, tái xut, tm xut, tái nhâp, quá cành cht ma túy, tin cht, thuc gây nghin, thuôc hưóng thàn, thuc tin cht, nguyên liu làm thuc là dưc cht gây nghin, dưc cht hưng thn, tin cht dùng làm thuc và thuc thú y có cha cht ma túy, tin cht.
+
+<!-- image -->
+
+a) Phi hp kim soát trong thông báo tin xut khu đi vói hot đng nhp khu các tin cht t nưc ngoài vào Vit Nam (áp dng đi vói hot đng nhâp khu t các nuc tham gia Điu 12 Công uc năm 1988 ca Lin hop quc v chông buôn bán bt hp pháp các cht ma túy và các cht hưóng thàn):
+
+Trên co s giy phép nhp khu do các b chc năng cp gi đn B Công an hoc thông tin giy phép nhâp khu trên Cng thông tin mt ca quc gia, trong thòi hn chm nht là 02 ngày làm vic, k t ngày nhn đưc thông báo ca nưc xut khu, B Công an có trách nhim tr li nưc xut khu v tính hp pháp cùa lô hàng. Trong trưòng hp B Công an không nhn dưc giy phép nhp khu đi vi lô hàng đưc thông báo, B Công an có trách nhim đè ngh nưc xut khu tm dng vic xut khu lô hàng sang Vit Nam và gi B Tài chính (Tng cc Hài quan) đ theo dõi;
+
+b) Phi hp kim soát trong thông báo tin xut khu đi vi hot đng xut khu tin cht t Vit Nam ra nưc ngoài (áp dng đi vi hot đng xut khu sang các nuc tham gia Điu 12 Công ưóc năm 1988 ca Liên hp quc v chng buôn bán bt hp pháp các cht ma túy và các cht hưóng thn), bao gồm cà dng đon cht và dng phi hp;
+
+Trong thòi hn chm nht là 03 ngày làm vic, k t ngày nhn đưc đon và h so đ ngh cp giy phép xut khu hop l, cơ quan có thm quyn cp phép có trách nhim gi B Công an nhng thông tin v tên, đa chi t chc đ ngh cp phép xut khu; tên goi, hàm lurng, s lung tin cht; tên, đja chi t chc nhâp khu; tên ca khu có hàng xut khu đi qua đ ra thông báo tin xut khu đi vi lô hàng cho cơ quan chc năng ca nưc nhp khu.
+
+Trong thi hn chm nht là 02 ngày làm vic, k t ngày nhn đưc thông tin cua co quan có thm quyèn cp phép, B Công an có trách nhim thc hin thông báo tin xut khu đi vi lô hàng đ ngh cp giy phép xut khu. Trong thi hn chm nht là 02 ngày làm vic, k t ngày nhn đưc ý kin phàn hi ca co quan chc năng nưóc nhâp khu, B Công an có trách nhim trà lòi co quan cp phép đ quyt đnh cp giy phép hoc không cp giy phép theo thm qay   (n         oi
+
+c) Phi hp kim soát hot đng nhp khu cht ma túy, tin cht, nguyên liu làm thuc là dưc cht gây nghin, dưc cht hưóng thn, tin cht dùng làm thuc t nưc ngoài vào Vit Nam;
+
+Trên co s báo cáo ca B Tài chính (Tng cc Hi quan) v s lưng nhp khu thc t đi vói các cht ma túy, tin cht, nguyên liu làm thuc là dưc cht gây nghin, dưc cht hưóng thn, tin cht dùng làm thuc theo quy đnh ti khon 2 Điu 33 ca Ngh đnh này, B Công an ch trì, phi hp vi B Công Thưong, B Y t, B Nông nghip và Phát trin nông thôn, B Quc phòng t chc đánh giá kt qu nhp khu ca năm và nhu cu nhâp khu các cht ma túy, tin cht ca năm tip theo đ tng hp thông báo kt quà nhp khu, đăng ký d trù vói y ban kim soát ma túy quc t Liên hp quc theo quy dinh.
+
+<!-- image -->
+
+d) Phi hp kim soát hot đng tm nhp, tái xut, tm xut, tái nhp cht ma túy, tin cht, nguyên liu làm thuc là dưc cht gây nghin, dưc cht hưóng thàn, tièn cht dùng làm thuôc;
+
+Trong thi han chm nht là 03 ngày làm vic, k t ngày nhn đưc h so đ nghi cp giy phép tm nhâp, tái xut, tam xut, tái nhp đi vói cht ma túy, tin cht, nguyên liu làm thuc là dưc cht gây nghin, dưc cht hưóng thn, tin cht dùng làm thuc, B Công Thưong có trách nhim gi B Công an các thông tin v tên, đja chi doanh nghip đ ngh cp phép; tên goi, s lưng, hàm lưng cht ma túy, tin cht; tên, đa chi t chc nhp khu, xut khu; thi gian và tên ca khu có hàng tam nhp, tái xut, tm xut, tái nhâp đi qua đ thc hin thông báo tin xut khu;
+
+Trong thi hn chm nht là 02 ngày làm vic, k t ngày nhn đưc thông tin yêu cu cùa B Công Thưong, B Công an có trách nhim thc hin thông báo tin xut khu đi vói lô hàng xin cp giy phép. Trong thi hn chm nht là 02 ngày làm vic, k t ngày nhn đưc ý kin phàn hi ca nưc nhp khu, B Công an có trách nhim trà lòi co quan cp phép đ quyt đnh cp giy phép hoc không cp giy phép tm nhp, tái xut, tm xut, tái nhp theo thm quyn và gi B Tài chính (Tng cc Hi quan) đ theo dõi;
+
+đ) B Công an, B Công Thưong, B Y t, B Nông nghip và Phát trin nông thôn, B Quc phòng trong phm vi chc năng, nhim v và quyn hn đưc giao thc hin vic cp giy phép nhp khu, xut khu, tm nhâp, tái xut, tm xut, tái nhâp, quá cành cht ma túy, tièn cht, thuc gây nghin, thuôc hưóng thàn, thuc tièn cht, nguyên liu làm thuc là dưc cht gây nghin, dưc cht hưóng thn, tin cht dùng làm thuc và thuc thú y có cha cht ma túy, tin cht, trong thòi hn chm nht là 03 ngày làm vic, k t ngày cp giy phép, cơ quan cp phép có trách nhim gi giy phép nhp khu, xut khu, tm nhp, tái xut, tm xut, tái nhp, quá cành cho cơ quan, t chc, cá nhân đ ngh cp phép, Chi cc Hài quan noi làm thù tc hi quan cho hàng nhp khu, xut khu, tm nhp, tái xut, tm xut, tái nhp, quá cành và gi B Tài chính (Tng cc Hi quan), B Công an đ theo dõi, quàn lý.
+
+4. Phi hop trao đi thông tin v kim soát các hot đng hp pháp liên quan đn ma túy.
+
+a) B Công an là co quan đu mi trao đi thông tin v kim soát các hot đng hop pháp liên quan đn ma túy vói B Công Thuong, B Nông nghip và Phát trin nông thôn, B Y t, B Tài chính (Tng cc Hi quan), B Quc phòng, các đa phưong, các nuóc liên quan và Úy ban Kim soát ma túy quc t Liên hp quc thông qua Trung tâm Dū liu kim soát các hot đng hp pháp liên quan đn ma túy (sau đây goi tt là Trung tâm d liu) đt tąi B Công an.
+
+<!-- image -->
+
+Trung tâm d liu do Cơ quan chc năng thuc B Công an trc tip qun lý, vn hành, truy cp, cp nht, khai thác, x lý và trao đi thông tin vi B Công Thuong, B Nông nghip và Phát trin nông thôn, B Y t, B Tài chinh (Tông cc Hi quan), B Quc phòng, các đia phuong, các nuóc liên quan và Üy ban Kim soát ma túy quc t Liên hp quc bng phàn mèm h thông qun lý dū liu v phòng, chng ma túy;
+
+B Công thưong, B Nông nghip và Phát trin nông thôn, B Y t, B Tài chính (Tng cc Hi quan), B Quc phòng và Uy ban nhân dân các tinh, thành ph trc thuc trung ưong có tài khon và mt khu riêng ca phn mm h thông quàn lý dū liu v phòng, chông ma túy do B Công an cung cp đ truy câp, cp nht, khai thác và trao đi thông tin ti Trung tâm dū liu, trù nhng thông tin nghip v do B Công an quy đnh;
+
+Trưòng hp cn thông tin, tài liu không thuc phm vi Trung tâm dū liu đ phc v công tác kim soát các hot đng hp pháp liên quan đn ma túy, co quan phi hp có trách nhim trao đi, cung cp thông tin, tài liu theo yêu cu ca cơ quan đ ngh. Nu t chi cung cp thông tin, tài liu cơ quan đưc yêu cu phi trà li bng văn bn và nêu rõ lý do t chi.
+
+b) B Công an có trách nhim thông báo cho các b, ngành và các đa phưong liên quan thông tin vè phưong thc, thù đon hot đng cùa ti phm và nhng thông tin khác có liên quan trong quá trình kim soát các hot đng hp pháp liên quan đn ma túy đ các b, ngành và các đja phưong có bin pháp chù đng ngăn chn, phòng ngùa hiu quà;
+
+c) B Công Thưong, B Nông nghip và Phát trin nông thôn, B Y t, B Tài chính (Tng cc Hài quan), B Quc phòng có trách nhim:
+
+Thu thp, qun lý thông tin v các hot đng hp pháp liên quan đn ma túy trong phm vi chc năng, nhim v và quyn hn đưc giao;
+
+Cung cp nhng thông tin cn thit có liên quan đn công tác kim soát các hot đng hp pháp liên quan đn ma túy cho Trung tâm d liu thông qua vic truy câp và cp nht d liu bng phn mm h thng quàn lý d liu v phòng, chông ma túy; riêng đi vói giy phép nhâp khu, xut khu, tm nhp, tái xut, tm xut, tái nhâp, quá cành cht ma túy, tin cht, thuc gây nghin, thuc hưóng thàn, thuc tin cht, nguyên liu làm thuc là dưc cht gây nghin, dưc cht hưóng thn, tin cht dùng làm thuc và thuc thú y có cha cht ma túy, tin cht gi kèm theo bàn chính;
+
+Kp thi trao đi, thông tin vói B Công an đ có bin pháp phi hp phòng ngùra, ngăn chn, x lý hành vi vi phm khi nhn đưc ngun tin, tài liu hoc phát hin nhng sai phm trong công tác kim soát các hot đng hp pháp liên quan đn ma túy.
+
+<!-- image -->
+
+d) B Tài chính (Tng cc Hi quan) đm bo kt ni d liu và vn hành ca Trung tâm dū liu vi Cng thông tin mt ca quc gia.
+
+B Tài chính (Tng cc Hi quan) cung cp tài khon và mt khu riêng cho Trung tâm d liu đ truy cp, cp nht, khai thác và trao đi thông tin v giy phép xut khu, nhp khu, tm nhp, tái xut, tm xut, ti nhp, quá cành ti Cồng thông tin mt ca quc gia.
+
+- đ) Úy ban nhân dân các tinh, thành ph trc thuc trung ưong trong phm vi chúc năng, nhim v và quyn hn đưc giao có trách nhim chi đo các co quan chc năng thưòng xuyên trao đi thông tin vi nhau v kim soát các hot đng hp pháp liên quan đn ma túy ti đa phưong.
+5. Phi hp theo dõi, kim tra, giám sát các hot đng hp pháp liên quan đn ma túy
+- a(             n B Nông nghip và Phát trin nông thôn, B Y t, B Tài chính (Tng cc Hài quan), B Quc phòng huưóng dn, theo dõi, kim tra, giám sát các co quan, t chc, cá nhân và đia phưong thc hin các văn bn quy phm pháp lut vè kim soát các hot đng hop pháp liên quan đn ma tuý nhàm phòng ngira, ngān chn vic li dng các hot đng đó nhm mc đích bt hp pháp;
+- b) Các b trong phm vi nhim v, quyn hn ca minh, có trách nhim t chc thc hin nhim v đưc giao và thanh tra, kim tra vic thc hin các quy đnh v kim soát các hot đng hp pháp liên quan đn ma tuý ca các co quan, t chc, cá nhân; x lý các hành vi vi phm theo quy đnh ca pháp lut theo thm quyn, chuyn B Công an điu tra, x lý nhng v vi phm có du hiu hinh s;
+- c) y ban nhân dân các tinh, thành ph trc thuc trung ưong trong phm vi chc năng, nhim v và quyn hn đưc giao có trách nhim chi đo các co quan chúc năng hưóng dn, kim tra, giám sát các co quan, t chc, cá nhân thc hin các văn bn quy phm pháp lut vè kim soát các hot đng hop pháp liên quan đn ma tuý nhm phòng nga, ngăn chn vic li dng các hot đng đó nhàm mc đích bt hp pháp. Thanh tra, kim tra vic thc hin các quy đnh vè kim soát các hot đng hp pháp liên quan đn ma tuý cua các co quan, t chúc, cá nhân; x lý các hành vi vi phąm theo quy đnh ca pháp lut theo thm quyèn, chuyn Công an cáç tinh, thành ph trc thuc trung ưong điu tra, x lý nhng v vi phm có du hiu hình s.
+
+## Điu 36. T Công tác liên ngành phi hp kim soát các hot đng hp pháp liên quan đn ma túy các cp
+
+1. T Công tác liên ngành phi hp kim soát các hot đng hp pháp liên quan đn ma túy cp trung ưong.
+
+a) T Công tác liên ngành phi hp kim soát các hot đng hp pháp liên qua a n n   n   n n ng  n  n nb quy ch và chi đo hot đng ca T;
+
+<!-- image -->
+
+b) Nhim v ca T Công tác liên ngành phi hơp kim soát các hot đng hp pháp liên quan đn ma túy cp trung uong: T chc tuyên truyèn, huóng dn, tâp hun, đôn đc, theo di, kim tra, giám sát các co quan, t chc, cá nhân, đja phưong thc hin các văn bàn quy phm pháp lut v kim soát các hot đng hop pháp liên quan đn ma tuý nhm phòng ngira, ngăn chn vic li dng các hot đng đó nhàm mc đich bt hp pháp. Phát hin, ngăn chn và kin nghi các cp có thm quyn x lý các hành vi vi phm theo quy đnh cùa pháp lut.
+
+2. T Công tác liên ngành phi hp kim soát các hot đng hp pháp liên quan đn ma túy các tinh, thành ph trc thuc trung ưong.
+
+a) T Công tác liên ngành phi hp kim soát các hot đng hp pháp liên quan đn ma túy các tinh, thành ph do y ban nhân dân các tinh, thành ph trc thuc trung ưong thành lâp và quyt đnh ban hành quy ch, chi đo hot đng;
+
+b) T Công tác liên ngành phi hp kim soát các hot đng hop pháp liên quan đn ma túy các tinh, thành ph có nhim v: T chc tuyên truyn, huưóng dn, tâp hun, theo dōi, kim tra, giám sát các co quan, t chc, cá nhân trên đja bàn tinh, thành ph thc hin các văn bàn quy phm pháp lut v kim soát các hot đng hp pháp liên quan đn ma tuý nhàm phòng ngùra, ngǎn chn vic li dung các hot đng đó vào mc đich bt hp pháp. Phát hin, ngăn cn  d    n   n đnh ca pháp lut.
+
+## Chuong IV QUÅN LÝ NGUÒI SÚ DUNG TRÁI PHÉP CHÁT MA TÚY
+
+## Điu 37. Đi tưrng b qun lý
+
+Đi tưng bį quàn lý là ngưi có hành vi s dng trái phép cht ma túy mà không thuc các trưòng hp quy đnh ti khon 5 Điu 23 ca Lut Phòng, chóng ma túy.
+
+## Điu 38. Căn c xét nghim ngưi có du hiu s dng trái phép cht ma túy
+
+1. Mt ngưi có du hiu s dng trái phép cht ma túy khi có mt trong các căn c sau đây:
+- a) Tin báo, t giác ca cá nhân, cơ quan, t chc đã đưc cơ quan có thm quyn tin hành xác minh, làm rõ;
+- b) Thông tin, tài liu trong các v vi phm pháp lut;
+- c) Ngưi có biu hin mt năng lc nhn thc hoc kim soát hành vi nghi do s dng ma túy;
+
+<!-- image -->
+
+- d) Trên ngưi, phưong tin, noi  ca ngưi đó có du vt ca cht ma túy hoc dng c, phưong tin s dng trái phép cht ma túy;
+2. đ) Ngưi điu khin phưong tin có biu hin s dng cht kích thích nghi là ma túy;
+- e) Ngưòi có mt ti các đa đim có hành vi t chc, cha chp hoc s dng trái phép cht ma túy nhung không có lý do chính dáng.
+- g) Ngưòi t khai báo hành vi s dng trái phép cht ma túy;
+- h) Ngưòi b phát hin quà tang s dng trái phép cht ma túy;
+- i) Nhng căn c khác theo quy đnh ca pháp lut.
+2. Khi có căn c cho rng ngưi có du hiu s dng trái phép cht ma túy quy đnh ti khon 1 Điu này thì cơ quan, ngưòi có thm quyn xét nghim cht ma túy trong cơ th quy đnh ti khon 2 Điu 22 ca Lut Phòng, chông ma túy tin hành xét nghim. Kt quà xét nghim cht ma túy trong cơ th thc hin theo Mu s 03 ti Ph lc ban hành kèm theo Ngh đnh này).
+
+## Điu 39. Kinh phí cho vic thc hin bin pháp qun lý ngưòi s dng trái phép cht ma túy
+
+1. Kinh phí cho vic t chc xét nghim cht ma túy trong cơ th theo quy đnh ti khon 2 Điu 38 Ngh đinh này gm:
+- a) Chi phí công c xét nghim cht ma túy trong cơ th;
+- b) Chi phí đưa ngưòi b xét nghim cht ma túy trong cơ th tói noi thc hin xét nghim;
+- c) Chi phí đ ngh cơ quan chuyên môn thc hin xét nghim cht ma túy trong cơ th (nu có).
+2. Kinh phí cho vic xác đnh tinh trng nghin khi phát hin ngưòi s d  t  n    t  t  d  in theo quy đnh ti khoàn 8 Điu 27 ca Lut Phòng, chông ma túy gm:
+- a) Chi phí đưa ngưi b đ ngh xác đnh tinh trng nghin đn nơi thc hin xác đnh tình trng nghin và chi phí ăn,  ca ngưi b đ ngh xác đnh tinh trng nghin trong thòi gian theo dōi đ xác đnh tinh trng nghin (trù trưòng hp ngưòi b tm gi đ xác đnh tinh trng nghin);
+- b) Chi phí đ ngh cơ s y t tin hành xác đnh tình trng nghin.
+
+<!-- image -->
+
+3. Kinh phí trong quá trinh quàn lý ngưòi s dng trái phép cht ma túy gm:
+- a) Chi phí cho vic chuyn giao ngưi s dng trái phép cht ma túy và h so liên quan v Úy ban nhân dân cp xã có thm quyn qun lý;
+- b) Chi phí hồ tr cho ngưòi không thuc trưòng hp hưng lưong t ngân sách nhưng đưc phân công trc tip giúp đ ngưi đang trong thòi hn qun lý quy đinh ti đim c khon 2 Điu 42 Ngh đnh này;
+4. Các khon kinh phí quy đnh ti khoàn 1, 2 và 3 Điu này do ngân sách nhà nưc đm bo theo phân cp ngân sách hin hành và các ngun kinh phí hp pháp.
+
+Üy ban nhân dân cp tinh có trách nhim trình Hi đng nhân dân cùng cp b trí kinh phí t ngun ngân sách đa phưong cho các co quan chúc năng thc hin các công vic quy đinh ti ti khon 1, 2 và 3 Điu này theo quy đnh ca pháp lut v ngân sách nhà nưc.
+
+5. Mc h tr ngưi đưc phân công giúp đ quy đnh ti đim b khon 3 Điu này do Hi đng nhân dân cp tinh quyt đnh nhưng không thp hon 25% mc luong cơ s.
+
+## Điu 40. Thu thp thông tin, tài liu đ lp H so qun lý ngưòi s dng trái phép cht ma túy
+
+1. Khi có kt qu xét nghim quy đnh ti khon 2 Điu 38 Ngh đinh này là dưong tính thì co quan Công an noi phát hin ngưòi s dng trái phép cht ma túy có trách nhim:
+- a) Thc hin xác minh nơi cư trú ca ngưòi s dng trái phép cht ma túy theo quy đnh ti Điu 41 Ngh đnh này;
+- b) Gi thông báo v hành vi s dng trái phép cht ma túy cho Chú tch Üy ban nhân dân cp xã noi ngưòi s dng trái phép cht ma túy cư trú hoc noi phát hin hành vi s dng trái phép cht ma túy trong trưòng hp ngưòi s dng trái phép cht ma túy không có noi cu trú n đnh theo Mu s 04 ti Ph lc ban hành kèm theo Ngh đnh này đ t chc quàn lý ngưòi s dng trái ph   d n  s
+2. H so qun lý ngưòi s dng trái phép cht ma túy bao gm các tài liu sau dây:
+- a) Quyt đjnh áp đng bin pháp qun lý ngưòi s dng trái phép cht ma túy theo Mu s 07 ti Ph lc ban hành kèm theo Ngh đnh này;
+
+<!-- image -->
+
+- b) Bn tóm tt lý lch ngưi s dng trái phép cht ma túy theo Mu s 05 ti Ph lc ban hành kèm theo Ngh đnh này; kt quà xác minh nơi cư trú ca ngưòi s dng trái phép cht ma túy;
+- c) Phiu kt quà xét nghim cht ma túy trong cσ th theo Mu s 03 ti Ph lc ban hành kèm theo Ngh đnh này;
+- d) Tài liu, biên bn v hành vi s dng trái phép cht ma túy; tài liu v nhng ln s dng trái phép cht ma túy trưc đây hoc cai nghin ca ngưi vi phm (nu có);
+4. đ) Bn tưòng trinh ca ngưi s dng trái phép cht ma túy theo Mu s 06 ti Ph lc ban hành kèm theo Ngh đnh này;
+- e) Trưòng hp ngưi đó thuc đi tưng quy đnh ti khon 1 Điu 27 ca Lut Phòng, chng ma túy thì phi có kt quà xác đnh tình trng không nghin ma túy ca đi tưng.
+3. Công an cp xã có trách nhim giúp Ch tch y ban nhân dân cp xã thu thp tài liu đ lp H so quàn lý ngưi s dng trái phép cht ma túy.
+
+## Điu 41. Xác minh noi cr trú và gri h so
+
+1. Trong thi hn ti đa không quá 03 ngày làm vic, k t ngày phát hin ngưi có hành vi s dng trái phép cht ma túy, cơ quan Công an noi phát hin hành vi s dng trái phép cht ma túy có trách nhim xác minh noi cư trú cùa ngưòi s dng trái phép cht ma túy.
+
+Đi vi các đa bàn là vùng min núi, hái đo, vùng xa xôi, ho lánh mà vic đi li găp khó khăn thì thi hn xác minh nơi cư trú có th kéo dài hon nhưng không dưc quá 10 ngày làm vic, k tù ngày phát hin ngưòi có hành vi s dng trái phép cht ma túy.
+
+2. Tiêu chí xác đnh ngưi có noi cư trú n đnh:
+- a) Ngưi có noi cư trú n đnh là ngưòi hin đang sinh sng ti noi đăng ký thưòng trú hoc tm trú;
+- b) Trưòng hp không xác đnh đưc noi đăng ký thưòng trú, tm trú thì noi cu trú n đnh là noi  hin ti theo quy đnh ti khoàn 1 Điu 19 cùa Lut Cu trú và thòi gian thưòng xuyên sinh sông t 30 ngày tr lên, có xác nhn cùa Trưòng Công an cp xã.
+3. Tiêu chí xác đnh ngưi không có noi cư trú n đnh:
+- a) Ngưòi có đăng ký thưòng trú hoc tm trú nhung không sinh sông ti nơi đăng ký thưòng trú hoc tm trú, có xác nhn cùa Trưng Công an cp xã noi đăng ký thưòng trú hoc tm trú vè vic ngưi đó không sinh sng  noi đăng ký thưòng trú hoc tm trú và không bit ngưòi đó đang  đâu;
+
+<!-- image -->
+
+- b) Thành viên gia đinh theo quy đnh pháp lut v hôn nhân và gia đinh cung cp thông tin cho co quan chc năng không bit ngưi đó hin nay đang đâu, làm gì và co quan Công an tra cúu dū liu trong Co s d liu quc gia v dân cư, Co s d liu v cư trú, h thông tàng thư h sơ cư trú, tàng thư căn cưc công dân cũng không xác đnh đưc ngưi đó đang  đâu;
+- c) Ngưòi không có cà noi thưòng trú, tm trú và thi gian sinh sng  noi hin ti dưói 30 ngày.
+4. Vic xác minh nơi cư trú và tr li xác minh v cư trú thc hin theo quy đnh ca pháp lut v cư trú và hưng dn ca B Công an.
+5. Trưòng hp ngưòi có hành vi s dng trái phép cht ma túy có noi cu trú n đnh, trong thi hn 03 ngày làm vic, k tr ngày có kt qu xác minh, co quan Công an noi phát hin hành vi s dng trái phép cht ma túy thông báo v hành vi s dng trái phép cht ma túy và gi các tài liu liên quan cho Chú tch Úy ban nhân dân cp xã nơi ngưi s dng trái phép cht ma túy cư trú ồn đinh.
+
+6. Trưòng hp ngưòi có hành vi s dng trái phép cht ma túy không có nơi cư trú n đnh, trong thòi hn 03 ngày làm vic, k t ngày có kt quà xác minh, co quan Công an noi phát hin hành vi s dng trái phép cht ma túy thông báo v hành vi s dng trái phép cht ma túy và các tài liu liên quan cho Ch tch y ban nhân dân cp xã nơi phát hin hành vi s dng trái phép cht ma túy.
+
+## Điu 42. Quyt đnh qun lý ngưòi s dng trái phép cht ma túy
+
+1. Trong thi hn 03 ngày làm vic, k t ngày nhn đưc thông báo vè hành vi s dng trái phép cht ma túy và kt quà xét nghim cht ma túy trong cơ th, Chù tch Úy ban nhân dân cp xã nơi ngưi s dng trái phép cht ma túy cư trú n đnh hoc noi phát hin hành vi s dng trái phép cht ma túy đi vói ngưi không có noi cu trú n đnh ra quyt đnh và t chc quàn lý ngưòi s dng trái phép cht ma túy theo quy đnh ti khon 2, khon 4 Điu 23 ca Lut Phòng, chông ma túy.
+2. Quyt đnh áp dng bin pháp quán lý ngưi s dng trái phép cht ma túy thc hin theo Mu s 07 ti Ph lc ban hành kèm theo Ngh đnh này, trong đó nêu rõ:
+- a) Tóm tt hành vi s dng trái phép cht ma túy; kt quà xét nghim dưong tính vi cht ma túy trong cơ th; kt quà xác đnh tình trng nghin là không nghin (nu có);
+
+<!-- image -->
+
+- b) Phân công Công an cp xã lp danh sách ngưi s dng trái phép cht ma túy qun lý ti đa phưong và t chc thc hin vic xét nghim cht ma túy trong cơ th trong thòi hn quàn lý;
+- c) Phân công T quàn lý nguòi s dng trái phép cht ma túy do cán b Công an cp xā làm T trưng; đi din thôn/t dân ph làm T phó; đi din gia đinh ca nguưòi s dng trái phép cht ma túy hoc ngưòi uy tín trong dòng ho, đi din t chc chính tri - xã hi (căn c vào nhân thân ca nguòi s dng trái phép cht ma túy) và nhân viên công tác xā hi (nu có) làm t viên; phân công mt thành viên T quàn lý trc tip thc hin các ni dung tư vân, đng viên, giáo dc, giúp đ ngưi s dng trái phép cht ma túy.
+
+3. Quyt đnh qun lý ngưi s dng trái phép cht ma túy có hiu lc t ngày ký.
+
+4. Quyt đnh quàn lý ngưi s dng trái phép cht ma túy đưc lưru ti h n  s    os quàn lý 01 bn, gi Công an cp xã là t trưng 01 bn, gi 01 bàn đn đi din gia đinh đ tham gia quàn lý.
+
+## Điu 43. Thòi hn qun lý và cách tính thòi hn qun lý
+
+1. Thòi hn quàn lý ngưòi s dng trái phép cht ma túy là 01 năm, k t ngày Ch tch y ban nhân dân cp xã ra Quyt đnh quàn lý.
+
+2. Trong thi hn quàn lý, nu ngưòi đang có quyt đinh quàn lý bi phát hin tip tc s dng trái phép cht ma túy mà không thuc các trưòng hp quy đnh ti khon 5 Điu 23 ca Lut Phòng, chng ma túy thì Ch tch Uy ban nhân dân cp xã có thm quyn ra Quyt đnh qun lý mi, trong đó xác đnh li thi hn quàn lý là 01 năm, k tr ngày ra Quyt đinh qun lý mi.
+
+3. Trưòng hp ngưòi đang trong thòi hn qun lý chuyn noi cuư trú thì thòi hn qun lý đưc tính tip t ngày chuyn đi ti khi ht thòi gian qun lý còn lai.
+
+## Điu 44. Ni dung quàn lý
+
+1. Mc đich qun lý ngưi s dng trái phép cht ma túy là đ h không tip tc s dng trái phép cht ma túy và phòng nga các hành vi vi phm pháp lut ca h.
+
+2. Ni dung quàn lý:
+
+- a) Xét nghim cht ma túy trong co th ca ngưi s dng trái phép cht ma túy đang trong thòi hn quàn lý;
+- b) Tư vn v tâm lý, thay đi thái đ ca ngưi s dng trái phép cht ma túy đ h có thái đ tích ce, chů đng tránh xa ma túy;
+
+<!-- image -->
+
+c) Giáo dc v pháp lut phòng, chng ma túy, tác hi ca ma túy, các ni dung khác tùy theo đc đim nhân thân;
+
+d) Đng viên, giúp đō đ ngưòi s dng trái phép cht ma túy tham gia các hot đng cng đng, hot đng t qun, hot đng th dc, th thao, các phong trào giúp ích cho xã hi đ nâng cao súc khòe, k năng sng, phòng ngira các hành vi vi phm pháp lut.
+
+3. Đi vi ngưòi s dng trái phép cht ma túy dưói 18 tui thì phi đm bào vic hc văn hóa và nhng ngưòi đưc phân công tư vn, đng viên, giáo dc, giúp đ phài có s tham gia ca giáo viên noi ngưi đó đang hc hoc đi thiu niên tin phong, đoàn thanh niên.
+
+## Điu 45. Xét nghim cht ma túy trong co th trong thòi hn qun lý
+
+1. Công an cp xã noi qun lý ngưi s dng trái phép cht ma túy thc hin hoc đ ngh co quan, ngưòi có chuyên môn thc hin vic xét nghim cht ma túy trong co th ca ngưòi s dng trái phép cht ma túy trong thòi hn quàn lý.
+
+2. Vic xét nghim cht ma túy trong cơ th đưc tin hành đt xut đi vói ngưòi đang trong thòi hn quàn lý khi Co quan Công an cp xã có căn c quy đnh ti khon 1 Điu 38 Ngh đnh này.
+
+## Điu 46. Quy đnh v vic xét nghim cht ma túy trong co th
+
+1. Đi vói ngưòi thuc trưòng hp phi xét nghim cht ma túy trong co th thi co quan, ngưòi có thm quyn xét nghim cht ma túy trong co th mòi ngưòi đó đn đa đim xét nghim đ thc hin vic xét nghim.
+
+Tnut n  n   t  n T n  n t trong co th thì Cơ quan Công an triu tp ngưi đó đn đa đim xét nghim đ ly mu xét nghim cht ma túy trong cơ th. Ngưi thuc trưòng hp phi xét nghim cht ma túy trong cơ th phài có mt khi đưc Cơ quan Công an yêu cu.
+
+2. Hinh thc ly mu xét nghim cht ma túy trong cơ th là ly máu, ly nưc tiu, thông tiu hoc ly các mu vt khác trên co th.
+
+3. Các bung chò xét nghim và noi ly mu phi chia khu vc dành cho nam riêng, n riêng. Noi không có buòng chò riêng thì b trí cho nam, n đúng riêng và noi ly mu phài có bung nam, n riêng.
+
+Vic ly mu nưc tiu phi có cán b cùng gii giám sát.
+
+4. Trưòng hp ly mu xét nghim ngưi dưi 18 tui phi có s đng ý ca cha, mę hoc ngưòi giám h hoc ngưòi đi din theo pháp lut, trù trưòng hp ly mu nưc tiu.
+
+<!-- image -->
+
+## Điu 47. Qun lý ngưòi s dng trái phép cht ma túy trong trưòng hp chuyn đi khi noi cư trú
+
+1. Ít nht 01 làn trong tháng, Công an cp xã noi quàn lý ngưi s dng u          h  t  d  ons thi hn quàn lý.
+
+2. Khi ngưi s dng trái phép cht ma túy thay đi noi cư trú thì Công an cp xã noi chuyn đn phi hp vi Công an cp xā noi đang quàn lý đ kim tra, xác minh thông tin. Sau khi xác minh, Công an cp xã noi đang quàn lý thông báo cho Ch tch y ban nhân dân cp xã noi đang qun lý bit.
+
+Trong thi hn 05 ngày làm vic, k t ngày ngưi đó chuyn đn nơi cu trú mi, Ch tch y ban nhân dân cp xã noi chuyn đi thông báo và chuyn h sơ quàn lý ngưi s dng trái phép cht ma túy theo Mu s 08 ti Ph lc ban hành kèm theo Ngh đnh này cho Ch tch y ban nhân dân cp xã nơi chuyn đn tip tc qun lý.
+
+3. Công an cp xã có trách nhim thưòng xuyên cp nht noi cư trú ca ngưi s dng trái phép cht ma túy vào co s d liu v cư trú, co s d liu quôc gia vè dân cur.
+
+## Điu 48. Dirng, chm dút qun lý ngưròi sr dng trái phép cht ma túy
+
+1. Chǔ tch Úy ban nhân dân cp xã noi đang qun lý ra Quyt đnh dmg qun lý ngưòi s dng trái phép cht ma túy đi vi các trưòng hp quy đnh ti khon 5 Điu 23 ca Lut Phòng, chông ma túy theo Mu s 09 ti Ph lc ban hành kèm theo Nghi đinh này.
+
+2. Ch tch y ban nhân dân cp xã nơi qun lý ra Quyt đnh chm dút quàn lý ngưòi s dng trái phép cht ma túy trong trưròng hp ht thi hn quàn lý mà không phát hin ngưòi bi quàn lý có hành vi s dng trái phép cht ma túy theo Mu s 10 ti Ph lc ban hành kèm theo Ngh đnh này.
+3. Trong thi hn 03 ngày làm vic, k t ngày ra Quyt đnh theo quy đnh ti khon 1, khon 2 Điu này, Ch tch Uy ban nhân dân cp xã gi Quyt đnh cho co quan, t chc, cá nhân quy đnh tąi đim c khoàn 2, khoàn 4 Điu 42 Ngh đnh này.
+
+## Điu 49. Công tác qun lý và lưru tr h so qun lý ngưòi s dng trái phép cht ma túy
+
+Cơ quan Công an cp xã nơi lp h so chu trách nhim qun lý, lưru trũ h sơ ca ngui s dng trái phép cht ma túy theo quy đnh ca B Công an.
+
+<!-- image -->
+
+## ChuongV TRÁCH NHIM CUA CO QUAN
+
+## Điu 50. B Công an
+
+1. Chi đo cơ quan chuyên trách phòng, chng ti phm vè ma túy thuc Công an nhân dân chù đng phi hp cht chē vi các cơ quan chuyên trách phòng, chng ti phm v ma túy thuc B đi Biên phòng, Cành sát bin và Hi quan thc hin các hot đng phòng ngra, đu tranh, ngăn chăn, điu tra, x lý ti phm v ma tuý.
+2. Ch trì, phi hp vói các b, co quan ngang b, cơ quan thuc Chính phǔ thông nht quàn lý nhà nưóc v kim soát các hot đng hp pháp liên quan đn ma túy.
+- a) Tồng hp k hoch, kt quà thc hin k hoch tng th dài hn và hng năm v kim soát các hot đng hp pháp liên quan đn ma tuý ca các b, ngành, đa phuong, báo cáo Thù tưóng Chính phù;
+- b) Hưóng dn, đôn đc, kim tra các co quan, t chc, cá nhân, đa phưong thc hin các văn bàn quy phm pháp lut vè kim soát các hot đng hp pháp liên quan đn ma tuý trong phm vi līnh vc và đja bàn quàn lý nhàm phòng ngira, ngăn chn vic li dng các hot đng đó vào mc đích bt hp pháp;
+3. Ban hành và t chc thc hin các văn bn thuc thm quyn ca B Công an v kim soát các hot đng hp pháp liên quan đn ma tuý vì mc đích quôc phòng, an ninh.
+4. Xây dng và t chc thc hin quy ch, k hoch, t chc đào to, bi dưng cán b và thc hin thng kê nhà nuc v nhp khu mu, ly mu, qun lý và s dng mãu các cht ma túy.
+5. Chi đo cơ quan chuyên trách phòng, chông ti phm v ma túy thc hin nhim v cho phép các hot đng theo quy đnh ti khon 1 Điu 14, khon 1 Điu 19 và khon 1 Điu 23 ca Ngh đnh này; thc hin thng kê nhà nưc, hp tác quc t v kim sot các hot đng hp pháp liên quan đn ma túy và quàn ly, vn hành Trung tâm D liu kim soát các hot đng hp pháp liên quan đn ma túy; thưng trc thc hin nhim v ca T Công tác liên ngành phi hp kim soát các hot đng hp pháp liên quan đn ma túy cp trung ưong và hưóng dn, kim tra T Công tác liên ngành phi hp kim soát các hot đng hp pháp liên quan đn ma túy các tinh, thành ph trc thuc trung ưong thc hin nhim v theo quy đnh ti Ngh đnh này.
+6. Chi đo lc lưng Công an các cp thc hin và phi hp vi cơ quan, t chúc có liên quan phát hin, quàn lý ngui s dng trái phép cht ma túy.
+
+<!-- image -->
+
+7. Hưng dn Công an cp xã lp danh sách ngưi s dng trái phép cht ma túy.
+
+## Điu 51. B Quc phòng
+
+1. Chi đo cơ quan chuyên trách phòng, chng ti phm v ma túy thuc B đi Biên phòng chù trì thc hin các hot đng phòng ngùa; ngăn chn ma túy thâm lu vào Vit Nam; kip thòi phát hin, băt gi ti phm v ma túy xày ra  khu vc biên giói theo quy đnh cùa pháp lut; thưòng xuyên phi hp cht chē vi các cơ quan chuyên trách phòng, chng ti phm v ma túy thuc Công an nhân dân, Cnh sát bin, Hi quan trong công tác phòng nga, đu tranh vi ti phm v ma túy.
+2. Chi đo cơ quan chuyên trách phòng, chông ti phm v ma túy thuc Cnh sát Bin Vit Nam chů trì thc hin các hot đng phòng nga, đu tranh, ngǎn chn, điu tra, x lý ti phm vè ma túy trên bin; phi hp cht chē vi các co quan chuyên trách phòng, chông ti phm v ma túy thuc B đi Biên phòng, Hi quan, Công an và chính quyn đia phuong, co quan, t chúc có liên quan thc hin các hot đng phòng, ngira, đu tranh vi ti phm v ma túy.
+3. Cp, thu hi giy phép nhp khu, xut khu tin cht vì mc đích quc phòng theo thm quyn quy đnh ti khon 2 Điu 23 và thc hin quy đnh v phi hp kim soát các hot đng hp pháp liên quan đn ma túy ti Ngh đinh này.
+4. Phi hp vói cơ quan hu quan ca nưc khác đ phát hin, ngăn chn các hành vi mua bán, vn chuyn trái phép các cht ma túy, tin cht, thuc gây nghin, thuc hưóng thàn, thuc tin cht, nguyên liu làm thuc là dưc cht gây nghin, dưc cht hưóng thn, tin cht dùng làm thuc và thuc thú y có cha cht ma túy, tin cht qua biên giói theo quy đnh ca pháp lut.
+
+## Điu 52. B Tài chính
+
+1. Chi đo cơ quan chuyên trách phòng, chng ti phm v ma túy thuc Hi quan ch trì, phi hop vi các co quan chuyên trách phòng, chông ti phm vè ma túy thuc Công an nhân dân, B đi Biên phòng và Cành sát bin trong kim tra, kim soát, phát hin và phi hp vi các lc lưng chc năng x lý các hành vi vi phm pháp lut, ti phm vè ma túy trong đa bàn hot đng ca Hi quan.
+2. Chǔ trì, tồng hp trình cp có thm quyn phê duyt d toán chi thưòng xuyên đm bo cho các hot đng phi hp, kim soát các hot đng hp pháp liên quan đn ma tuý vào d toán chi ngân sách nhà nuóc thưòng xuyên cùa B Công an, B Quc phòng, B Tài chính và các b, ngành có liên quan theo quy đnh hin hành ca Lut Ngân sách nhà nưc.
+
+<!-- image -->
+
+3. Chi đo cơ quan Hi quan thc hin th tc hi quan, ch đ kim tra, giám sát hi quan đi vi các hot đng nhp khu, xut khu, tm nhp, tái xut, tm xut tái nhp, vn chuyn quá cnh lānh th Vit Nam cht ma túy, tin cht, thuc gây nghin, thuc hưóng thn, thuc tin cht, nguyên liu làm thuc là dưc cht gây nghin, dưc cht hưóng thàn, tin cht dùng làm thuc và thuc thú y có cha cht ma túy, tin cht theo quy đnh ca pháp lut Hi quan d d    bs  d    n  t dien quan đn ma túy ti Ngh đinh này.
+
+## Điu 53. B Y t
+
+Thc hin quy đnh v phi hp kim soát các hot đng hp pháp liên quan đn ma túy ti Ngh đnh này.
+
+## Điu 54. B Công Throng
+
+1. Thc hin chc năng quàn lý nhà nưc vè nghiên cu, kim nghim, sàn ua n    t d   t dn s   n chng ma túy, Lut Hóa cht và quy đnh khác ca pháp lut có liên quan.
+2. Cp, thu hi giy phép các hot đng quy đnh ti khon 2 Điu 19 và thc hin quy đnh vè phi hp kim soát các hot đng hp pháp liên quan đn ma túy ti Ngh đnh này.
+
+## Điu 55. B Nông nghip và Phát trin nông thôn
+
+1. Thc hin chc năng quàn lý nhà nưc v thuc thú y có cha cht ma túy, tièn cht theo quy đnh ca Lut Phòng, chông ma túy, Lut Thú y và các văn bàn quy phm pháp lut có liên quan.
+2. Ban hành danh mc thuc thú y có cha cht ma túy, tin cht và danh mc cht ma túy, tin cht là nguyên liu làm thuc thú y có cha cht ma túy, tin cht.
+3. Cp, thu hi giy phép các hot đng quy đnh ti khon 2 Điu 14, khon 3 Điu 19 và thc hin quy đnh v phi hp kim soát các hot đng hp pháp liên quan đn ma túy ti Ngh đnh này.
+
+## Chuong VI T Ú TH IN
+
+## Điu 56. Kinh phí thc hin
+
+Kkiun u n     u     u  aech phòng, chông ti phm vè ma túy; kim soát các hot đng hop pháp liên quan đn ma túy và quàn lý ngưòi s dng trái phép cht ma túy do ngân sách nhà nuc đm bào, đưc b trí trong d toán chi thưòng xuyên ca các b, cơ quan trung ưong và các đa phưong theo quy đnh ca pháp lut v Ngân sách nhà nưc.
+
+<!-- image -->
+
+## Điu 57. Hiu le thi hành
+
+1. Ngh đnh này có hiu lc thi hành k t ngày 01 tháng 01 năm 2022.
+
+2. Các văn bn sau đây ht hiu lc thi hành k t ngày Ngh đnh này có hiu lc thi hành:
+
+a) Ngh đnh s 80/2001/NĐ-CP ngày 05 tháng 11 năm 2001 cua Chính phú hưóng dn vic kim soát các hot đng hp pháp liên quan đn ma túy trong nuóc;
+
+b) Ngh djnh s 58/2003/NĐ-CP ngày 29 tháng 5 năm 2003 ca Chính phu quy đnh v kim soát nhp khu, xut khu, vn chuyn quá cnh lānh th Vit Nam cht ma túy, tin cht, thuc gây nghin, thuc hưóng thn;
+
+c) Ngh đnh s 45/2009/NĐ-CP ngày 13 tháng 5 năm 2009 ca Chính phù hưóng dn vic nhp khu mu, ly mu, quán lý s dng mu các cht ma túy, tin cht, thuc gây nghin, thuc huóng thn vì mc đích quc phòng, an ninh;
+
+d) Quyt đnh s 133/2002/QĐ-TTg ngày 09 tháng 10 năm 2002 ca Thù tuóng Chính phù ban hành Quy ch phi hp gia lc lưng Công an, B đi Biên phòng, Cành sát bin và Hài quan trong đu tranh phòng, chông các ti phm v ma túy ti đa bàn biên giói, ca khu và trên bin;
+
+d) Quyt đnh s 52/2011/QĐ-TTg ngày 21 tháng 9 năm 2011 ca Thù tuóng Chính phù ban hành Quy ch phi hp kim soát các hot dng hp pháp liên quan dn ma túy.
+
+## Điu 58. Quy đnh chuyn tip
+
+1. H so đ ngh cho phép nghiên cu, sn xut cht ma túy, tin cht và thuc thú y có cha cht ma túy, tin cht đā tip nhn trưc ngày Ngh đnh này có hiu lc thi hành thì tip tc giài quyt theo quy đnh ca Ngh đnh s 80/2001/NĐ-CP ngày 05 tháng 11 năm 2001 ca Chính phu hưóng dn vic kim soát các hot đng hp pháp liên quan đn ma túy  trong nưc ti thòi đim tip nhn, tr trưòng hp cơ quan, t chc, cá nhân đã np h so có yêu cu thc hin theo quy đnh ca Ngh đnh này.
+
+2. H so đ ngh cho phép hot đng nhp khu, xut khu, quá cnh cht ma túy, tin cht, thuc gây nghin, thuc hưóng thn qua lānh th Vit Nam đã tip nhn trưc ngày Ngh đnh này có hiu lc thi hành thì tip tc giài quyt theo quy đnh cua Ngh đinh s 58/2003/NĐ-CP ngày 29 tháng 5 năm 2003 ca Chính phù quy đnh v kim soát nhp khu, xut khu, vn chuyn quá cnh lānh th Vit Nam cht ma túy, tin cht, thuc gây nghin, thuc hưóng thn ti thi đim tip nhn, tr trưòng hp cơ quan, t chc đã np h so có yêu cu thc hin theo quy đnh ca Ngh đnh này.
+
+<!-- image -->
+
+## Điu 59. Trách nhim thi hành
+
+Các B trưng, Thù truòng cơ quan ngang b, Thù trưng co quan thuc Chính phú, Chú tch Úy ban nhân dân các tinh, thành ph trc thuc trung ưong và t chc, cá nhân có liên quan chu trách nhim hưóng dn và thi hành Nghi đinh này.
+
+## Noi nhn:
+
+- Thù tưróng, các Phó Thù tưróng Chính phù;
+- Ban Bí thu Trung uong Đáng;
+- Các b, co quan ngang b, co quan thuc Chinh phù;
+- Văn phòng Trung uong và các Ban cùa Đàng;
+- HĐND, UBND các tinh, thành ph trc thuc trung ưong,
+- Vān phòng Tông Bí thu;
+- Hi đng Dân tc và các y ban ca Quc hi;
+- Văn phòng Chú tjch nuóc;
+- Văn phòng Quc hôi;
+- Vin kim sát nhân dân ti cao;
+- Tòa án nhân dân ti cao;
+- Uy ban Giám sát tài chính Quc gia;
+- Ngân hàng Chính sách xā hi;
+- Kim toán nhà nuc;
+- Ngân hàng Phát trin Vit Nam;
+- Co quan trung ưrong ca các doàn thê;
+- Úy ban trung ưrong Mt trn Tồ quc Vit Nam;
+- VPCP: BTCN, các PCN, Tr ly TTg, TGD Cng TTDT, các V, Cc, đon vj trc thuc, Công báo;
+- Luu: VT, KGVX (2b). 440
+
+<!-- image -->
+
+TM. CHÍNH PHÚ CONG ATHU TUÓNG
+
+Phąm Minh Chính
 
 <!-- image -->
 
 <!-- image -->
 
-|   STT | KYHIEU    | TENBIEUMAU                                                      |
-|-------|-----------|-----------------------------------------------------------------|
-|    1. | Mau so01  | Don de nghi capgiay phepnhapkhau (xuat khau)                    |
-|    2. | Mau so02A | Giayphepnhapkhau(xuatkhau)ban tiengViet                         |
-|    3. | Mau so02B | Giayphep/Import (Export)Licencesnhapkhau(xuat khau)ban tiengAnh |
-|    4. | Mau so03  | Phieuketquaxetnghiemchatma tuy trong co the                     |
-|    5. | Mau so04  | Thongbaovehanhvisirdungtraiphepchatmatuy                        |
-|    6. | Mau so05  | Bantomtatlylichnguoisurdungtraiphepchatma tuy                   |
-|    7. | Mau so06  | Banturongtrinh                                                  |
-|    8. | Mau so07  | Quyetdinhapdungbienphapquanlynguoisurdung trai phepchatmatuy    |
-|    9. | Mau so08  | Thongbaoveviecchuyenho so quanlynguoi surdung traiphepchatmatuy |
-|   10. | Mau s609  | Quyetdinhdingquanlynguoi sir dungtraiphepchat matuy             |
-|   11. | Mau so10  | Quyetdinhcham durtquan lynguroi sir dung trai phep chatma tuy   |
+|   STT | KÝ IU    | TÊN BIÉU MÃU                                                      |
+|-------|----------|-------------------------------------------------------------------|
+|    1. | Mu só 01 | Đon đ ngh cp giy phép nhp khu (xut khu)                           |
+|    2. | Mu s 02A | Giy phép nhp khu (xut khu) bàn ting Vit                           |
+|    3. | Mu s 02B | Giy phép/Import (Export) Licences nhp khu (xut khu) bàn ting Anh  |
+|    4. | Mu s 03  | Phiu kt qu xét nghim cht ma túy trong co th                       |
+|    5. | Mu só 04 | Thông báo v hành vi s dng trái phép cht ma túy                    |
+|    6. | Mu s 05  | Bån tóm tt lý lich ngưòi s dng trái phép cht ma túy               |
+|    7. | Mu só 06 | Bån tuòng trình                                                   |
+|    8. | Mu s 07  | Quyt đnh áp dng bin pháp quàn lý ngưòi s dng trái phép cht ma túy |
+|    9. | Mu s 08  | Thông báo v vic chuyn h so qun lý ngưi s dng trái phép cht ma túy |
+|   10. | Mu só 09 | Quyt đnh dùmng qun lý ngưi s dng trái phép cht ma túy             |
+|   11. | Mu s 10  | Quyt đnh chm dút quán lý ngưi s dng trái phép cht ma túy          |
 
 <!-- image -->
 
-So:.
+Só:....
 
-## DONDENGHICAPGIAYPHEPNHAPKHAU(XUATKHAU).
+## CNG HÒA XÃ HI CHÛ NGHÍA VIT NAM Đc lp - T do - Hąnh phúc
 
-Kinh guri.
+…, ngàythángnhăm
 
-Ten doanh nghiep: QuyetdinhhoacGiayphepthanhlapso: Giaychungnhan dangki kinh doanh so: Do. 1Capngay: Noi dat tru sochinh: So dien thoai: S6Fax: Mathang,nganhnghekinh doanh: Denghi capgiay phepcho nhapkhau(xuatkhau).. 4Muc dich nhapkhau(xuatkhau)
+## DON ĐÈ NGH CÁP GIÁY PHÉP NHP KHÁU (XUÁT KHÅU)
 
-Ten, dja chi noi san xuat 4:
+Kính gi:. 5
 
-|   STT | Ten thuongmai/ Tenhoahoc   | MaCAS   | MaHS   | DVT   | S6 lurong   | Ham lurong   |
-|-------|----------------------------|---------|--------|-------|-------------|--------------|
-|     1 |                            |         |        |       |             |              |
-|     2 |                            |         |        |       |             |              |
+Tên doanh nghip: 2 Quyt đinh hoc Giy phép thành lp s: Giy chng nhn đăng kí kinh doanh s: 1Cp ngày: Do .. Noi đt tr s chính: Sô điên thoi: ..... S Fax: Mt hàng, ngành ngh kinh doanh: Đ nghi cp giy phép cho nhp khu (xut khu) . 4Muc đích nhâp khu (xut khu)6: Tên, đa chi noi sn xut 4:
 
-- -Ten cirakhau lam thu tucnhapkhau(xuat khau):
-- -Phuong tienva dieukienbaodam an toanvanchuyen:
-- -Thoigianva solan thychiennhap(xuat) khau:.
-- -Hosokemtheogom(Cactailieu theoquy dinhtaiDieu20cuaNghidinh s/ND-CPngaythangnam2021ciaChinhphiiquydinhchitietvahrongdan thihanhmotsodieucuaLuatPhong,chongmatiy):
+|   STT | Tên thưrong mi/ Tên hóa hoc   | Mã CAS   | Mã HS   | DVT   | Só lurong   | Hàm lurong   |
+|-------|-------------------------------|----------|---------|-------|-------------|--------------|
+|     1 |                               |          |         |       |             |              |
+|     2 |                               |          |         |       |             |              |
 
-GIAMDOCDOANHNGHIEP
+- Tên ca khu làm thú tc nhp khu (xut khu).
+- Phưong tin và đièu kin bo đám an toàn vn chuyn:.
+- Thi gian và s ln thc hin nhp (xut) khu...
+- H so kèm theo gồm (Các tài liu theo quy đnh ti Điu 20 ca Ngh đnh s/NĐ-CP ngày tháng năm 2021 ca Chinh ph quy đnh chi tit và hưng dn thi hành mt s điu ca Lut Phòng, chng ma ty):
 
-(Kytenva dong dau)
+GIÁM DÓC DOANH NGHIP
 
-1Co quan chuquan(noi cap Quyet djnh thanh lap doanh nghiep).
+(Ký tên và đóng du)
 
-Dja danh noi doanh nghiep dang kyhoat dong.
+Cσ quan chù quàn (noi cp Quyt đjnh thnh lâp doanh nghip).
 
-2Ten doanh nghiep.
+3 Đja danh noi doanh nghip dāng ký hoąt đng.
 
-Chat ma ty,ien chat,thuoc thuycochachatmatuy，tien chat.
+2 Tên doanh nghiêp.
 
-Ca quan capphep thuoc B Cong an,B6CongThuong,BNong nghip vaPhat triennong thon
+Cht ma túy, tin cht, thuc thú y có chưa chát ma túy, tin chát.
 
-Mucdich:udngkinhdoanhnghiencukiemnghimkhaonghimvamu dichkhac（neuchitit）.
+Cσ quan cp phép thuc B Công an, B Công Thưong, B Nông nghip và Phát trin nông thôn.
 
-<!-- image -->
-
-## CONGHOAXAHQICHUNGHIAVIETNAM
-
-Doclap-Tudo-Hanhphuc
-
-## Mau s602A CONGHOAXAHQICHUNGHIAVIETNAM Doclap-Tudo-Hanhphuc
-
-So..../nam/GPNK-tenviettat
-
-HaNoi.ngay...thng....nam
-
-## GIAYPHEPNHAPKHAU(XUATKHAU).
-
-Thu truong.
-
-Can cirLuatPhong,chongma tuyngay30 thang3nam2021;
-
-CancirNghidinh so.../ND-CPngay...thang.. nam2021cuaChinhphuquy dinhchi tietva huongdanthihanh motsodieu cuaLuatPhong,chongma tuy;
-
-Can cur Quyet dinh so... ngay...thang...nam... cua. veviec quy dinh chtrc nang, nhiem vu,quyen han va co cau to churc cua..2
-
-Xet don denghi cap Giay phepnhapkhau(xuatkhau)..tai ho so so ngay...thang...am...cua...
-
-Theo de nghi cua.
-
-## QUYETDINH:
-
-Dieu 1.Congty... tru so tai: dienthoai: so fax... Giayphepkinh doanhso: do....
-
-- 1.Nhapkhau(xuatkhau):
-
-- 2.Muc dichnhapkhau(xuat khau)8
-
-- 3.Cirakhau nhapkhau(xuat khau):
-
-- 4.Phuong tienva dieukienvan chuyen:
-
-- 5.Thoigian thuchiennhapkhau(xuatkhau) dukien
-
-- 6.S6lan thuc hien nhapkhau(xuat khau):
-
-Dieu 2.Cong ty ... c6 trachnhiem thyc hien dung quy dinh cua Luat Phong,chongma tuy；Nghi dinh so.../ND-CPngay...thang...nam2021 cuaChinh phuquy dinh chi tietvahuong danthi hanhmotsodieucuaLuatPhong,chongma tuy va...
-
-Dieu 3.Giay phep nay cogia tri den het ngay...thang...nam...
-
-## Noinhan:
-
-THUTRUONGCOQUANCAPPHEP
-
-- -NhuDieu2;
-
-(Kytenvadong dau)
-
-- -BoCongan 10,
-
-- -BTai chinh (Tong cucHai quan);
-
-- -Chi cuc Hai quan...l.
-
-- -Lru:VT,2
+Muc đich: sù dng, kinh doanh, nghiên círu, kim nghim, khào nghim và me dich khác (nêu chi tit).
 
 <!-- image -->
 
-## Phuluc DANHMUC
+2
 
-(KemtheoGiayphepso...ngay...thang..nam..)
+1
 
-|   STT | Tenthurongmai/ Tenhoahoc   | MaCAS   | MaHS   | DVT   | So lurong   | Ham lurong   |
-|-------|----------------------------|---------|--------|-------|-------------|--------------|
-|     1 |                            |         |        |       |             |              |
-|     2 |                            |         |        |       |             |              |
+2
+
+S:.../năm/GPNK-tên vit tt3
+
+## Mu s 02A CNG HÒA XÃ HI CHU NGHA VIT NAM Đc lâp - T do - Hąnh phúc
+
+S:.../năm/GPNK-tên vit tt3
+
+Hà Ni, ngày....tháng....năm.....
+
+## GIÁY PHÉP NHP KHÅU (XUÁT KHÅU) 4
+
+Thù trưòng.. 2
+
+Căn c Lut Phòng, chng ma túy ngày 30 tháng 3 năm 2021;
+
+Căn c Ngh đnh s.. /NĐ-CP ngày ...tháng... năm 2021 ca Chính ph quy đnh chi tit và hưóng dn thi hành mt s điu ca Lut Phòng, chng ma túy;
+
+Căn c Quyt đinh só... ngà...tháng...năm ... ca ...1 v vic quy đnh chúc năng, nhim v, quyn hn và co cu t chc ca ...2
+
+Xét đon đ ngh cp Giy phép nhp khu (xut kh.. ti h so só..... ngày...tháng...năm... cùa...
+
+Theo đ ngh ca... 6
+
+## QUYÉT DNH:
+
+Đièu 1. Công ty .... r s ti... đin thoi:.. sô fax:... Giy phép kinh doanh s: do:.. .cp ngy.hánym.u phéep:
+
+1. Nhp khu (xut khu).
+
+2. Mc đích nhp khu (xut khu)8:
+
+3. Ca khu nhp khu (xut khu):
+
+4. Phưong tin và điu kin vn chuyn:.
+
+5. Thi gian thc hin nhp khu (xut khu) d kin:.
+
+6. S ln thc hin nhp khu (xut khu):.
+
+Điu2. Công ty ... có trách nhim thc hin đúng quy đnh ca Lut Phòng, chông ma túy; Ngh đinh s.. /NĐ-CP ngày ...tháng... năm 2021 cua Chính phù quy đnh chi tit và hưóng dn thi hành mt s điu cùa Lut Phòng, chng ma túy và ..9
+
+Điu 3. Giy phép này có giá tr đn ht ngày...tháng... năm....
+
+## Noi nhn:
+
+THÚ TRUÓNG CO QUAN CÁP PHÉP ²
+
+- Nhu Diêu 2;
+
+(Ký tên và đóng du)
+
+- B Công an 10.
+
+- B Tài chính (Tông cc Hái quan);
+
+- Chi cc Hái quan...11;1;
+
+- Lunu: VT, 2
 
 <!-- image -->
 
-## SOCIALISTREPUBLICOFVIETNAM
+## Ph lc DANH MUC
 
-Independent-Freedom-Happiness
+(Kèm theo Giy phép só... ngày... tháng... năm...)
 
-Number:/Year/GPNK-abbreviations3
+|   STT | Tên thưong mąi/ Tên hóa hoc   | Mã CAS   | Mã HS   | DVT   | S lurng   | Hàm lurong   |
+|-------|-------------------------------|----------|---------|-------|-----------|--------------|
+|     1 |                               |          |         |       |           |              |
+|     2 |                               |          |         |       |           |              |
 
-HaNoi,dat....month....year
+<!-- image -->
 
-## IMPORT(EXPORT)LICENSE
+## SOCIALIST REPUBLIC OF VIETNAM
 
-Director/Generalof..
+2
 
-PursuanttotheLawonDrugPreventionand ControlofMarch30,2021;
+Independent - Freedom - Happiness
 
-PursuanttotheGovernment‘sDecreeNo./2021/ND-CPof.,2021,detailing andguidingtheimplementation ofanumberofarticlesoftheLawonDrug Preventionand Control
+Number:/Year/GPNK-abbreviations³
 
-Pursuant toDecisionNo...date...month...year...of...on definingfunctions, tasks,powers and organizational structure of..
+Ha Noi, dath......month.....year...
 
-Consider the Application foranImport(Export)License..in the applicationfileNo.. date...month...year...of.. 5
+## IMPORT (EXPORT) LICENSE 4
 
-At theproposal of the...
+Director/General of.. 2
+
+Pursuant to the Law on Drug Prevention and Control of March 30, 2021;
+
+Pursuant to the Government's Decree No./2021/ND-CP of..., 2021, detailing and guiding the implementation of a number of articles of the Law on Drug Prevention and Control
+
+Pursuant to Decision No:... date...month...year... of ... on defining functions, tasks, powers and organizational structure of ...2
+
+Consider the Application for an Import (Export) License.... in the application fle No......ate...month...ear..f.... 5
+
+At the proposal of the....
 
 ## DECISION
 
-Article1.Company.... 7head officeat: telephone... fax number: The business license number: Issuing Office: Issuing dat...mon..ea....alowed..
+Article 1. Company .. 7head office at: ... telephone...fax number: The business license number: Issuing Office: ....Sssuing date....month....year..., allowed:
 
-- 1.Import(Export):.
+1. Import (Export):...
 
-- 2.Purposes:
+2. Purpose8:.
 
-- 3.Import(Export)bordergate:
+3. Import (Export) border gate:
 
-- 4.Meansandconditionsoftransportation:
+4. Means and conditions of transportation:..
 
-- 5.Estimated timeofimport(export):
+5. Estimated time of import (export):...
 
-- 6.Numberoftimesmadeimport(export):
+6. Number of times made import (export):..
 
-.isresponsible for strictly complyingwith the Article2.Company... provisions of theLaw onDrugPrevention and Control;DecreeNo../ND-CP dated...month...2021oftheGovernmentdetailingandguidingtheimplementation ofa number of articlesof theLawonDrugPrevention andControl and..
+Article 2. Company.... is responsible for strictly complying with thehe provisions of the Law on Drug Prevention and Control; Decree No.... /ND-CP dated ...month... 2021 of the Government detailing and guiding the implementation of a number of articles of the Law on Drug Prevention and Control and ....
 
 <!-- image -->
 
-Article 3.Thislicenseisvalid until the end of the day...month...year...
+Article 3. This license is valid until the end of the day...month...year..../.
 
 ## Recipients:
 
-- -Police;
-- -AsArticle 2;
-- -Ministry of Finance(General Department of Customs);
-- -CustomsBranch..,
-- -Archives:office storage,2
+- Police ;
+- As Article 2;
+- Ministry of Finance (General Department of Customs);
+- Archives: office storage,
+- Customs Branch ...;
 
 <!-- image -->
 
-## HEADOFLICENSINGAGENCY2
+## HEAD OF LICENSING AGENCY²
 
-(signedandsealed)
+(signed and sealed)
 
-## Annex
+## Annex LIST OF SUBTANCES
 
-## LISTOFSUBTANCES
+(Enclosed with License No... date... month.....)
 
-（Enclosedwith LicenseNo...date...month...
-
-|   Number | Tradenames/ Chemicalname   | CAS number   | HS number   | Unit   | Quantity   | Content   |
-|----------|----------------------------|--------------|-------------|--------|------------|-----------|
-|        1 |                            |              |             |        |            |           |
-|        2 |                            |              |             |        |            |           |
+|   Number | Tradenames/ Chemical name   | CAS number   | HS number   | Unit   | Quantity   | Content   |
+|----------|-----------------------------|--------------|-------------|--------|------------|-----------|
+|        1 |                             |              |             |        |            |           |
+|        2 |                             |              |             |        |            |           |
 
 <!-- image -->
 
-## CONGHOAXAHQICHUNGHIAVIETNAM Dclap-Trdo-Hanh phuc
+1
 
-3 ngaiy...thcing...nam
+## CNG HÒA XÃ HI CHÚ NGHA VIT NAM Đc lp - T do - Hnh phúc
 
-## PHIEUKETQUA Xetnghiem chat ma tuy trongco the
+2
 
-Tom tatnoi dung suviec:
+...
 
-Déxac dinh hanhvisur dung traiphep chatma tuy, 2thuc hienxetnghiem chatmatuy trongco thedoivoi:
+3 ngày..tháng..ăm
 
-Ho va ten:.
+## PHIÉU KÉT QUÀ Xét nghim cht ma túy trong co th
 
-Gioi tinh:
+Tóm tt ni dung s vic:
 
-Tengoi khac
+Đ xác đnh hành vi s dng trái phép cht ma túy, 2 thc hin xét nghim cht ma túy trong co th đi vi:
 
-Ngay,thang,nam sinh:.....
+H và tên: ....
 
-.Noi sinh:
+Giói tính:.
 
-Quequan:..
+Tên goi khác
 
-Noi thuongtri/tamtru:
+Ngày, tháng, năm sinh.......
 
-Noi ohien tai:
+.....Noi sninh:
 
-S6CMND/CCCD/H6chieu: ngay cap: ..........
+Quê quán: ....
 
-noi
+Noi thưòng trú/tm trú: .
 
-Dantoc:
+Noi  hin ti:
 
-Tongiao:
+S CMND/CCCD/H chiu: ;ngày cáp: //; noi
 
-Trinhdhocvan:
+câp:
 
-Nghe nghiep:
+Dân tc:
 
-Noi lamviec/hoc tap:
+Tôn giáo:
 
-- 1.Nguoi tienhanhxetnghiem: ;chircvu. donvi
+Trinh đ hc vn:
 
-- 2.Bienphap xetnghiem:
+Ngh nghip:.
 
-Cac buoc tienhanh:
+Noi làm vic/hc tâp...
 
-<!-- image -->
+1. Ngưòi tin hành xét nghim:. ; chce v... don vį .
 
-Ket qua:
+2. Bin pháp xét nghim.....
 
-- 3.Cancurvaoketquatren,ketluan:
-
-- [ ] Duongtinhvoichatma tuy trongco the.
-
-- [ ] Am tinh voi chat ma tuy trong co the.
-
-Nguoi tien hanh xet nghiem (Ky,ghirohoten)
-
-THUTRUONGCOQUAN (Ky,ghirohoten,dongdau)
-
-Co quan chu quan.
-
-3Cap xanoi co tru so coquan lap phiu.
-
-2Coquan thrc hienxetnghiem hoaccoquancuianguoi thuchienxetnghiem theokhoan2Dieu22LuatPhong chongma tuy.
-
-4Ten co quan cianguoi tien hanh xet nghiem.
-
-Tennguoi bi xet nghiemchat ma tiy trongco the.
+Các buc tin hành:
 
 <!-- image -->
 
-So.../TB...
+Kt quà:
 
-## CONGHOAXAHQICHUNGHIAVIETNAM Doclap-Tu do-Hanhphuc
+3. Căn c vào kt quà trên, ké luân:
 
-.ngay....thang....nam....
+5.
 
-## THONGBAO Ve hanhvi sirdung trai phepchatma tuy
+- [ ] Dưong tính vi cht ma túy trong co th.
 
-Kinhgui:Chu tich Uyban nhan dan
+- [ ] Âm tính vói cht ma túy trong co th.
 
-thong baovehanh vi sir dungtraiphep chatmatuy cuanguoicoten sauday:
+Ngưòi tin hành xét nghim (Ký, ghi rõ ho tên)
 
-Ho va ten:
+THÚ TRUÓNG CO QUAN² (Ký, ghi rō ho tên, đóng du)
 
-4Gioi tinh:
+1 Co quan chú quàn.
 
-Ten goi khac:
+3 Cáp xā noi có tr s cσ quan lâp phiu.
 
-Ngay,thang,nam sinh...
+2 Co quan thc hin xét nghim hoc co quan cùa ngưi thc hin xét nghim theo khon 2 Điu 22 Lut Phòng, chông ma túy.
 
-...Noi sinh:
+4 Tên co quan cúa nguòi tin hành xét nghim.
 
-Quequan:
-
-Noi thuong tru/tam tru:
-
-Noi hien tai:
-
-S6CMND/CCCD/Hchieu: ngaycap........noi.c...
-
-Dan toc:
-
-Ton giao:.
-
-Trinh dohocvan:
-
-Nghe nghiep:
-
-Noi lamviec/hoctap:
-
-Noidungthongbao:(Ghirhanhvivipham,noithuchienhanhvivipham; ghirocoquantienhanhxetnghiemchatmatiytrongcothe)
-
-Ket quaxet nghiem chatmatuiy trongco the cuia la duong tinh. thongbaodeChu tichUybannhan dan 3biet, thuc hien theo quy dinh./.
-
-## Noinhan:
-
-## THUTRUONGCOQUAN
-
-- -Nhutren:
-
-(Ky,ghirohoten,dong dau)
-
-- -Cong an cap xa..
-
-- -Luu：VT,...
-
-1Ca quan chu quan.
-
-3Noinguoisirdungtraiphepchatmatuycutruhocnoiphathientrong truonghopkhongconoicurtrondinh.
-
-2Coquan guri thongbao.
-
-Nguoi sir dung trai phep chat matuy.
-
-Luatvietnam
-
-Tien ich van ban luat
-
-Anh3x4, dong dau giaplai
-
-## CONGHOAXAHQI CHUNGHIAVIETNAM Doclap-Trdo-Hanhphuc
-
-ngay..thang...nam.
-
-## BANTOMTATLYLICH Nguoisirdungtraiphepchatma tiy
-
-- 1.Hova ten:
-
-- 2.Tengoi khac:
-
-- 3.Gibitinh(Nam/Nit):
-
-- 4.Ngay,thang,nam sinh:
-
-- 5.Quequan....
-
-- 6.Noi thuongtru/tam tru:
-
-- 7.Noi hien tai:
-
-- 8.S6CMND/CCCD:
-
-.noicap:
-
-ngaycap
-
-- 9.Dan toc:
-
-- [ ] Kinh:□
-
-- [ ] Khac:
-
-- 10.Ton giao:
-
-- [ ] C6:□
-
-- [ ] Khong:
-
-- 11.Trinh dovanhoa:
-
-- [ ] +Chua dihoc:
-
-- [ ] +Tieuhoc:
-
-- [ ] +THCS:
-
-- [ ] +THPT:口
-
-- [ ] +Dai hoc,trung cap,cao dang:+Sau dai hoc:
-
-- 12.Quoc tich:
-
-- 13.Ho ten cha:
-
-S6CMND/CCCD. noicap .....ngaycap
-
-- 14.Ho ten me...
-
-S6CMND/CCCD. noicap ....ngaycap
-
-- 15.Nghenghiep;noi lam viec/hoc tap:
-
-- 16.Nhan than:
-
-Ten co quan chu quan.
-
-2Tenco quan lap ban tom tat ly lich.
+Tên ngưòi bj xét nghim cht ma túy trong co th.
 
 <!-- image -->
 
-- +C6 tien an cactoivema tuy:
+1
 
-- +Bixirlyviphamhanhchinhvema tuy:
+2
 
-- +C6tien anve toiphamkhac:
+Só: ../TB-...
 
-- [ ] +Bixurlyviphamhanh chinhkhac:
+## CNG HÒA XÃ HI CHÙ NGHA VIT NAM Đc lp - T do - Hnh phúc
 
-Cacquyetdinh xirphat,ap dungbienphapxir lyhanh chinh do sur dung trai phepchatmatuy,nghienma tuy（so,ngay,thang，coquanbanhanhQuyetdinh, hinhthircxiephat,bienphapxilyhanhchinh)
+……, ngày  tháng … năm
 
-Lan 1:.
+## THÔNG BÁO V hành vi s dng trái phép cht ma túy
 
-Lan2:
+Kính gi: Chú tch y ban nhân dân³.
 
-Lan3:
+2 thông báo v hành vi s dng trái phép cht ma túy ca ngưi có tên sau đây:
 
-- [ ] 17.Co bieu hien loan than(ngao da):Co:
+Ho và tên:
 
-- [ ] Khong:
+4 Giói tính:
 
-18.Thoi diemnguoi sirdung traiphepchatma tuykhai nhanbat dau sur dung traiphepchatma tuy:
+Tên goi khác:.
 
-- 19.Thoi diem biphat hien sur dung traiphepchatma tuylandau tien:
+Ngy,, ............sinh:
 
-- 20.Loaima tuy surdung
+Quê quán:
 
-- [ ] +Thuocphien:
+Noi thưòng trú/tm trú:
 
-- [ ] +Cocain:
+Noi  hin tąi:
 
-- [ ] +Can sa:
+S CMND/CCCD/H chiu:. ngày cp: noi cáp:.
 
-- [ ] +Heroine:
+Dân tc: .
 
-- [ ] +Ketamine:
+Tôn giáo: ...
 
-- [ ] +Amphetamine/Methampheatamine:
+Trinh đ hc vn:
 
-- [ ] +Sr dung nhieu loai ma tuy:
+Ngh nghip:
 
-- +Ma tuykhac:
+Noi làm vic/hc tp:
 
-- 21.Hinh thuc sur dungma tuy.
+Ni dung thông báo: (Ghi rõ hành vi vi phm, noi thc hin hành vi vi phm; ghi rõ co quan tin hành xét nghim cht ma túy trong co th)
 
-- [ ] +Tiem chich:
+Kt qua xét nghim cht ma túy trong cơ th ca . 4 là dưrong tính. 2 thông báo đ Ch tch y ban nhân dân  itt,
 
-- [ ] +Hit:口
+thc hin theo quy đnh./.
 
-- [ ] +Uong:
+## Noi nhn:
 
-- [ ] +Khac:
+## THÚ TRUÓNG CO QUAN
 
-- [ ] +Sur dungnhieuhinh thurc:
+- Như trên;
 
-- 22.Da ting cai nghien:....co/khong).Neu co, solan cai nghien
+(Ký, ghi rõ ho tên, đóng du)
 
-- [ ] +1lan:口
+- Công an cp xã.. 3;
 
-- [ ] +2lan:口
+- Luu: VT, .....
 
-- [ ] +3lan:
+Co quan chù quàn.
 
-- [ ] +Tir4lan trlen:
+3 Noi nguòi sir đung trái phép cht ma ty cu trú hoc noi phát hin trong trưòng hop không có noi cu trú n dinh.
 
-Cuthe(Ghirdiadiem,hinhthirc,thoigianmoi lancainghien;so,ngay thang coquanbanhanhQuyetdinhtrongtruonghopcainghienbatbuoc):
+2 Co quan gri thông báo.
+
+Nguòi s dng trái phép chát ma túy.
+
+LuatVietnam
+
+Tin ích vǎn bàn lut Ånh 3 x 4, đóng du giáp lai
+
+1
+
+## CNG HÒA XÃ HI CH NGHÍA VIT NAM Đc lp - T do - Hnh phúc
+
+2
+
+, ngày …. tháng . năm .
+
+## BÁN TÓM TÁT LÝ LICH Ngưòi s dng trái phép cht ma túy
+
+1. Ho và tên:....
+
+2. Tên goi khác:
+
+3. Giói tính (Nam/Nū):
+
+4. Ngày, tháng, nǎm sinh:
+
+5. Quê quán:....
+
+6. Noi thưòng trú/tm trú:.
+
+7. Noi  hin ti:.
+
+8. S CMND/CCCD:..
+
+noi câp: ngày cp ..
+
+9. Dân tc:
+
+- [ ] Kinh: □
+
+- [ ] Khác: ..
+
+10. Tôn giáo:
+
+- [ ] Có: □
+
+- [ ] Không:
+
+11. Trinh đ văn hóa:
+
+- [ ] + Chua di hc:
+
+- [ ] + Tiu hoc: □
+
+- [ ] + THCS: □
+
+- [ ] + THPT: □
+
+- [ ] + Đi hc, trung cp, cao đng:
+
+- [ ] + Sau đąi hc:
+
+12. Quc tich:
+
+13. H tên cha:
+
+Sę
+
+14. H tên mę:...
+
+S CMND/CCCD....... …… noi câp ……ngày cáp …//
+
+15. Ngh nghip; noi làm vic/hc tp:
+
+16. Nhân thân:
+
+Tên co quan chù quán.
+
+² Tên cσ quan lâp bàn tóm tt lý lich.
 
 <!-- image -->
 
-- 23.Tan suatsurdungma tuy（theongay,tuan,thang)
++ Có tin án các ti v ma túy:
 
-- 24.Lieuluongmatuymoi lansurdung
++ B x lý vi phm hành chính vè ma túy:
 
-- 25.Thong tinlienhe cua nguoi sur dung trai phepchat ma tuyhoacnguoi dai dien:
++ Có tin án v ti phm khác:
 
-So dien thoai:
+- [ ] + Bį x lý vi phm hành chính khác:
 
-Taikhoanmangxahoi(neuco):.
+Các quyt đnh x pht, áp dng bin pháp x lý hành chính do s dng trái phép cht ma túy, nghin ma túy (só, ngày, tháng, cơ quan ban hành Quyt đinh, hình thúc xi pht, bin pháp xi lý hành chinh)
 
-NGUOILAPBANTOMTATLYLICH
+Làn 1:..
 
-THUTRUONGDONVI
+Làn 2:
 
-(Ky,ghirohoten)
+Làn 3:
 
-(Ky,ghirohoten,dongdau)
+- [ ] 17. Có biu hin lon thàn (ngáo đá): Có:
 
-<!-- image -->
+- [ ] Không:
 
-## CONGHOAXAHQICHUNGHIAVIETNAM Doclap-Tudo-Hanhphuc
+18. Thi đim ngưi s dng trái phép cht ma túy khai nhn bt đu s dng trái phép cht ma túy:
 
-.,ngay....thang...nam
+19. Thi đim b phát hin s dng trái phép cht ma túy ln đu tiên:
 
-## BANTUONGTRINH
+20. Loi ma túy s dng
 
-Ho va ten:..
+- [ ] + Thuôc phin:
 
-Gioi tinh:
+- [ ] + Cocain: □
 
-Ten goi khac
+- [ ] + Càn sa: □
 
-Ngay,thang,nam sinh............Noi sinh.
+- [ ] + Heroine: □
 
-Quéquan:
+- [ ] + Amphetamine/Methampheatamine:
 
-Noithuongtru/tamtru:
+- [ ] + Ketamine:
 
-Noiohien tai:
+- [ ] + S dng nhiu loi ma túy:
 
-S6CMND/CCCD/Hchieu:.. ... ngaycap......noicap..
++ Ma túy khác:
 
-Dan toc:...
+21. Hinh thc s dng ma túy.
 
-Ton giao....
+- [ ] + Tiêm chích: □
 
-Trinh dohocvan:
+- [ ] + Hít: □
 
-Nghe nghiep:.
+- [ ] + Uông: □
 
-Noilamviec/hoctap:
+- [ ] + Khác: □
 
-Tuong trinh cu theve hanhvi sur dungma tuy cuia ban than(qua trinh suir dungma tuy，hinh thurc sur dungma tuy,tinh trang sur dungma tuy，lydo su dungma tuy,thoi diemsurdungma tuy lancuoi)...
+- [ ] + S dng nhiu hinh thc:
 
-Daap dungbienphapgiao duc tai xa,phuong,thitran dosirdung traiphp chat ma tuy (ghi ro solan(neu da bi ap dung);（trurong hopkhongbi ap dung thi ghi la:khong):
+22. Đã tng cai nghin:...có/không). Nu có, s ln cai nghin:n
 
-Da cai nghien ma tuy (ghi ro noi cai nghien, so lan (neu da bi ap dung); truonghopkhongbiapdungthighi la:khong):.
+- [ ] + 1 làn: □
 
-NGUOITUONGTRINH (Ky,ghiro ho ten)
+- [ ] + 2 làn: □
 
-<!-- image -->
+- [ ] + 3 làn: □
 
-## Maus607 CONGHOAXAHQICHUNGHIAVIETNAM Doclap-Tudo-Hanhphuc
+- [ ] + Tù 4 ln tr lên:
 
-S....QD--UBND
-
-!,ngaiay...thang...nam...
-
-## QUYETDINH Ap dungbien phapquan lynguroi sir dung trai phepchat ma tiy
-
-CHUTICHUBND
-
-CancitLuatTchircchinhquyendiaphuongngay19thang6nam2015;Luat siadoi,bosungmotsodieuciaLuatTochircChinhphiiva LuatTochitcchinh quyendiaphuongngay22thang11nam2019:
-
-CancitLuatPhong,chongma tiyngay30thang3nam2021;
-
-Can cir Nghi dinh so. ../2021/ND-CPngay...thang..nam2021ciaChinhphi quydinhchitietvahuongdanthihanhmotsodieuciaLuatPhongchongmatiy
-
-XetdenghiciaTruongCongan...
-
-## QUYETDINH:
-
-Dieu 1.Ap dungbien phapquan lynguoisu dung trai phep chatmatyvoi nguoi co ten sau:
-
-Ho va ten:
-
-Gioitinh:
-
-Ten goikhac
-
-Ngay,.thang,nam sinh........Noi sinh
-
-Quequan:..
-
-Noi thuongtru/tamtru:
-
-Noi ohien tai:
-
-SCMND/CCCD/Hchieu:
-
-；ngayc.ap......noicap.
-
-Dan toc:...
-
-Ton giao....
-
-Trinh dhocvan:
-
-Nghenghiep:
-
-Noilamviec/hoctap:
-
-Tom tathanh vi surdung traiphep chat ma tuy
+C th (Ghi rõ đa đim, hình thc, thi gian mi ln cai nghin; s, ngày tháng, cơ quan ban hành Quyt đnh trong trưòng hp cai nghin bt buc):
 
 <!-- image -->
 
-Ket qua xet nghiem durong tinhvoi chat ma tuy trongco thengay...... Thoihanquanlynguroi sur dung traiphepchatmatuy la 01nam,ketirngay.......
+23. Tn sut s đng ma túy (theo ngày, tun, tháng)
 
-Dieu2.Thanh lapToquanlynguoisirdung traiphep chatma tuyvaphancong nhiem vy nhu sau:
+24. Liu lưng ma túy mi ln s dng
 
-- 1-To truong; 1.D/c Congan
+- n   n  s o    t  ine
 
-- Dai dien Thon/Todan pho-Topho; 2.Ong/ba:
+Só din thoi: ...
 
-- 2-Tovien; 3.Ong/ba:
+Tài khon mng x hi (nu có): ...
 
-- 3.-T6vien; 4.Ong/ba:
+NGUÒI LP BÅN TÓM TÅT LÝ LICH (Ký, ghi rõ ho tên)
 
-Dieu3.Trach nhiem thrchienquan lynguoi sir dung trai phep chatma tuy
-
-- 1.Cong an cotrach nhiem:
-
-- a)Duanguoisudungtraiphepchatma tuyvaodanhsachquan ly.
-
-- b)Tochurc thuchienviecxetnghiemchatma tuy trong co thetrong thoi han quanly.
-
-- 2.Toquan lynguoi si dung trai phepchat ma tuy co trachnhiem tuvan,dong vien,giao duc,ho trgnguoibiquan lyco tenneu taiDieu 1 Quyet dinhnay.
-
-- 3.Gia dinhnguoibi quan ly co trach nhiem phoi hop quan ly,dongvien,giao ducvagiupdonguoisirdungtraiphepchatmatuy.
-
-- 4.Nguoisu dungtraiphepchatma tuybiap dungbienphapquanlycotrach nhiem chaphanh yeu cauxetnghiem chatma tuy trong co thecua Congan
-
-- Dieu 4.Quyetdinhnay cohieu lucke tirngayky.
-
-- Dieu 5.Truong Cong an' vanhirngnguoi c6 ten taiDieu 1,Dieu2 chiu trachnhiemthihanh Quyetdinhnay./.
-
-CHUTICH
-
-## Noinhan:
-
-- -Nhu Dieu5;
-
-(Ky,ghirohoten,dong dau)
-
-- -Luu:VT,.
-
-Tenxa/phuong/thi tran noira quyet dinh.
-
-Nguci dai dienchogiadinhnguoisurdung traiphepchatma tuyhoacnguoi couy tin trong dongho
-
-3Dai dien to chuc chinh tri-xa hoi (can cuvao nhan than cua nguoi su dung trai phep chait ma tiy).
-
-4Nhtng thanh vienkhac(neu co).
+THÚ TRUÔNG DON VI (Ký, ghi rõ h tên, đóng du)
 
 <!-- image -->
 
-- -Luu:VT,..
+## CNG HÒA XÃ HI CHÚ NGHÍA VIT NAM Đc lp - T do - Hnh phúc
 
-Mau so08
+…., ngày ….. tháng … năm .
 
-## CONGHOAXAHQICHUNGHIAVIETNAM
+## BÂN TUÒNG TRINH
 
-UYBANNHANDAN...
+Ho và tên:
 
-Doclap-Tudo-Hanhphuc
+Giói tính:.
 
-S:../TB.-.
+Tên goi khác
 
-,ngiay...thang...nam....
+Ngày, tháng, năm sinh:........Noi sinh:
 
-## THONGBAO
+Quê quán:
 
-Veviecchuyen ho soquanlynguoi sir dung trai phepchatma tuy
+Noi thưòng trú/tąm trú:
 
-Kinh giri:Chu tichUBND.
+Noi  hin ti:
 
-ChutichUBND thongbaovoi Chu tichUBND. veviecchuyenho soquan lynguoi sur dung trai phepchatma tuyco ten sau:
+Só CN// h....gà p........i, cáp:
 
-Hova ten..
+Dân tc:
 
-Gioi tinh:
+Tôn giáo:.
 
-Ngay,thang,nam sinh.:........Noi sinh
+Trinh đ hc vn:
 
-Quequan:...
+Ngh nghip:.
 
-Noithuongtru/tamtru:
+Noi làm vic/hc tâp:.
 
-Noiohien tai:
+Tnsn n tn  tn tn na t t  a n n n n n ns dng ma túy, hình thc s dng ma túy, tình trng s dng ma túy, lý do s dng ma túy, thòi đim s dng ma túy ln cui)...
 
-S6CMND/CCCD/Hchieu: .;ngaycap:...... ;noi cap
+Đã áp dng bin pháp giáo dc ti xã, phưòng, th trn do s dng trái phép cht ma túy (ghi rõ s ln (nu đã b áp dng)); (trưòng hp không b áp dng thì ghi là: không):
 
-Dan toc:..
+n de    n n   n    n   n trưòng hp không b áp dng thì ghi là: không).
 
-Ton giao:
-
-.Trinh dohocvan:
-
-Nghe nghiep...
-
-Noilamviec/hoc tap:
-
-Languoi dangtrongthoi hanbiapdungbienphapquanlynguoisirdungtrai phepchatmatuytai 2
-
-hoigianquanl.yt.irngay......denngay.... Noi chuyen den:
-
-Ho soquan ly:co danh muckem theo.
-
-ChutichUBND thongbaode ChutichUBNDtieptucto churcquanlydoivoinguoi sirdungtraiphepchatma tuycotenneu tren/.
-
-## Noinhan:
-
-CHUTICH
-
-- -Nhu tren;
-
-(Ky,ghirohoten,dongdau)
-
-- -Cong an cap xa
-
-- -Cong an cap xa.
-
-ICo quan chu quan.
-
-3Noinguoi dang trong thoi hanquan ly chuyen den.
-
-2Noi dangquan ly nguoisir dung trai phep chatma tiy.
+NGUÒI TUÒNG TRINH (Ký, ghi rõ ho tên)
 
 <!-- image -->
 
-## DANHMUCTAILIEUTRONGHOSOQUANLY
+## Mu s 07 CNG HÒA XÃ HI CHÛ NGHÍA VIT NAM Đc lp - T do - Hnh phúc
 
-|   STT | Ten tailieu   | So,ngay,thang   |
-|-------|---------------|-----------------|
-|     1 |               |                 |
-|     2 |               |                 |
-|     3 |               |                 |
-|     4 |               |                 |
+s: ..../QD-UBND
+
+, ngày  tháng … năm
+
+## QUYÉT DINH Áp dng bin pháp qun lý ngưòi sr dng trái phép cht ma túy
+
+CHÛ TICH UBND
+
+Căn cú Lut T chc chinh quyn đa phưong ngày 19 tháng 6 năm 2015; Lut sa đi, b sung mt s điu ca Lut T chc Chinh ph và Lut T chúc chinh quyn đia phuong ngày 22 tháng 11 năm 2019;
+
+Căn c Lut Phòng, chông ma túy ngày 30 tháng 3 năm 2021;
+
+Căn c Ngh đnh s .../2021/NĐ-CP ngày .. tháng ... năm 2021 ca Chinh ph quy đnh chi tit và hưng dn thi hành mt s điu ca Lut Phòng, chng ma ty;
+
+Xét đ ngh ca Trung Công an .
+
+## QUYÉT DINH:
+
+Điu 1. Áp đng bin pháp qun lý ngưi s đng trái phép cht ma túy vói ngưi có tên sau:
+
+Hę và tên: ...
+
+Giói tính:
+
+Tên goi khác.
+
+Ngày, háng, năm snh: .........Noi sinh:
+
+Quê quán:
+
+Noi thưòng trú/tm trú:
+
+Noi  hin tąi:
+
+S CMND/CCCD/H chiu: ..
+
+;ngày cp:noi cáp:.
+
+Dân tc: ...
+
+Tôn giáo:....
+
+Trinh đ hc ván:.....
+
+Nghè nghiêp: .
+
+Noi làm vic/hoc tâp:
+
+Tóm tt hành vi s dng trái phép cht ma túy:..
 
 <!-- image -->
 
-Mau so09
+Két quà xét nghim dong tính vái chát mya túy trong co th ngày...... Thòi hn qun lý nguòi s dng trái hép chát ma túy là 01 năm, k t ngày......
 
-## CONGHOAXAHQICHUNGHIAVIETNAM
+Điu 2. Thành lp T qun lý ngưi s dng trái phép cht ma túy và phân công nhim v như sau:
+
+- ..1 - T trưng; 1. Đ/c ... .Công an .....
+
+2. Ông/bà: . .- Đi din Thôn/T dân ph - T phó;
+
+- 2- T viên; 3. Ông/bà:
+
+- .3. - T viên; 4. Ông/bà: .
+
+4
+
+Điu 3. Trách nhim thc hin qun lý ngưòi s dng trái phép cht ma túy
+
+1. Công an1 .... có trách nhim:
+
+- a) Đưa ngui s dng trái phép cht ma túy vào danh sách qun lý.
+
+- b) T chc thc hin vic xét nghim cht ma túy trong co th trong thi hn quán lý.
+
+2. T quàn lý ngưi s dng trái phép cht ma túy có trách nhim tưr vn, đng viên, giáo dc, h tr ngưi b qun lý có tên nêu ti Điu 1 Quyt đnh này.
+
+3. Gia đinh ngưi bi qun lý có trách nhim phi hp qun lý, đng viên, giáo dc và giúp đ ngưi s dng trái phép cht ma túy.
+
+4. Ngưi s dng trái phép cht ma túy bi áp dng bin pháp quàn lý có trách nhim cháp hành yêu càu xét nghiêm cht ma túy trong co th cùa Công an
+
+- Điu 4. Quyt đnh này có hiu lc k t ngày ký.
+
+- Đièu 5. Trng Công aà nhng ngui có tên ti iu 1, ièu 2 chju trách nhim thi hành Quyt đnh này./.
+
+H TC
+
+## Noi nhn:
+
+- Nhu Diu 5;
+
+(Ký, ghi rõ ho tên, đóng du)
+
+- Luu: VT, ...
+
+Tên xā/phưòng/th trn noi ra quyt đjnh.
+
+2 Ngui dai din cho gia đinh nguòi s dng trái phép cht ma túy hoc ngưòi có uy tin trong dòng ho.
+
+3 Đąi din t chc chính tri - xā hi (cān c vào nhân thân cùa ngưòi s dng trái phép chát ma túy).
+
+4 Nhưng thành viên khác (néu có).
+
+<!-- image -->
+
+- Luu: VT, ...
+
+Mãu só 08
+
+1
+
+## CNG HÒA XÃ HI CHÙ NGHA VIT NAM Đc lp - T do - Hnh phúc
+
+ÜY BAN NHÂN DÂN...... 2
+
+Só: ../TB-
+
+2, ngà .. tháng .. năm ....
+
+## THÔNG BÁO
+
+V vic chuyn h so' qun lý ngưòi s dng trái phép cht ma túy
+
+Kính gi: Chú tch UBND. 3
+
+Chú tich UBND .2 thông báo vói Ch tch UBND.. 3 v vic chuyn h sơ qun lý ngưi s dng trái phép cht ma túy có tên sau:
+
+Ho và tên:.
+
+Giói tinh:..
+
+Ngày, tháng, năm sinh: .........Noi sinnh:
+
+Quê quán:.
+
+Noi thưòng trú/tąm trú:
+
+Nơi  hin ti: .
+
+Só CND/CCCD/ chiéu. gày c:...i cáp:
+
+Dân tc: ......
+
+Tôn giáo:.
+
+Trinh đ hoc vn:.
+
+Nghè nghip:.
+
+Noi làm vic/hc tâp....
+
+Là ngưòi đang trong thòi hn b áp dng bin pháp quàn lý ngưòi s dng trái phép cht ma túy ti 2
+
+Noi chuyn đn: 3
+
+H sơ quàn lý: có danh mc kèm theo.
+
+...2 thông báo đ Chù tch UBND3 tip tc t Chù tich UBND chc qun lý đi vi ngưòi s dng trái phép cht ma túy có tên nêu trên./.
+
+## Noi nhn:
+
+CHÙ CH
+
+- Nhu trên;
+
+(Ký, ghi rō h tên, đóng đdu)
+
+- Công an cp xã
+
+- Công an cp x ... 3.
+
+Cσ quan chú quán.
+
+3 Noi nguòi dang trong thi han quán lý chuyên đn.
+
+² Noi dang quàn lý nguòi str dung trái phép chát ma túy.
+
+<!-- image -->
+
+## DANH MC TÀI LIU TRONG HÒ SO QUÂN LÝ
+
+|   STT | Tên tài liêu   | Sô, ngày, tháng   |
+|-------|----------------|-------------------|
+|     1 |                |                   |
+|     2 |                |                   |
+|     3 |                |                   |
+|     4 |                |                   |
+
+<!-- image -->
+
+Mu só 09
+
+## CNG HÒA XÃ HI CHÚ NGHÍA VIT NAM Đc lp - T do - Hnh phúc
 
 UBND..
 
-Doclap-Tudo-Hanhphuc
+S: ..../QD-UBND
 
-So..QD--UBND
+.1, ngày .. tháng .. năm ..
 
-,ngay...thaing...nam....
+## QUYÉT DINH Dirng qun lý ngưòi s dng trái phép cht ma túy
 
-## QUYETDINH Dirngquanlynguoi sirdung traiphepchatma tuy
+CH TICH UBND
 
-CHUTICHUBND
+Căn c Lut T chúc chính quyn đa phương ngày 19 tháng 6 năm 2015; Lut sa đi, b sung mt s điu ca Lut T chc Chinh ph và Lut T chúe chinh quyn đa phuong ngày 22 tháng 11 năm 2019;
 
-CancirLuatTochircchinhquyendiaphuongngay19thang6nam2015; LuatsiadoibosungmotsodieuciaLuatTchircChinhphuvaLuatTochitc chinhquyendiaphuongngay22thang11nam2019;
+Căn cú Lut Phòng, chng ma túy ngày 30 tháng 3 năm 2021;
 
-CancirLuatPhong,chongmatiyngay30thang3nam2021;
+Căn cú Ngh đnh s ..../2021/NĐ-CP ngày ... tháng .. năm 2021 ca Chính ph quy đnh chi tit và hưng dn thi hành mt s điu ca Lut Phòng, chông ma túy;
 
-CancitNghidinhso.../2021/ND-CPngay...thang...nam2021cuia ChinhphiquydinhchitietvahuongdanthihanhmotsodieucuiaLuatPhong chongmatiy;
+Căn c Quyt đnh áp đng bin pháp qun lý ngưi s dng trái phép cht ma túy;
 
-CancirQuyetdinhapdungbienphapquanlynguoisirdungtraiphepchat matiy;
+Xét đè ngh ca Trung Công an.
 
-XetdenghiciaTruongCongan
+## QUYÉT ĐINH:
 
-## QUYETDINH:
+Điu 1. Dùmg áp dng bin pháp qun lý ngưòi s dng trái phép cht ma túy vi nguòi có tên sau:
 
-Dieu 1.Dungap dungbienphapquan lynguoi surdung traiphepchat ma tuy voinguoicotensau:
+Ho và tên:
 
-Ho va ten:
+Giói tính:.
 
-Gioi tinh:
+Ngày, háng, năm sinh......Noi sinh:
 
-Ngay,.t.hang,nam sinh.........Noi sinh
+Quê quán: ...
 
-Quequan:
+Noi thưòng trú/tm trú: .
 
-Noi thuongtru/tam tru:
+Noi  hin tąi:
 
-Noi ohien tai:
+S CMND/CCCD/H chiu: ; ngà p:........ . ccá.
 
-S6CMND/CCCD/Hchieu: ;ngaycap:......., noi cap...
+Dân tc: ...
 
-Dan toc:.
+Tôn giáo:
 
-Ton giao:
+Trinh đ hc vn..
 
-Trinh dhocvan:
+Ngh nghiêp: .
 
-Nghe nghiep:
-
-Noi lamviec/hoctap:
+Noi làm vic/hoc tâp:
 
 <!-- image -->
 
-Biquan lytheoQuyet dinh ap dungbienphapquanlynguoisur dung trai phepchatmatuy so.. .QD-UBNDngay.....cuaChu tichUyban nhan dan... 2
+B quàn lý theo Quyt đnh áp dng bin pháp quàn lý ngưòi s dng trái phép cht ma túy s ..../QĐ-UBND ngày...... cúa Ch tch y ban nhân dân ... 2
 
-Theoquy dinh tai diem...khoan5Dieu23LuatPhong,chongma tuy,dirng vilydo: quanlydoivoi
+Theo quy đnh ti đim .... khon 5 Đièu 23 Lut Phòng, chng ma túy, dng vì lý do: quàn lý đi vói ..
 
-- [ ] Ketqua xac dinh tinh trangnghien la co nghien:
+- [ ] Kt quà xác đnh tinh trng nghin là có nghin:
 
-- Bi ap dungbien phapxir lyhanh chinh giao duc tai xa,phuong,thi tran do cohanhvisurdungtraiphepchatmatuytheoQuyetdinhso
+- B áp dng bin pháp x lý hành chính giáo dc ti xã, phưòng, th trn do có hành vi s dng trái phép cht ma túy theo Quyt đnh s .
 
-- Biapdungbienphapxurlyhanh chinh duavao co sogiaoducbatbuoc, duavao truonggiaoduongtheoQuyetdinhso
+- B áp dng bin pháp x lý hành chính đưa vào co s giáo dc bt buc, đua vào trưòng giáo duõng theo Quyt đnh s.
 
-- [ ] Phai thi hanh an phat tu theo Quyetdinh thihanh an phat tu so thi hanhBanan so
+- [ ] Phài thi hành án phát tù theo Quyt đnh thi hành án pht tù só . thi hành Bàn án s ..
 
-- [ ] Chet,bi Toa an tuyenbo la mat tich.
+- [ ] Cht, b Tòa án tuyên b là mt tích.
 
-Dungquan lynguoi sir dung trai phepchatmatuyke tirngay
+Dùng quán lý ngui s dùng trái hé chyát ma túy y t ngà.....
 
-- Dieu 2.Toquanlynguoi sudung traiphepchatma tuy thanhlap theoQuyet dinh so.....giai theketurngayQuyetdinhnaycohieulurc.
+- Điu 2. T qun lý ngưòi s dng trái phép cht ma túy thành lp theo Quyt đnh s ..... gii th k t ngày Quyt đnh này có hiu lc.
 
-- Dieu 3.Quyet dinh nay cohieu luc ke tirngay ky.
+- Điu 3. Quyt đnh này có hiu lc k t ngày ký.
 
-- Dieu 4.Truong Cong an'. va nhung nguoi co ten tai Dieu 1, Dieu2chiutrachnhiem thihanh Quyetdinhnay./.
+- Điu 4. Truòng Công an1.... ….và nhng nguòi có tên tvi Đièu 1 Điu 2 chu trách nhim thi hành Quyt đnh này./.
 
-## CHUTICH
+## H C
 
-## Noinhan:
+## Noi nhn:
 
-- -NhuDicu4;
+- Nhu Điu 4;
 
-(Ky,ghiroho ten,dong dau)
+(Ký, ghi rõ h tên, đóng du)
 
-- -Gia dinh nguoi co ten tai Dieu 1;
+- Gia đinh nguòi có tên tąi Đièu 1;
 
-- -Cac to chrc,canhan c6lien quan;
+- Các t chc, cá nhân có liên quan;
 
-- -Luu:VT,..
+- Luu: VT, ...
 
-ITen xa,phuong,thj tran noira quyet dinhdimg quan ly.
+1 Tên xā, phưòng, thj trn noi ra quyt đjnh dùmg quàn lý.
 
-2Noi ra quyet dinh quan ly.
-
-<!-- image -->
-
-## CONGHOAXAHQICHUNGHIAVIETNAM Doelap-Trdo-Hanhphuc
-
-UBND.
-
-',ngay...thang...nam....
-
-S....QD--UBND
-
-## QUYETDINH Cham dirtquan lynguoi surdung trai phepchatma tuy
-
-## CHUTICHUBND
-
-CancirLuatTchircchinhquyendiaphuongngay19thang6nam2015; Luatsiradoi,bosungmotsodieucuaLuatTochircChinhphivaLuatTochitc chinhquyendiaphuongngay22thaing11nam2019;
-
-CancitLuatPhong,chongmatiyngay30thang3nam2021;
-
-Cancit Nghi dinh so ../2021/ND-CPngay..thang...nam2021cia ChinhphuquydinhchitietvahuongdanthihanhmotsodieuciaLuatPhong chongmatiy;
-
-CancirQuyetdinhapdungbienphapquanlynguoisirdungtraiphepchat matiy;
-
-XetdenghiciaTruongCongan'
-
-## QUYETDINH:
-
-Dieu1.Cham dirt ap dungbien phapquan lynguroi sir dung trai phepchatma tuyvoinguoicotensau:
-
-Ho va ten:...
-
-Gioi tinh:.
-
-Ngay,.thang,nam sinh..........Noi sinh
-
-Que quan:..
-
-Noi thuong tru/tam tru:
-
-Noihien tai:
-
-S6CMND/CCCD/Hchieu: ;ngayc.ap......n.ica..
-
-Dan toc:
-
-Ton giao:
-
-Trinhdohocvan
-
-Nghe nghiep:
-
-Noi lam viec/hoc tap:
-
-Dennaydahetthoi hanquan ly theoQuyet dinh so .ngay .....cua ChutichUybannhandan
+² Noi ra quyt đinh quàn lý.
 
 <!-- image -->
 
-- Dieu 2.Toquan lynguoi surdung trai phepchatma tuy thanhlap theoQuyet dinh so ......giai theke tir ngayQuyet djnhnaycohieu lurc.
-- Dieu3.Quyetdinhnay cohieu lurcketirngayky.
-- Dieu 4.TrurongCong an' vanhingnguoi co ten tai Dieu 1, Dieu2chju trachnhiem thi hanhQuyet dinh nay./.
+## CNG HÒA XÃ HQI CHÚ NGHA VIT NAM Đc lp - T do - Hnh phúc
 
-## Noinhan:
+UBND.....
 
-- -Nhu Dieu 4;
-- -Gia dinh nguoi co ten tai Dieu 1;
-- -Cactochurc,canhan colien quan;
-- -Luu:VT,
+1, ngày .. tháng … năm .
 
-1Ten xa,phuong,thi trannoira quyet dinh ding quan ly.
+Só: ..../QD-U/BND
 
-2Noi ra quyet dinh quanly.
+## QUYÉT DINH Chm dút qun lý ngưròi s dng trái phép cht ma túy
+
+## CHÚ TICH UBND 1
+
+Căn c Lut T chc chính quyn đa phưong ngày 19 tháng 6 năm 2015; Lut sa đi, b sung mt s điu ca Lut T chc Chính ph và Lut T chc chinh quyn đa phưong ngày 22 tháng 11 năm 2019;
+
+Căn c Lut Phòng, chng ma túy ngày 30 tháng 3 năm 2021;
+
+Căn c Ngh đnh s ...../2021/NĐ-CP ngày .. tháng ... năm 2021 ca Chinh ph quy đnh chi tit và hưóng dn thi hành mt s điu ca Lut Phòng, chông ma túy;
+
+Căn c Quyt đnh áp dng bin pháp qun lý ngưi s dng trái phép cht ma túy;
+
+Xét đ ngh ca Trung Công an
+
+## QUYÉT DNH:
+
+Điu 1. Chm dút áp dng bin pháp qun lý ngưòi s dng trái phép cht ma túy vi ngưòi có tên sau:
+
+Ho và tên:
+
+Giói tính:..
+
+Ngày, háng, năm snh:.........Nnoi s.inh:
+
+Quê quán: .
+
+Noi thưòng trú/tąm trú:
+
+Noi  hin tąi:
+
+S CMND/CCCD/H chiu: ngà cp:, noi cáp:.
+
+Dân tc:
+
+Tôn giáo:
+
+Trình đ hc vn:.
+
+Nghè nghiêp: .
+
+Noi làm vic/hc tâp:
+
+Đn nay đā ht thi hn qun lý theo Quyt đnh s . ngày  cúa Ch tch Úy ban nhân dân .. 2
 
 <!-- image -->
 
-## CHUTICH
+- Điu 2. T quàn lý ngưòi s dng trái phép cht ma túy thành lp theo Quyt đnh só .. gii th k t ngày Quyt đnh này có hiu lc.
+- Điu 3. Quyt đnh này có hiu lc k t ngày ký.
+- Điu 4. Trưng Công an và nhng ngưi có tên ti Đièu 1, Điu 2 chu trách nhim thi hành Quyt đnh này./.
 
-(Ky,ghirohoten,dong dau)
+## Noi nhn:
+
+- Gia đinh ngưi có tên ti Điu 1;
+- Nhu Đièu 4;
+- Các t chc, cá nhân có liên quan;
+- Luru: VT, ...
+
+Tên xā, phưòng, thj trán noi ra quyt đjnh dmg quàn lý.
+
+² Noi ra quyt đjnh quán lý.
+
+<!-- image -->
+
+## T
+
+(Ký, ghi rō h tên, đóng du)
